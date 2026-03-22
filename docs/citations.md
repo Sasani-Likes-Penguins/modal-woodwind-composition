@@ -228,3 +228,246 @@ Used for: Telemann Concerto for flute and recorder in E minor.
 **[50]** SoundCy—Woodwind sound description  
 https://soundcy.com/article/what-do-woodwinds-sound-like  
 Retrieved March 2026. Used for: Debussy's *Syrinx* (solo flute) as example of tender lullaby dynamics in woodwind writing.
+
+---
+
+## World Modal Systems—Arabic Maqam
+
+**[51]** Wikipedia—*Maqam*  
+https://en.wikipedia.org/wiki/Maqam  
+Retrieved March 2026. Used for: maqam as "place" or "position"; maqam as melodic framework not just scale; microtonal intervals; general system overview.
+
+**[52]** Maqam World—*Introduction to Arabic Maqam*  
+https://www.maqamworld.com/en/maqam.php  
+Retrieved March 2026. Used for: jins (ajnas) as building blocks; ghammaz as pivot note; emotional associations of major maqamat; "what we have in Middle Eastern music is a range of notes that can be mixed and played in many combinations" quote.
+
+**[53]** Maqam World—*Maqam Bayati*  
+https://www.maqamworld.com/en/maqam/bayati.php  
+Retrieved March 2026. Used for: Bayati description as soulful and yearning; neutral second degree; "vitality, joy, femininity" traditional description; most common maqam.
+
+**[54]** Maqam World—*Maqam Saba*  
+https://www.maqamworld.com/en/maqam/saba.php  
+Retrieved March 2026. Used for: Saba as "unique and unusual both in terms of melodic structure and texture"; saba meaning "yearning"; quartertone on second degree; deepest sadness characterization.
+
+**[55]** Maqam World—*Maqam Hijaz*  
+https://www.maqamworld.com/en/maqam/hijaz.php  
+Retrieved March 2026. Used for: Hijaz description as exotic/distant; augmented second as signature interval; "stereotypic Arabic sound."
+
+**[56]** Wikipedia—*Arabic maqam*  
+https://en.wikipedia.org/wiki/Arabic_maqam  
+Retrieved March 2026. Used for: maqam families; modulation through ghammaz; returning to starting maqam at end of piece.
+
+---
+
+## World Modal Systems—Turkish Makam
+
+**[57]** Wikipedia—*Turkish makam*  
+https://en.wikipedia.org/wiki/Turkish_makam  
+Retrieved March 2026. Used for: makam as "guide to compositional structure"; seyir types (ascending, descending, ascending-descending); 53-koma system overview; "scale is no more than a frozen structure, a skeleton" quote.
+
+**[58]** Arel-Ezgi-Uzdilek system—Turkish Music Theory  
+https://en.wikipedia.org/wiki/Arel-Ezgi-Uzdilek_system  
+Retrieved March 2026. Used for: standard Turkish makam notation; koma intervals; accidental symbols.
+
+**[59]** O'Connell, John Morgan—*Alaturka: Style in Turkish Music*  
+Used for: seyir as melodic direction principle; karar (tonic), güçlü (dominant), giriş (entry note) as three structural notes.
+
+**[60]** Signell, Karl—*Makam: Modal Practice in Turkish Art Music*  
+Used for: asma karar (suspended cadence) concept; makam modulation through çeşni; "such typical modulations cannot be excluded from the broader understanding."
+
+---
+
+## World Modal Systems—Persian Dastgah
+
+**[61]** Wikipedia—*Dastgah*  
+https://en.wikipedia.org/wiki/Dastgah  
+Retrieved March 2026. Used for: dastgah as "system or method"; seven primary dastgahs; koron and sori microtonal accidentals.
+
+**[62]** Farhat, Hormoz—*The Dastgah Concept in Persian Music*  
+Cambridge University Press, 1990. Used for: radif as "collection of many old melodic figures preserved through many generations"; daramad as opening gusheh; Shur as most fundamental mode.
+
+**[63]** Caron, Nelly and Safvate, Dariouche—*Iran: Les traditions musicales*  
+Used for: structure of Persian performance (pishdaramad through reng); dastgah Shur emotional associations (fire, meditation); color associations for each dastgah.
+
+**[64]** During, Jean—*Musique et mystique dans les traditions de l'Iran*  
+Used for: gusheh as melodic fragment; radif journey structure; Persian classical performance architecture.
+
+---
+
+## World Modal Systems—Hindustani Raga
+
+**[65]** Wikipedia—*Raga*  
+https://en.wikipedia.org/wiki/Raga  
+Retrieved March 2026. Used for: raga definition; arohana/avarohana; vadi/samvadi; pakad; samay (time theory); raga as "fusion of technical and ideational ideas."
+
+**[66]** Bhatkande, Vishnu Narayan—*Hindusthani Sangit Paddhati*  
+Classic reference for Hindustani music theory. Used for: swara structure; raga classification; shruti system.
+
+**[67]** Wikipedia—*Navarasa*  
+https://en.wikipedia.org/wiki/Navarasa  
+Retrieved March 2026. Used for: nine rasas of Indian aesthetics; emotional associations of each rasa.
+
+**[68]** Bor, Joep (ed.)—*The Raga Guide*  
+Nimbus Records, 1999. Used for: raga descriptions; time theory (samay); gamaka descriptions; ascent/descent asymmetry examples.
+
+**[69]** Wikipedia—*Alap*  
+https://en.wikipedia.org/wiki/Alap  
+Retrieved March 2026. Used for: alap structure; relationship to jor and jhala; unmetered nature of the alap section.
+
+**[70]** Jairazbhoy, Nazir—*The Ragas of North Indian Music*  
+Used for: raga classification; time theory supporting evidence; vadi/samvadi relationships.
+
+---
+
+## World Modal Systems—Carnatic Melakarta
+
+**[71]** Wikipedia—*Melakarta*  
+https://en.wikipedia.org/wiki/Melakarta  
+Retrieved March 2026. Used for: 72 melakarta parent scales; chakra system; mathematical organization; janya ragas.
+
+**[72]** Wikipedia—*Gamaka (music)*  
+https://en.wikipedia.org/wiki/Gamaka_(music)  
+Retrieved March 2026. Used for: Carnatic gamaka types; "singing a raga entails attention to subtle tonal shades just as embellishments (gamaka) as heard in a proper concert performance" quote; kampita, meend descriptions.
+
+**[73]** Pesch, Ludwig—*The Illustrated Companion to South Indian Classical Music*  
+Oxford University Press, 1999. Used for: gamaka as inseparable from raga identity; vadi/samvadi in Carnatic context; melakarta structure in practice.
+
+---
+
+## World Modal Systems—Pentatonic and Gamelan
+
+**[74]** Wikipedia—*Pentatonic scale*  
+https://en.wikipedia.org/wiki/Pentatonic_scale  
+Retrieved March 2026. Used for: "so well known that I'm sure you could give me examples of it from all corners of the earth" quote; universal occurrence across cultures.
+
+**[75]** Wikipedia—*Slendro*  
+https://en.wikipedia.org/wiki/Slendro  
+Retrieved March 2026. Used for: slendro as five-note roughly equal scale; "light, cheerful atmosphere" description; slendro miring for sadness.
+
+**[76]** Wikipedia—*Pelog*  
+https://en.wikipedia.org/wiki/Pelog  
+Retrieved March 2026. Used for: pelog as seven-note unequal scale; "manly, regal, and sacred" description; three five-note subsets; selisir, tembung, sunaren.
+
+**[77]** Tenzer, Michael—*Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music*  
+University of Chicago Press, 2000. Used for: gamelan as unique spiritual artifact; "each Gamelan has a unique spirit" description; paired instrument tuning for shimmer.
+
+**[78]** Wikipedia—*Chinese music*  
+https://en.wikipedia.org/wiki/Chinese_music  
+Retrieved March 2026. Used for: Wu Sheng five-tone system; Gong/Shang/Jue/Zhi/Yu mode names; cosmological associations.
+
+**[79]** Wikipedia—*Japanese music*  
+https://en.wikipedia.org/wiki/Japanese_music  
+Retrieved March 2026. Used for: In and Yo scales; Hirajoshi scale; shakuhachi connection.
+
+---
+
+## World Modal Systems—Ethiopian, West African, Byzantine, Flamenco, Jewish, Celtic
+
+**[80]** Kebede, Ashenafi—*Roots of Black Music: The Vocal, Instrumental, and Dance Heritage of Africa and Black America*  
+Used for: Ethiopian kiñit system; Tizita, Bati, Ambassel, Anchihoye descriptions; Saint Yared as credited originator; regional distribution.
+
+**[81]** Wikipedia—*Tizita*  
+https://en.wikipedia.org/wiki/Tizita  
+Retrieved March 2026. Used for: Tizita meaning "remembrance"; major and minor forms; emotional associations; Mahmoud Ahmed as "King of Tizita."
+
+**[82]** Wikipedia—*West African music*  
+https://en.wikipedia.org/wiki/West_African_music  
+Retrieved March 2026. Used for: pentatonic dominance; "African musician hears tones and not semitones" concept; descending melodic preference.
+
+**[83]** Wikipedia—*Jeli*  
+https://en.wikipedia.org/wiki/Jeli  
+Retrieved March 2026. Used for: griot/jeli tradition; oral history through music; kumbengo (melodic ostinato) concept; Mande musical practices.
+
+**[84]** Wikipedia—*Byzantine music*  
+https://en.wikipedia.org/wiki/Byzantine_music  
+Retrieved March 2026. Used for: Octoechos system; eight echoi; four genera (diatonic, soft chromatic, hard chromatic, enharmonic); Saint John of Damascus codification; ison drone.
+
+**[85]** Pohlit, Stefan—*Byzantine Music Theory and Notation*  
+Used for: Byzantine comma system; 72-division octave; neume notation system; echoi emotional associations.
+
+**[86]** Wikipedia—*Flamenco*  
+https://en.wikipedia.org/wiki/Flamenco  
+Retrieved March 2026. Used for: palos system; Phrygian as foundational mode; Andalusian cadence; historical roots (Moorish, Jewish, Romani, Byzantine); cante jondo definition; "has preserved the Dorian or Phrygian mode" quote.
+
+**[87]** Wikipedia—*Flamenco music*  
+https://en.wikipedia.org/wiki/Flamenco_music  
+Retrieved March 2026. Used for: falseta definition; bimodal fandango structure; specific palo descriptions (soleá, bulerías, siguiriyas, farruca).
+
+**[88]** Shiloah, Amnon—*Jewish Musical Traditions*  
+Wayne State University Press, 1992. Used for: nusach system; shtayger definitions; "a trained synagogue-attending Ashkenazi" passage; liturgical calendar of modes; Ahavah Rabbah, Magen Avot, Adonai Malakh descriptions.
+
+**[89]** Wikipedia—*Nusach*  
+https://en.wikipedia.org/wiki/Nusach  
+Retrieved March 2026. Used for: nusach meaning "manner/custom"; shtayger (Yiddish) definitions; Ukrainian Dorian (Mi Sheberakh) fourth mode.
+
+**[90]** Wikipedia—*Celtic music*  
+https://en.wikipedia.org/wiki/Celtic_music  
+Retrieved March 2026. Used for: four Celtic modes; Gaelic vs Brythonic distinction; pentatonic as ancient foundation; "modality of the music is innate" quote; Goltraighe/Geantraighe/Suantraighe ancient system.
+
+**[91]** Breathnach, Breandán—*Folk Music and Dances of Ireland*  
+Mercier Press, 1977. Used for: Irish modal distribution statistics (Ionian 60%, Mixolydian 15%); "old Irish scale was pentatonic" passage; bimodal complex tonality.
+
+---
+
+## Ornamentation Sources
+
+**[92]** Donington, Robert—*The Interpretation of Early Music*  
+Faber and Faber, 1963. Used for: Baroque ornament definitions; appoggiatura conventions; trill starting-note practice; messa di voce; passus duriusculus.
+
+**[93]** Neumann, Frederick—*Ornamentation in Baroque and Post-Baroque Music*  
+Princeton University Press, 1978. Used for: Baroque ornament history; French vs Italian traditions; agréments system.
+
+**[94]** Breathnach, Breandán—*Folk Music and Dances of Ireland* (same as [91])  
+Used for: cut, tap, roll, cran, slide definitions for Irish whistle; vibrato technique in Celtic playing.
+
+**[95]** Wikipedia—*Meend*  
+https://en.wikipedia.org/wiki/Meend  
+Retrieved March 2026. Used for: meend as "fundamental ornamental technique in Hindustani music"; types of meend; expressive function.
+
+**[96]** Kaufmann, Walter—*The Ragas of North India*  
+Indiana University Press, 1968. Used for: gamaka types and definitions; andolan, kampita, kan, jaru descriptions; raga performance practice.
+
+---
+
+## Microtonal Theory Sources
+
+**[97]** Wikipedia—*Microtone*  
+https://en.wikipedia.org/wiki/Microtone  
+Retrieved March 2026. Used for: cent as unit of measurement; equal temperament vs just intonation comparison; quarter-tone notation systems.
+
+**[98]** Wikipedia—*Quarter tone*  
+https://en.wikipedia.org/wiki/Quarter_tone  
+Retrieved March 2026. Used for: Arabic 24-quarter-tone system; notation symbols; Arabic and Turkish quarter-tone practice.
+
+**[99]** Wikipedia—*53 equal temperament*  
+https://en.wikipedia.org/wiki/53_equal_temperament  
+Retrieved March 2026. Used for: Turkish 53-koma system; mathematical basis; koma interval values.
+
+**[100]** Wikipedia—*Koron (music)*  
+https://en.wikipedia.org/wiki/Koron_(music)  
+Retrieved March 2026. Used for: koron and sori definitions; Persian notation system; approximate cent values.
+
+**[101]** Wikipedia—*Shruti (music)*  
+https://en.wikipedia.org/wiki/Shruti_(music)  
+Retrieved March 2026. Used for: 22-shruti Indian system; relationship between shrutis and Western intervals; theoretical vs practical use.
+
+---
+
+## Neuroscience and Psychology Sources
+
+**[102]** Salimpoor, V.N., Benovoy, M., Larcher, K., Dagher, A., Zatorre, R.J.—*Anatomically distinct dopamine release during anticipation and experience of peak emotion to music*  
+Nature Neuroscience 14, 257–262, 2011.  
+Used for: two-phase dopamine release (caudate during anticipation, nucleus accumbens at peak); brain structures involved in musical pleasure.
+
+**[103]** Huron, David—*Sweet Anticipation: Music and the Psychology of Expectation*  
+MIT Press, 2006. Used for: prediction engine theory; ITPRA model; surprise vs uncertainty in musical pleasure.
+
+**[104]** Koelsch, Stefan—*Brain and Music*  
+Wiley-Blackwell, 2012. Used for: ERAN and MMN brain responses to musical expectation violation; amygdala response to dissonance; motor system entrainment to rhythm.
+
+**[105]** Thaut, Michael H.—*Rhythm, Music, and the Brain*  
+Routledge, 2005. Used for: motor system involvement in rhythm perception; tempo and heart rate relationship; basal ganglia in rhythmic processing.
+
+**[106]** Levitin, Daniel—*This Is Your Brain on Music*  
+Dutton, 2006. Used for: general neuroscience of musical emotion for non-specialist readers; dopamine and music; prediction and surprise.
+

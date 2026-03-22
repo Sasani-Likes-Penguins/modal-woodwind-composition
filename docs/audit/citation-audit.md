@@ -32,9 +32,9 @@
 **STATUS**: ✅ VERIFIED  
 **NOTE**: Multiple sources confirm Baroque ornamentation was largely improvised by performers, especially in the Italian tradition.
 
-**CLAIM**: Moldavian kaval's gypsy-scale tuning contains semitones giving it an "oriental or Balkan character" [62]  
+**CLAIM**: Moldavian kaval's Hungarian-scale tuning contains semitones giving it an "oriental or Balkan character" [62]  
 **STATUS**: ✅ PLAUSIBLE—NOTE on citation numbering  
-**IMPORTANT**: Citation [62] appears in the reference files but is NOT listed in citations.md (which goes to [50]). This is a gap in citation tracking. The claim about gypsy-scale tuning is consistent with the kaval Wikipedia article [42] and kaval educational sources [44], but the specific citation [62] as listed in reference files does not have a corresponding entry in citations.md. **ACTION**: This claim should be attributed to [42] and [44] only, or citation [62] must be added to citations.md.
+**IMPORTANT**: Citation [62] appears in the reference files but is NOT listed in citations.md (which goes to [50]). This is a gap in citation tracking. The claim about Hungarian-scale tuning is consistent with the kaval Wikipedia article [42] and kaval educational sources [44], but the specific citation [62] as listed in reference files does not have a corresponding entry in citations.md. **ACTION**: This claim should be attributed to [42] and [44] only, or citation [62] must be added to citations.md.
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### Issue 1: Citation numbers [62], [63], [66], [69], [83], [93], [94], [95], [96], [97], [98] appear in reference files but are NOT in citations.md
 **STATUS**: GAP—citations.md was limited to 50 entries. Reference files were written with additional citation numbers (62+) for specificity, but corresponding source entries were not added to citations.md.  
-**ACTION TAKEN**: Claims using citations [62+] are supported by closely related verified sources. All kaval gypsy-scale claims ([62][63]) are consistent with Wikipedia kaval [42] and Robert Snider [44]. Brahms Phrygian claims [98] are consistent with mode history sources [6][20]. Phrygian cadence claims [95][96][97] are consistent with mode theory sources [6][7].  
+**ACTION TAKEN**: Claims using citations [62+] are supported by closely related verified sources. All kaval Hungarian-scale claims ([62][63]) are consistent with Wikipedia kaval [42] and Robert Snider [44]. Brahms Phrygian claims [98] are consistent with mode history sources [6][20]. Phrygian cadence claims [95][96][97] are consistent with mode theory sources [6][7].  
 **RECOMMENDATION**: Treat these as "supported by analogy to verified sources" rather than directly cited. No claims have been fabricated; all are consistent with the verified citation base.
 
 ### Issue 2: "Baroque flute suited to 'tender music'"—Raguenet 1702 quote  

@@ -115,7 +115,7 @@ Each instrument in this collection has natural modal affinities—scales that fa
 
 **Irish Whistles (low D and G)**: The most naturally Phrygian instrument in the collection. E Phrygian on the low D whistle uses completely natural fingering—the characteristic one-up note (F) is the very next hole. A Phrygian on the G whistle is equally natural. The whistle's ornamental vocabulary (cuts, taps, rolls, cranns, slides) is a ready-made expressive language that maps directly onto Phrygian, Dorian, Mixolydian, and Aeolian gestures. Its traditional home is the Irish slow air—a form of meditative, breath-shaped solo melody that is the most direct practical expression of everything this guide teaches. Also excellent for Celtic pentatonic, Mixolydian folk, and Ethiopian Tizita.
 
-**Moldavian Kaval in D**: The most modally versatile instrument in the collection for world music. Its built-in gypsy-influenced scale contains the half-step intervals that make Phrygian, Double Harmonic, Hungarian Minor, and Romani-inflected scales feel natural rather than imposed. The dual-voice technique—partially covering the back fipple window with the lower lip, with or without humming—produces a simultaneous undertone beneath the melody that no other instrument in this collection can replicate. Three full registers give structural material for large-scale dynamic and emotional arcs. Most natural modal territories: D Phrygian, Turkish Hicaz and Uşşak makam, Persian Shur dastgah, Romanian Minor, Double Harmonic, Byzantine modes, and Celtic Dorian.
+**Moldavian Kaval in D**: The most modally versatile instrument in the collection for world music. Its built-in Hungarian-influenced scale contains the half-step intervals that make Phrygian, Double Harmonic, Hungarian Minor, and Romani-inflected scales feel natural rather than imposed. The dual-voice technique—partially covering the back fipple window with the lower lip, with or without humming—produces a simultaneous undertone beneath the melody that no other instrument in this collection can replicate. Three full registers give structural material for large-scale dynamic and emotional arcs. Most natural modal territories: D Phrygian, Turkish Hicaz and Uşşak makam, Persian Shur dastgah, Romanian Minor, Double Harmonic, Byzantine modes, and Celtic Dorian.
 
 ---
 
@@ -203,9 +203,9 @@ Every instrument sounds different in its low, middle, and high registers. These 
 
 **Low register**: intimate, close, personal, often dark or ancient. The Persian ney in its lowest register is described as the sound of the soul breathing. The kaval's lowest notes—especially with the dual-voice technique—sound primordial and vast simultaneously. The low D whistle's lower octave is "haunting and delicate." The bawu's lowest notes are buzzing and harmonically complex. Use the low register for intimacy, for darkness, for beginning.
 
-**Middle register**: expressive, singing, most characteristic. This is where most instruments are most themselves—the recorder's sweet middle range, the kaval's lyrical second register, the bawu's warm clarinet-like upper range, the whistle's most even and singing tones. Most melodic material lives here.
+**Middle register**: expressive, singing, most characteristic. This is where most instruments are most themselves—the recorder's sweet middle range, the kaval's lyrical second register, the bawu's warm, buzzing, harmonically rich range, the whistle's most even and singing tones. Most melodic material lives here.
 
-**High register**: urgent, intense, keening, sometimes harsh. The NAF's overblown second register is more urgent and emotionally exposed than its first. The recorder's upper range is bright and penetrating. The kaval's highest register can be harsh—use it sparingly for peaks of intensity.
+**High register**: urgent, intense, keening, sometimes harsh. The NAF's overblown range (when available—varies by instrument) can produce more intense tones, but is unreliable and should not be planned around. The recorder's upper range is bright and penetrating. The kaval's highest register can be harsh—use it sparingly for peaks of intensity.
 
 **The compositional rule**: the emotional arc of a piece often mirrors the physical arc of pitch. Begin in the low register. Rise through the middle register as the music develops. Reach the high register only at the climax. Then descend back through middle to low for the resolution or acceptance. This arc is structural in Indian alap (which literally begins low and rises over its full duration), in Persian dastgah performance, in Baroque binary form, and in Celtic slow airs.
 
@@ -358,7 +358,7 @@ This section gives a concise entry point for every scale and modal system in the
 
 **Lydian Dominant**: Raised fourth + flat seventh—simultaneously floating (Lydian) and unresolved (Mixolydian). The fourth mode of melodic minor. Suspended awe; cinematic vastness; Scriabin's mystic territory.
 
-**Double Harmonic / Byzantine**: Two augmented second leaps. Called Byzantine scale, Arabic scale, Gypsy major, and Bhairav raga in different traditions—the same pitch collection converged independently across cultures. Ancient, sacred, fierce.
+**Double Harmonic / Byzantine**: Two augmented second leaps. Called Byzantine scale, Arabic scale, Hungarian Major, and Bhairav raga in different traditions—the same pitch collection converged independently across cultures. Ancient, sacred, fierce.
 
 **Hungarian Minor / Algerian**: Harmonic minor with a raised fourth—adding a second augmented second. Romani fire; Liszt and Brahms; passionate dark.
 
