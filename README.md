@@ -5,9 +5,29 @@
 
 ---
 
+## Table of Contents
+
+1. [The Core Idea](#the-core-idea)
+2. [Quick Decision Framework](#quick-decision-framework)
+3. [Instrument Summary](#instrument-summary)
+4. [Mode and Scale Reference](#mode-and-scale-reference)
+   - [Seven Diatonic Modes](#seven-diatonic-modes)
+   - [Extended Western Scales](#extended-western-scales)
+   - [Blues and Bebop Scales](#blues-and-bebop-scales)
+   - [World Modal Systems](#world-modal-systems)
+5. [Full Documentation](#full-documentation)
+   - [Start Here](#start-here)
+   - [Foundational Reference](#foundational-reference)
+   - [Western Modes](#western-modes)
+   - [Western Scales](#western-scales)
+   - [World Modal Systems](#world-modal-systems-1)
+   - [Verification](#verification)
+
+---
+
 ## The Core Idea
 
-Scales are not neutral collections of notes. Each one is a world with its own emotional geography—specific points of tension, specific resting places, specific paths between them. This guide maps those worlds across 43 Western scales and modes, Arabic maqam, Turkish makam, Persian dastgah, Indian raga, Ethiopian kiñit, Gamelan tuning systems, Byzantine modes, flamenco, Jewish liturgical modes, and Celtic traditions.
+Scales are not neutral collections of notes. Each one is a world with its own emotional geography—specific points of tension, specific resting places, specific paths between them. This guide maps those worlds across Western modes, Arabic maqam, Turkish makam, Persian dastgah, Indian raga, Ethiopian kiñit, Gamelan tuning systems, Byzantine modes, flamenco, Jewish liturgical modes, and Celtic traditions.
 
 Every mode has a biological dimension. The half-step above the home note appears more often in human infant crying than any other interval. The tritone activates the amygdala. Slow tempos engage the parasympathetic nervous system. The brain predicts what comes next and responds to surprise with dopamine. These are not metaphors—they are mechanisms. Understanding them makes you a more deliberate composer.
 
@@ -40,134 +60,160 @@ Establish a pattern three times. Then break it at the emotional peak.
 Each instrument has natural modal affinities—scales and traditions it suits best. Match instrument to emotional territory as much as to the scale itself.
 
 - **Recorder**: fully chromatic; the most structurally flexible instrument in the collection; natural home for Baroque, Byzantine, and scored compositional approaches; cross-fingered notes have a slightly veiled tone that suits meditative and grief-affect music; strong in all Western modes and Carnatic-style playing
+
 - **NAF**: five-note pentatonic minor native scale; improvisation from feeling is the core tradition; best for pentatonic world systems (Chinese, Japanese, Celtic, blues), meditative Aeolian and Dorian feels, and any approach where silence and breath carry more weight than harmonic complexity
+
 - **Bawu**: pitch bending and sliding built into its free-reed nature; the most capable instrument for microtonal world systems—Arabic maqam, Turkish makam, Persian dastgah, Hindustani raga, blues; underblown A3 (very quiet, below the main range) for phrase endings of maximum emotional depth
+
 - **Low D whistle**: diatonic in D major; E Phrygian, E Dorian, E Aeolian, and D Mixolydian all use natural fingering; the Irish slow air is its natural form; ornamental vocabulary (cuts, rolls, slides) maps directly onto any minor or modal melody; best for Celtic modes, Phrygian, Dorian, and Ethiopian Tizita
+
 - **G whistle**: same tradition and ornamental vocabulary as low D, pitched a fourth higher; A Phrygian, A Dorian, A Aeolian, and G Mixolydian all natural; brighter tone than low D suits livelier modal material
-- **Kaval**: the most modally versatile instrument for world music; gypsy-influenced built-in scale contains intervals natural to Phrygian, Double Harmonic, Hungarian Minor, and Romani-inflected scales; dual-voice technique (partially covering the back fipple window with the lower lip, intensified by humming) produces a simultaneous undertone unique in this collection; three registers for large-scale dynamic and emotional arcs; native to Turkish makam, Persian dastgah, Romanian folk, Balkan modes, and Byzantine traditions
+
+- **Kaval**: the most modally versatile instrument for world music; built-in scale contains intervals natural to Phrygian, Double Harmonic, Hungarian Minor, and Romani-inflected scales; dual-voice technique (partially covering the back fipple window with the lower lip, intensified by humming) produces a simultaneous undertone unique in this collection; multiple registers for large-scale dynamic and emotional arcs; native to Turkish makam, Persian dastgah, Romanian folk, Balkan modes, and Byzantine traditions
 
 ---
 
-## Complete Mode and Scale Reference
+## Mode and Scale Reference
 
 ### Seven Diatonic Modes
 
-| File | Mode | Key interval | Emotional core |
-|------|------|-------------|---------------|
-| 01 | Phrygian | Half-step above home | Grief, mystery, ancient fire |
-| 01 | Locrian | Half-step above home + tritone fifth | Perpetual unease; no stable home |
-| 11 | Dorian | Raised sixth in minor | Minor with lift; resilient darkness |
-| 12 | Lydian | Raised fourth in major | Floating, dreamlike brightness |
-| 13 | Mixolydian | Flat seventh in major | Folk major; open, unresolved |
-| 14 | Aeolian (Natural Minor) | Three lowered degrees | Resigned sadness, introspection |
-| 31 | Ionian (Major) | Natural—no tensions | Bright, resolved, confident |
+| Mode | Key interval | Emotional core | Document |
+|------|-------------|----------------|---------|
+| [Ionian (Major)](docs/reference/mode-ionian.md) | Natural—no tensions | Bright, resolved, confident | [mode-ionian.md](docs/reference/mode-ionian.md) |
+| [Dorian](docs/reference/mode-dorian.md) | Raised sixth in minor | Minor with lift; resilient darkness | [mode-dorian.md](docs/reference/mode-dorian.md) |
+| [Phrygian](docs/reference/mode-phrygian.md) | Half-step above home | Grief, mystery, ancient fire | [mode-phrygian.md](docs/reference/mode-phrygian.md) |
+| [Lydian](docs/reference/mode-lydian.md) | Raised fourth in major | Floating, dreamlike brightness | [mode-lydian.md](docs/reference/mode-lydian.md) |
+| [Mixolydian](docs/reference/mode-mixolydian.md) | Flat seventh in major | Folk major; open, unresolved | [mode-mixolydian.md](docs/reference/mode-mixolydian.md) |
+| [Aeolian (Natural Minor)](docs/reference/mode-aeolian.md) | Three lowered degrees | Resigned sadness, introspection | [mode-aeolian.md](docs/reference/mode-aeolian.md) |
+| [Locrian](docs/reference/mode-locrian.md) | Half-step above home + tritone fifth | Perpetual unease; no stable home | [mode-locrian.md](docs/reference/mode-locrian.md) |
 
 ### Extended Western Scales
 
-| File | Scale | Key feature | Emotional core |
-|------|-------|-------------|---------------|
-| 15 | Lydian Dominant | Raised 4th + flat 7th | Suspended awe; cinematic vastness |
-| 16 | Double Harmonic / Byzantine | Two augmented seconds | Ancient, sacred, fierce |
-| 17 | Hungarian Minor / Algerian | Augmented 2nd (♭3→♯4) | Romani fire; passionate dark |
-| 31 | Hungarian Major | Augmented 2nd (root→♯2) | Dramatic, bright-exotic |
-| 31 | Enigmatic | All unusual intervals | Genuinely disorienting |
-| 31 | Lydian Minor | Raised 4th + flat 6 and 7 | Floating yet melancholic |
-| 31 | Neapolitan Minor | Phrygian + leading tone | Darkly urgent, two pulls toward home |
-| 31 | Neapolitan Major | Phrygian open + bright upper | Bittersweet complexity |
-| 31 | Romanian Minor | Dorian + raised 4th | Folk-earthy, slightly exotic |
-| 31 | Spanish Heptatonic | Phrygian Dominant | See files 28 and 29 for full treatment |
-| 31 | Harmonic Minor | Raised seventh + augmented 2nd | Classical drama; urgent resolution |
-| 31 | Melodic Minor | Raised 6th and 7th ascending | Hope ascending, shadow descending |
-| 31 | Super Locrian (Altered) | All degrees lowered | Maximum jazz tension |
-| 31 | Minor Hexatonic | Minor pentatonic + major 2nd | Minor but airy |
-| 31 | Prometheus | Raised 4th + flat 7th (6-note) | Cosmic, mystical suspension |
-| 31 | Leading Whole Tone | Near whole-tone + leading tone | Dream that remembers it must end |
-| 31 | Six-Tone Symmetrical (Whole-Tone) | All whole steps | Total ambiguity; no gravity |
-| 31 | Nine-Tone (Nonatonic) | Chromatic blues collection | Saturated, improvisational |
+| Scale | Key feature | Emotional core | Document |
+|-------|-------------|----------------|---------|
+| [Harmonic Minor](docs/reference/scale-harmonic-minor.md) | Raised seventh + augmented 2nd | Classical drama; urgent resolution | [scale-harmonic-minor.md](docs/reference/scale-harmonic-minor.md) |
+| [Melodic Minor](docs/reference/scale-melodic-minor.md) | Raised 6th and 7th ascending | Hope ascending, shadow descending | [scale-melodic-minor.md](docs/reference/scale-melodic-minor.md) |
+| [Lydian Dominant](docs/reference/scale-lydian-dominant.md) | Raised 4th + flat 7th | Suspended awe; cinematic vastness | [scale-lydian-dominant.md](docs/reference/scale-lydian-dominant.md) |
+| [Double Harmonic](docs/reference/scale-double-harmonic.md) | Two augmented seconds | Ancient, sacred, fierce | [scale-double-harmonic.md](docs/reference/scale-double-harmonic.md) |
+| [Hungarian Minor](docs/reference/scale-hungarian-minor.md) | Augmented 2nd (♭3→♯4) | Romani fire; passionate dark | [scale-hungarian-minor.md](docs/reference/scale-hungarian-minor.md) |
+| [Hungarian Major](docs/reference/scale-hungarian-major.md) | Augmented 2nd (root→♯2) | Dramatic, bright-exotic | [scale-hungarian-major.md](docs/reference/scale-hungarian-major.md) |
+| [Enigmatic](docs/reference/scale-enigmatic.md) | All unusual intervals | Genuinely disorienting | [scale-enigmatic.md](docs/reference/scale-enigmatic.md) |
+| [Lydian Minor](docs/reference/scale-lydian-minor.md) | Raised 4th + flat 6 and 7 | Floating yet melancholic | [scale-lydian-minor.md](docs/reference/scale-lydian-minor.md) |
+| [Neapolitan Minor](docs/reference/scale-neapolitan-minor.md) | Phrygian + leading tone | Darkly urgent; two pulls toward home | [scale-neapolitan-minor.md](docs/reference/scale-neapolitan-minor.md) |
+| [Neapolitan Major](docs/reference/scale-neapolitan-major.md) | Phrygian open + bright upper | Bittersweet complexity | [scale-neapolitan-major.md](docs/reference/scale-neapolitan-major.md) |
+| [Romanian Minor](docs/reference/scale-romanian-minor.md) | Dorian + raised 4th | Folk-earthy, slightly exotic | [scale-romanian-minor.md](docs/reference/scale-romanian-minor.md) |
+| [Spanish Heptatonic](docs/reference/scale-spanish-heptatonic.md) | Phrygian Dominant | See also: Flamenco, Jewish Nusach | [scale-spanish-heptatonic.md](docs/reference/scale-spanish-heptatonic.md) |
+| [Super Locrian (Altered)](docs/reference/scale-super-locrian.md) | All degrees lowered | Maximum jazz tension | [scale-super-locrian.md](docs/reference/scale-super-locrian.md) |
+| [Minor Hexatonic](docs/reference/scale-minor-hexatonic.md) | Minor pentatonic + major 2nd | Minor but airy | [scale-minor-hexatonic.md](docs/reference/scale-minor-hexatonic.md) |
+| [Prometheus](docs/reference/scale-prometheus.md) | Raised 4th + flat 7th (6-note) | Cosmic, mystical suspension | [scale-prometheus.md](docs/reference/scale-prometheus.md) |
+| [Leading Whole Tone](docs/reference/scale-leading-whole-tone.md) | Near whole-tone + leading tone | Dream that remembers it must end | [scale-leading-whole-tone.md](docs/reference/scale-leading-whole-tone.md) |
+| [Whole-Tone](docs/reference/scale-whole-tone.md) | All whole steps | Total ambiguity; no gravity | [scale-whole-tone.md](docs/reference/scale-whole-tone.md) |
+| [Nine-Tone (Nonatonic)](docs/reference/scale-nine-tone.md) | Chromatic blues collection | Saturated, improvisational | [scale-nine-tone.md](docs/reference/scale-nine-tone.md) |
 
 ### Blues and Bebop Scales
 
-| File | Scale | Key feature | Emotional core |
-|------|-------|-------------|---------------|
-| 31 | Minor Blues | Pentatonic minor + blue note (♭5) | Longing, searching, bittersweet |
-| 31 | Major Blues | Major pentatonic + flat third passing | Soulful, warm, grained brightness |
-| 31 | Bebop Dominant | Mixolydian + natural 7th passing | Swinging jazz confidence |
-| 31 | Bebop Major | Major + flat 6th passing | Bright jazz fluency |
-| 31 | Bebop Minor (Dorian) | Dorian + major 3rd passing | Minor jazz sophistication |
-| 31 | Bebop Half-Diminished | Half-dim + chromatic passing | Tense jazz resolution |
+| Scale | Key feature | Emotional core | Document |
+|-------|-------------|----------------|---------|
+| [Minor Blues](docs/reference/scale-blues.md) | Pentatonic minor + blue note (♭5) | Longing, searching, bittersweet | [scale-blues.md](docs/reference/scale-blues.md) |
+| [Major Blues](docs/reference/scale-blues.md) | Major pentatonic + flat third passing | Soulful, warm, grained brightness | [scale-blues.md](docs/reference/scale-blues.md) |
+| [Bebop Dominant](docs/reference/scale-bebop.md) | Mixolydian + natural 7th passing | Swinging jazz confidence | [scale-bebop.md](docs/reference/scale-bebop.md) |
+| [Bebop Major](docs/reference/scale-bebop.md) | Major + flat 6th passing | Bright jazz fluency | [scale-bebop.md](docs/reference/scale-bebop.md) |
+| [Bebop Minor (Dorian)](docs/reference/scale-bebop.md) | Dorian + major 3rd passing | Minor jazz sophistication | [scale-bebop.md](docs/reference/scale-bebop.md) |
+| [Bebop Half-Diminished](docs/reference/scale-bebop.md) | Half-dim + chromatic passing | Tense jazz resolution | [scale-bebop.md](docs/reference/scale-bebop.md) |
 
 ### World Modal Systems
 
-| File | System | Origin | Key feature |
-|------|--------|--------|-------------|
-| 18 | Arabic Maqam | Middle East | Jins cells; microtones; pivot modulation |
-| 19 | Turkish Makam | Turkey | Seyir (required melodic direction); 53-comma system |
-| 20 | Persian Dastgah | Iran | Gusheh fragments; radif; koron/sori microtones |
-| 21 | Hindustani Raga | North India | Rasa (9 emotions); time theory; alap; gamaka |
-| 22 | Carnatic Melakarta | South India | 72 parent scales; gamaka as inseparable from raga |
-| 23 | World Pentatonic | Global | Chinese, Japanese, Celtic, blues five-note systems |
-| 24 | Gamelan: Pelog & Slendro | Java/Bali | Non-Western tuning; cyclic form; shimmer |
-| 25 | Ethiopian Kiñit | Ethiopia | Tizita, Bati, Ambassel, Anchihoye |
-| 26 | West African Pentatonic | West Africa | Griot tradition; descending melody; blues ancestry |
-| 27 | Byzantine Octoechos | Orthodox Christianity | Eight echoi; four genera; connection to maqam |
-| 28 | Flamenco Modal System | Andalusia | Phrygian Dominant; Andalusian cadence; bimodal |
-| 29 | Jewish Nusach & Shtayger | Synagogue | Ahavah Rabbah, Magen Avot, Adonai Malakh |
-| 30 | Celtic Modal Traditions | Ireland/Scotland/Wales/Brittany | Four modes; ancient pentatonic roots |
+| System | Origin | Key concept | Document |
+|--------|--------|-------------|---------|
+| [Arabic Maqam](docs/reference/world-arabic-maqam.md) | Middle East | Jins cells; microtones; pivot modulation | [world-arabic-maqam.md](docs/reference/world-arabic-maqam.md) |
+| [Turkish Makam](docs/reference/world-turkish-makam.md) | Turkey | Seyir (required melodic direction); 53-koma system | [world-turkish-makam.md](docs/reference/world-turkish-makam.md) |
+| [Persian Dastgah](docs/reference/world-persian-dastgah.md) | Iran | Gusheh fragments; radif; koron/sori microtones | [world-persian-dastgah.md](docs/reference/world-persian-dastgah.md) |
+| [Hindustani Raga](docs/reference/world-hindustani-raga.md) | North India | Rasa (9 emotions); time theory; alap; gamaka | [world-hindustani-raga.md](docs/reference/world-hindustani-raga.md) |
+| [Carnatic Melakarta](docs/reference/world-carnatic-melakarta.md) | South India | 72 parent scales; gamaka as inseparable from raga | [world-carnatic-melakarta.md](docs/reference/world-carnatic-melakarta.md) |
+| [World Pentatonic Systems](docs/reference/world-pentatonic-systems.md) | Global | Chinese, Japanese, Celtic, blues five-note systems | [world-pentatonic-systems.md](docs/reference/world-pentatonic-systems.md) |
+| [Gamelan: Pelog & Slendro](docs/reference/world-gamelan.md) | Java/Bali | Non-Western tuning; cyclic form; shimmer | [world-gamelan.md](docs/reference/world-gamelan.md) |
+| [Ethiopian Kiñit](docs/reference/world-ethiopian-kinit.md) | Ethiopia | Tizita, Bati, Ambassel, Anchihoye | [world-ethiopian-kinit.md](docs/reference/world-ethiopian-kinit.md) |
+| [West African Music](docs/reference/world-west-african.md) | West Africa | Griot tradition; descending melody; blues ancestry | [world-west-african.md](docs/reference/world-west-african.md) |
+| [Byzantine Modes](docs/reference/world-byzantine-modes.md) | Orthodox Christianity | Eight echoi; four genera; connection to maqam | [world-byzantine-modes.md](docs/reference/world-byzantine-modes.md) |
+| [Flamenco](docs/reference/world-flamenco.md) | Andalusia | Phrygian Dominant; Andalusian cadence; bimodal | [world-flamenco.md](docs/reference/world-flamenco.md) |
+| [Jewish Nusach](docs/reference/world-jewish-nusach.md) | Synagogue | Ahavah Rabbah, Magen Avot, Adonai Malakh | [world-jewish-nusach.md](docs/reference/world-jewish-nusach.md) |
+| [Celtic Modes](docs/reference/world-celtic-modes.md) | Ireland/Scotland/Wales/Brittany | Four modes; ancient pentatonic roots | [world-celtic-modes.md](docs/reference/world-celtic-modes.md) |
 
 ---
 
 ## Full Documentation
 
 ### Start Here
+
 - [Full Composition Guide](docs/full-guide.md)—the complete guide; read this first
-- [README](README.md)—this file; quick reference
+- [Glossary](docs/glossary.md)—definitions of all technical terms and non-English words used throughout the repository
 
-### Foundational Reference (files 01–10)
-- [01—Phrygian & Locrian Theory](docs/reference/01-mode-theory.md)
-- [02—Emotional Affect Map](docs/reference/02-emotional-affect.md)
-- [03—Baroque Techniques](docs/reference/03-baroque-techniques.md)
-- [04—Non-Baroque Styles](docs/reference/04-other-styles.md)
-- [05—Human Not Mechanical](docs/reference/05-human-not-mechanical.md)
-- [06—Unpredictability & Structure](docs/reference/06-unpredictability.md)
-- [07—Instrument Capabilities](docs/reference/07-instrument-capabilities.md)
-- [08—Repertoire to Study](docs/reference/08-repertoire-examples.md)
-- [09—Brain Biology & Psychology](docs/reference/09-brain-biology-psychology.md)
-- [10—Composing in Imitation](docs/reference/10-composing-in-imitation.md)
+### Foundational Reference
 
-### Western Diatonic Modes (files 11–14)
-- [11—Dorian](docs/reference/11-dorian.md)
-- [12—Lydian](docs/reference/12-lydian.md)
-- [13—Mixolydian](docs/reference/13-mixolydian.md)
-- [14—Aeolian / Natural Minor](docs/reference/14-aeolian.md)
+- [Modal Theory Introduction](docs/reference/modal-theory-introduction.md)—what modes are, how they are built, and how they feel
+- [Emotional Affect](docs/reference/emotional-affect.md)—how intervals affect the brain and body; interval-by-emotion mapping
+- [Baroque Techniques](docs/reference/baroque-techniques.md)—Doctrine of Affections, ornament vocabulary, phrase rhetoric, form
+- [Non-Baroque Styles](docs/reference/non-baroque-styles.md)—Impressionism, Romantic, flamenco, Middle Eastern, folk
+- [Expressive Playing](docs/reference/expressive-playing.md)—breath, dynamic arc, rubato, articulation, register as color
+- [Structure and Surprise](docs/reference/structure-and-surprise.md)—seed phrase development, phrase irregularity, the rule of familiar surprise
+- [Instrument Capabilities](docs/reference/instrument-capabilities.md)—per-instrument range, ornamentation, and idiomatic details
+- [Ornamentation Guide](docs/reference/ornamentation-guide.md)—every ornament type across all traditions, per instrument
+- [Microtonal Notation and Theory](docs/reference/microtonal-notation-and-theory.md)—cents, koron/sori, Turkish koma, Indian shruti, production per instrument
+- [Brain Biology and Psychology](docs/reference/brain-biology-psychology.md)—neuroscience of musical emotion, dopamine, prediction, rhythm, silence
+- [Composing in Imitation](docs/reference/composing-in-imitation.md)—Palestrina, Bach, Brahms, Debussy, Pärt, Chaurasia, Erguner, Nusrat, Umm Kulthum, Bartók, Evans, and folk traditions; exercises per composer
+- [Repertoire and Listening](docs/reference/repertoire-and-listening.md)—specific pieces and recordings to study
 
-### Extended Western Scales (files 15–17, 31–43)
-- [15–17—Lydian Dominant, Double Harmonic/Byzantine, Hungarian Minor](docs/reference/15-17-lydian-dominant-double-harmonic-hungarian-minor.md)
-- [31–43—All remaining Western scales](docs/reference/31-43-remaining-western-scales.md): Ionian, Harmonic Minor, Melodic Minor, Hungarian Major, Enigmatic, Lydian Minor, Neapolitan Minor/Major, Romanian Minor, Spanish Heptatonic, Super Locrian, Minor Hexatonic, Prometheus, Leading Whole Tone, Whole-Tone, Nine-Tone, Minor Blues, Major Blues, all four Bebop scales
+### Western Modes
 
-### World Modal Systems (files 18–30)
-- [18—Arabic Maqam](docs/reference/18-maqam-arabic.md)
-- [19—Turkish Makam](docs/reference/19-makam-turkish.md)
-- [20—Persian Dastgah](docs/reference/20-dastgah-persian.md)
-- [21—Hindustani Raga](docs/reference/21-raga-hindustani.md)
-- [22—Carnatic Melakarta](docs/reference/22-raga-carnatic.md)
-- [23—World Pentatonic Systems](docs/reference/23-pentatonic-world.md)
-- [24—Gamelan: Pelog & Slendro](docs/reference/24-gamelan-pelog-slendro.md)
-- [25—Ethiopian Kiñit](docs/reference/25-ethiopian-modes.md)
-- [26—West African Pentatonic](docs/reference/26-west-african-pentatonic.md)
-- [27—Byzantine Ecclesiastical Modes](docs/reference/27-byzantine-ecclesiastical.md)
-- [28—Flamenco Modal System](docs/reference/28-flamenco-modal.md)
-- [29—Jewish Nusach & Shtayger](docs/reference/29-jewish-modal.md)
-- [30—Celtic Modal Traditions](docs/reference/30-celtic-modal.md)
+- [Ionian (Major)](docs/reference/mode-ionian.md)
+- [Dorian](docs/reference/mode-dorian.md)
+- [Phrygian](docs/reference/mode-phrygian.md)
+- [Lydian](docs/reference/mode-lydian.md)
+- [Mixolydian](docs/reference/mode-mixolydian.md)
+- [Aeolian (Natural Minor)](docs/reference/mode-aeolian.md)
+- [Locrian](docs/reference/mode-locrian.md)
+
+### Western Scales
+
+- [Harmonic Minor](docs/reference/scale-harmonic-minor.md)
+- [Melodic Minor](docs/reference/scale-melodic-minor.md)
+- [Lydian Dominant](docs/reference/scale-lydian-dominant.md)
+- [Double Harmonic](docs/reference/scale-double-harmonic.md)
+- [Hungarian Minor](docs/reference/scale-hungarian-minor.md)
+- [Hungarian Major](docs/reference/scale-hungarian-major.md)
+- [Enigmatic](docs/reference/scale-enigmatic.md)
+- [Lydian Minor](docs/reference/scale-lydian-minor.md)
+- [Neapolitan Minor](docs/reference/scale-neapolitan-minor.md)
+- [Neapolitan Major](docs/reference/scale-neapolitan-major.md)
+- [Romanian Minor](docs/reference/scale-romanian-minor.md)
+- [Spanish Heptatonic](docs/reference/scale-spanish-heptatonic.md)
+- [Super Locrian (Altered)](docs/reference/scale-super-locrian.md)
+- [Minor Hexatonic](docs/reference/scale-minor-hexatonic.md)
+- [Prometheus](docs/reference/scale-prometheus.md)
+- [Leading Whole Tone](docs/reference/scale-leading-whole-tone.md)
+- [Whole-Tone](docs/reference/scale-whole-tone.md)
+- [Nine-Tone (Nonatonic)](docs/reference/scale-nine-tone.md)
+- [Blues Scales (Minor and Major)](docs/reference/scale-blues.md)
+- [Bebop Scales (Dominant, Major, Minor, Half-Diminished)](docs/reference/scale-bebop.md)
+
+### World Modal Systems
+
+- [Arabic Maqam](docs/reference/world-arabic-maqam.md)
+- [Turkish Makam](docs/reference/world-turkish-makam.md)
+- [Persian Dastgah](docs/reference/world-persian-dastgah.md)
+- [Hindustani Raga](docs/reference/world-hindustani-raga.md)
+- [Carnatic Melakarta](docs/reference/world-carnatic-melakarta.md)
+- [World Pentatonic Systems](docs/reference/world-pentatonic-systems.md)
+- [Gamelan: Pelog and Slendro](docs/reference/world-gamelan.md)
+- [Ethiopian Kiñit](docs/reference/world-ethiopian-kinit.md)
+- [West African Music](docs/reference/world-west-african.md)
+- [Byzantine Modes](docs/reference/world-byzantine-modes.md)
+- [Flamenco](docs/reference/world-flamenco.md)
+- [Jewish Nusach](docs/reference/world-jewish-nusach.md)
+- [Celtic Modes](docs/reference/world-celtic-modes.md)
 
 ### Verification
-- [All Citations](docs/citations.md)
+
+- [Citations](docs/citations.md)—106 sources, all visited in-session
 - [Citation Audit](docs/audit/citation-audit.md)
 - [Consistency Review](docs/audit/consistency-review.md)
-
----
-
-## Repository
-
-**Name**: `the-half-step-above-home`
-
-**Description**: *A cited guide to the emotional geography of scales—composing expressive, human-sounding music across Western modes, world modal systems, and exotic scales for solo wind instruments. Currently covers recorder, kaval, NAF, bawu, and Irish whistle; additional instruments and modal systems in progress.*
