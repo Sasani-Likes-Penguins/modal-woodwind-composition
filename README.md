@@ -77,67 +77,67 @@ Each instrument has natural modal affinities—scales and traditions it suits be
 
 ### Seven Diatonic Modes
 
-| Mode | Key interval | Emotional core | Document |
-|------|-------------|----------------|---------|
-| [Ionian (Major)](docs/reference/mode-ionian.md) | Natural—no tensions | Bright, resolved, confident | [mode-ionian.md](docs/reference/mode-ionian.md) |
-| [Dorian](docs/reference/mode-dorian.md) | Raised sixth in minor | Minor with lift; resilient darkness | [mode-dorian.md](docs/reference/mode-dorian.md) |
-| [Phrygian](docs/reference/mode-phrygian.md) | Half-step above home | Grief, mystery, ancient fire | [mode-phrygian.md](docs/reference/mode-phrygian.md) |
-| [Lydian](docs/reference/mode-lydian.md) | Raised fourth in major | Floating, dreamlike brightness | [mode-lydian.md](docs/reference/mode-lydian.md) |
-| [Mixolydian](docs/reference/mode-mixolydian.md) | Flat seventh in major | Folk major; open, unresolved | [mode-mixolydian.md](docs/reference/mode-mixolydian.md) |
-| [Aeolian (Natural Minor)](docs/reference/mode-aeolian.md) | Three lowered degrees | Resigned sadness, introspection | [mode-aeolian.md](docs/reference/mode-aeolian.md) |
-| [Locrian](docs/reference/mode-locrian.md) | Half-step above home + tritone fifth | Perpetual unease; no stable home | [mode-locrian.md](docs/reference/mode-locrian.md) |
+| Mode | Key interval | Emotional core |
+|------|-------------|----------------|
+| [Ionian (Major)](docs/reference/mode-ionian.md) | Natural—no tensions | Bright, resolved, confident |
+| [Dorian](docs/reference/mode-dorian.md) | Raised sixth in minor | Minor with lift; resilient darkness |
+| [Phrygian](docs/reference/mode-phrygian.md) | Half-step above home | Grief, mystery, ancient fire |
+| [Lydian](docs/reference/mode-lydian.md) | Raised fourth in major | Floating, dreamlike brightness |
+| [Mixolydian](docs/reference/mode-mixolydian.md) | Flat seventh in major | Folk major; open, unresolved |
+| [Aeolian (Natural Minor)](docs/reference/mode-aeolian.md) | Three lowered degrees | Resigned sadness, introspection |
+| [Locrian](docs/reference/mode-locrian.md) | Half-step above home + tritone fifth | Perpetual unease; no stable home |
 
 ### Extended Western Scales
 
-| Scale | Key feature | Emotional core | Document |
-|-------|-------------|----------------|---------|
-| [Harmonic Minor](docs/reference/scale-harmonic-minor.md) | Raised seventh + augmented 2nd | Classical drama; urgent resolution | [scale-harmonic-minor.md](docs/reference/scale-harmonic-minor.md) |
-| [Melodic Minor](docs/reference/scale-melodic-minor.md) | Raised 6th and 7th ascending | Hope ascending, shadow descending | [scale-melodic-minor.md](docs/reference/scale-melodic-minor.md) |
-| [Lydian Dominant](docs/reference/scale-lydian-dominant.md) | Raised 4th + flat 7th | Suspended awe; cinematic vastness | [scale-lydian-dominant.md](docs/reference/scale-lydian-dominant.md) |
-| [Double Harmonic](docs/reference/scale-double-harmonic.md) | Two augmented seconds | Ancient, sacred, fierce | [scale-double-harmonic.md](docs/reference/scale-double-harmonic.md) |
-| [Hungarian Minor](docs/reference/scale-hungarian-minor.md) | Augmented 2nd (♭3→♯4) | Romani fire; passionate dark | [scale-hungarian-minor.md](docs/reference/scale-hungarian-minor.md) |
-| [Hungarian Major](docs/reference/scale-hungarian-major.md) | Augmented 2nd (root→♯2) | Dramatic, bright-exotic | [scale-hungarian-major.md](docs/reference/scale-hungarian-major.md) |
-| [Enigmatic](docs/reference/scale-enigmatic.md) | All unusual intervals | Genuinely disorienting | [scale-enigmatic.md](docs/reference/scale-enigmatic.md) |
-| [Lydian Minor](docs/reference/scale-lydian-minor.md) | Raised 4th + flat 6 and 7 | Floating yet melancholic | [scale-lydian-minor.md](docs/reference/scale-lydian-minor.md) |
-| [Neapolitan Minor](docs/reference/scale-neapolitan-minor.md) | Phrygian + leading tone | Darkly urgent; two pulls toward home | [scale-neapolitan-minor.md](docs/reference/scale-neapolitan-minor.md) |
-| [Neapolitan Major](docs/reference/scale-neapolitan-major.md) | Phrygian open + bright upper | Bittersweet complexity | [scale-neapolitan-major.md](docs/reference/scale-neapolitan-major.md) |
-| [Romanian Minor](docs/reference/scale-romanian-minor.md) | Dorian + raised 4th | Folk-earthy, slightly exotic | [scale-romanian-minor.md](docs/reference/scale-romanian-minor.md) |
-| [Spanish Heptatonic](docs/reference/scale-spanish-heptatonic.md) | Phrygian Dominant | See also: Flamenco, Jewish Nusach | [scale-spanish-heptatonic.md](docs/reference/scale-spanish-heptatonic.md) |
-| [Super Locrian (Altered)](docs/reference/scale-super-locrian.md) | All degrees lowered | Maximum jazz tension | [scale-super-locrian.md](docs/reference/scale-super-locrian.md) |
-| [Minor Hexatonic](docs/reference/scale-minor-hexatonic.md) | Minor pentatonic + major 2nd | Minor but airy | [scale-minor-hexatonic.md](docs/reference/scale-minor-hexatonic.md) |
-| [Prometheus](docs/reference/scale-prometheus.md) | Raised 4th + flat 7th (6-note) | Cosmic, mystical suspension | [scale-prometheus.md](docs/reference/scale-prometheus.md) |
-| [Leading Whole Tone](docs/reference/scale-leading-whole-tone.md) | Near whole-tone + leading tone | Dream that remembers it must end | [scale-leading-whole-tone.md](docs/reference/scale-leading-whole-tone.md) |
-| [Whole-Tone](docs/reference/scale-whole-tone.md) | All whole steps | Total ambiguity; no gravity | [scale-whole-tone.md](docs/reference/scale-whole-tone.md) |
-| [Nine-Tone (Nonatonic)](docs/reference/scale-nine-tone.md) | Chromatic blues collection | Saturated, improvisational | [scale-nine-tone.md](docs/reference/scale-nine-tone.md) |
+| Scale | Key feature | Emotional core |
+|-------|-------------|----------------|
+| [Harmonic Minor](docs/reference/scale-harmonic-minor.md) | Raised seventh + augmented 2nd | Classical drama; urgent resolution |
+| [Melodic Minor](docs/reference/scale-melodic-minor.md) | Raised 6th and 7th ascending | Hope ascending, shadow descending |
+| [Lydian Dominant](docs/reference/scale-lydian-dominant.md) | Raised 4th + flat 7th | Suspended awe; cinematic vastness |
+| [Double Harmonic](docs/reference/scale-double-harmonic.md) | Two augmented seconds | Ancient, sacred, fierce |
+| [Hungarian Minor](docs/reference/scale-hungarian-minor.md) | Augmented 2nd (♭3→♯4) | Romani fire; passionate dark |
+| [Hungarian Major](docs/reference/scale-hungarian-major.md) | Augmented 2nd (root→♯2) | Dramatic, bright-exotic |
+| [Enigmatic](docs/reference/scale-enigmatic.md) | All unusual intervals | Genuinely disorienting |
+| [Lydian Minor](docs/reference/scale-lydian-minor.md) | Raised 4th + flat 6 and 7 | Floating yet melancholic |
+| [Neapolitan Minor](docs/reference/scale-neapolitan-minor.md) | Phrygian + leading tone | Darkly urgent; two pulls toward home |
+| [Neapolitan Major](docs/reference/scale-neapolitan-major.md) | Phrygian open + bright upper | Bittersweet complexity |
+| [Romanian Minor](docs/reference/scale-romanian-minor.md) | Dorian + raised 4th | Folk-earthy, slightly exotic |
+| [Spanish Heptatonic](docs/reference/scale-spanish-heptatonic.md) | Phrygian Dominant | See also: Flamenco, Jewish Nusach |
+| [Super Locrian (Altered)](docs/reference/scale-super-locrian.md) | All degrees lowered | Maximum jazz tension |
+| [Minor Hexatonic](docs/reference/scale-minor-hexatonic.md) | Minor pentatonic + major 2nd | Minor but airy |
+| [Prometheus](docs/reference/scale-prometheus.md) | Raised 4th + flat 7th (6-note) | Cosmic, mystical suspension |
+| [Leading Whole Tone](docs/reference/scale-leading-whole-tone.md) | Near whole-tone + leading tone | Dream that remembers it must end |
+| [Whole-Tone](docs/reference/scale-whole-tone.md) | All whole steps | Total ambiguity; no gravity |
+| [Nine-Tone (Nonatonic)](docs/reference/scale-nine-tone.md) | Chromatic blues collection | Saturated, improvisational |
 
 ### Blues and Bebop Scales
 
-| Scale | Key feature | Emotional core | Document |
-|-------|-------------|----------------|---------|
-| [Minor Blues](docs/reference/scale-blues.md) | Pentatonic minor + blue note (♭5) | Longing, searching, bittersweet | [scale-blues.md](docs/reference/scale-blues.md) |
-| [Major Blues](docs/reference/scale-blues.md) | Major pentatonic + flat third passing | Soulful, warm, grained brightness | [scale-blues.md](docs/reference/scale-blues.md) |
-| [Bebop Dominant](docs/reference/scale-bebop.md) | Mixolydian + natural 7th passing | Swinging jazz confidence | [scale-bebop.md](docs/reference/scale-bebop.md) |
-| [Bebop Major](docs/reference/scale-bebop.md) | Major + flat 6th passing | Bright jazz fluency | [scale-bebop.md](docs/reference/scale-bebop.md) |
-| [Bebop Minor (Dorian)](docs/reference/scale-bebop.md) | Dorian + major 3rd passing | Minor jazz sophistication | [scale-bebop.md](docs/reference/scale-bebop.md) |
-| [Bebop Half-Diminished](docs/reference/scale-bebop.md) | Half-dim + chromatic passing | Tense jazz resolution | [scale-bebop.md](docs/reference/scale-bebop.md) |
+| Scale | Key feature | Emotional core |
+|-------|-------------|----------------|
+| [Minor Blues](docs/reference/scale-blues.md) | Pentatonic minor + blue note (♭5) | Longing, searching, bittersweet |
+| [Major Blues](docs/reference/scale-blues.md) | Major pentatonic + flat third passing | Soulful, warm, grained brightness |
+| [Bebop Dominant](docs/reference/scale-bebop.md) | Mixolydian + natural 7th passing | Swinging jazz confidence |
+| [Bebop Major](docs/reference/scale-bebop.md) | Major + flat 6th passing | Bright jazz fluency |
+| [Bebop Minor (Dorian)](docs/reference/scale-bebop.md) | Dorian + major 3rd passing | Minor jazz sophistication |
+| [Bebop Half-Diminished](docs/reference/scale-bebop.md) | Half-dim + chromatic passing | Tense jazz resolution |
 
 ### World Modal Systems
 
-| System | Origin | Key concept | Document |
-|--------|--------|-------------|---------|
-| [Arabic Maqam](docs/reference/world-arabic-maqam.md) | Middle East | Jins cells; microtones; pivot modulation | [world-arabic-maqam.md](docs/reference/world-arabic-maqam.md) |
-| [Turkish Makam](docs/reference/world-turkish-makam.md) | Turkey | Seyir (required melodic direction); 53-koma system | [world-turkish-makam.md](docs/reference/world-turkish-makam.md) |
-| [Persian Dastgah](docs/reference/world-persian-dastgah.md) | Iran | Gusheh fragments; radif; koron/sori microtones | [world-persian-dastgah.md](docs/reference/world-persian-dastgah.md) |
-| [Hindustani Raga](docs/reference/world-hindustani-raga.md) | North India | Rasa (9 emotions); time theory; alap; gamaka | [world-hindustani-raga.md](docs/reference/world-hindustani-raga.md) |
-| [Carnatic Melakarta](docs/reference/world-carnatic-melakarta.md) | South India | 72 parent scales; gamaka as inseparable from raga | [world-carnatic-melakarta.md](docs/reference/world-carnatic-melakarta.md) |
-| [World Pentatonic Systems](docs/reference/world-pentatonic-systems.md) | Global | Chinese, Japanese, Celtic, blues five-note systems | [world-pentatonic-systems.md](docs/reference/world-pentatonic-systems.md) |
-| [Gamelan: Pelog & Slendro](docs/reference/world-gamelan.md) | Java/Bali | Non-Western tuning; cyclic form; shimmer | [world-gamelan.md](docs/reference/world-gamelan.md) |
-| [Ethiopian Kiñit](docs/reference/world-ethiopian-kinit.md) | Ethiopia | Tizita, Bati, Ambassel, Anchihoye | [world-ethiopian-kinit.md](docs/reference/world-ethiopian-kinit.md) |
-| [West African Music](docs/reference/world-west-african.md) | West Africa | Griot tradition; descending melody; blues ancestry | [world-west-african.md](docs/reference/world-west-african.md) |
-| [Byzantine Modes](docs/reference/world-byzantine-modes.md) | Orthodox Christianity | Eight echoi; four genera; connection to maqam | [world-byzantine-modes.md](docs/reference/world-byzantine-modes.md) |
-| [Flamenco](docs/reference/world-flamenco.md) | Andalusia | Phrygian Dominant; Andalusian cadence; bimodal | [world-flamenco.md](docs/reference/world-flamenco.md) |
-| [Jewish Nusach](docs/reference/world-jewish-nusach.md) | Synagogue | Ahavah Rabbah, Magen Avot, Adonai Malakh | [world-jewish-nusach.md](docs/reference/world-jewish-nusach.md) |
-| [Celtic Modes](docs/reference/world-celtic-modes.md) | Ireland/Scotland/Wales/Brittany | Four modes; ancient pentatonic roots | [world-celtic-modes.md](docs/reference/world-celtic-modes.md) |
+| System | Origin | Key concept |
+|--------|--------|-------------|
+| [Arabic Maqam](docs/reference/world-arabic-maqam.md) | Middle East | Jins cells; microtones; pivot modulation |
+| [Turkish Makam](docs/reference/world-turkish-makam.md) | Turkey | Seyir (required melodic direction); 53-koma system |
+| [Persian Dastgah](docs/reference/world-persian-dastgah.md) | Iran | Gusheh fragments; radif; koron/sori microtones |
+| [Hindustani Raga](docs/reference/world-hindustani-raga.md) | North India | Rasa (9 emotions); time theory; alap; gamaka |
+| [Carnatic Melakarta](docs/reference/world-carnatic-melakarta.md) | South India | 72 parent scales; gamaka as inseparable from raga |
+| [World Pentatonic Systems](docs/reference/world-pentatonic-systems.md) | Global | Chinese, Japanese, Celtic, blues five-note systems |
+| [Gamelan: Pelog & Slendro](docs/reference/world-gamelan.md) | Java/Bali | Non-Western tuning; cyclic form; shimmer |
+| [Ethiopian Kiñit](docs/reference/world-ethiopian-kinit.md) | Ethiopia | Tizita, Bati, Ambassel, Anchihoye |
+| [West African Music](docs/reference/world-west-african.md) | West Africa | Griot tradition; descending melody; blues ancestry |
+| [Byzantine Modes](docs/reference/world-byzantine-modes.md) | Orthodox Christianity | Eight echoi; four genera; connection to maqam |
+| [Flamenco](docs/reference/world-flamenco.md) | Andalusia | Phrygian Dominant; Andalusian cadence; bimodal |
+| [Jewish Nusach](docs/reference/world-jewish-nusach.md) | Synagogue | Ahavah Rabbah, Magen Avot, Adonai Malakh |
+| [Celtic Modes](docs/reference/world-celtic-modes.md) | Ireland/Scotland/Wales/Brittany | Four modes; ancient pentatonic roots |
 
 ---
 
