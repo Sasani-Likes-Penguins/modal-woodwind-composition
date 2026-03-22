@@ -37,14 +37,14 @@ Establish a pattern three times. Then break it at the emotional peak.
 
 ## Instrument Summary
 
-*(The "one-up note" = the note one half-step above home—Phrygian's most emotionally charged note.)*
+Each instrument has natural modal affinities—scales and traditions it suits best. Match instrument to emotional territory as much as to the scale itself.
 
-- **Recorder**: most Baroque-suited; cross-fingered one-up note has a naturally haunted tone—begin very quiet, build, resolve
-- **NAF**: improvise from feeling first; one-up note available as grace note only; dark phrasing carries the modal affect
-- **Bawu**: slide into the one-up note rather than landing cleanly; underblown A3 for whispered endings; best instrument for maqam and raga
-- **Low D whistle**: E Phrygian is completely natural fingering—F is the very next hole; roll on it, slide down to E
-- **G whistle**: A Phrygian equally natural; same ornamental tradition as low D
-- **Kaval**: deepest modal voice; dual-voice technique (partial lip coverage of back fipple window + humming) for vast resonant textures; multiple registers for emotional contrast
+- **Recorder**: fully chromatic; the most structurally flexible instrument in the collection; natural home for Baroque, Byzantine, and scored compositional approaches; cross-fingered notes have a slightly veiled tone that suits meditative and grief-affect music; strong in all Western modes and Carnatic-style playing
+- **NAF**: five-note pentatonic minor native scale; improvisation from feeling is the core tradition; best for pentatonic world systems (Chinese, Japanese, Celtic, blues), meditative Aeolian and Dorian feels, and any approach where silence and breath carry more weight than harmonic complexity
+- **Bawu**: pitch bending and sliding built into its free-reed nature; the most capable instrument for microtonal world systems—Arabic maqam, Turkish makam, Persian dastgah, Hindustani raga, blues; underblown A3 (very quiet, below the main range) for phrase endings of maximum emotional depth
+- **Low D whistle**: diatonic in D major; E Phrygian, E Dorian, E Aeolian, and D Mixolydian all use natural fingering; the Irish slow air is its natural form; ornamental vocabulary (cuts, rolls, slides) maps directly onto any minor or modal melody; best for Celtic modes, Phrygian, Dorian, and Ethiopian Tizita
+- **G whistle**: same tradition and ornamental vocabulary as low D, pitched a fourth higher; A Phrygian, A Dorian, A Aeolian, and G Mixolydian all natural; brighter tone than low D suits livelier modal material
+- **Kaval**: the most modally versatile instrument for world music; gypsy-influenced built-in scale contains intervals natural to Phrygian, Double Harmonic, Hungarian Minor, and Romani-inflected scales; dual-voice technique (partially covering the back fipple window with the lower lip, intensified by humming) produces a simultaneous undertone unique in this collection; three registers for large-scale dynamic and emotional arcs; native to Turkish makam, Persian dastgah, Romanian folk, Balkan modes, and Byzantine traditions
 
 ---
 
