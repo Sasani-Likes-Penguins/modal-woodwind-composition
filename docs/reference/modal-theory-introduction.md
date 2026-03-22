@@ -203,3 +203,78 @@ The full treatment of microtonal systems is in [Microtonal Notation and Theory](
 - [Microtonal Notation and Theory](microtonal-notation-and-theory.md)—notes between the notes
 - [Ornamentation Guide](ornamentation-guide.md)—the emotional vocabulary of ornaments across traditions
 - [Full Composition Guide](../full-guide.md)—how to apply modal theory in practice
+
+---
+
+## Composing with Modal Theory: From Concept to Music
+
+### The Most Important Thing Modal Theory Teaches Composers
+
+Modal theory teaches you to hear the *emotional identity* of individual notes within a scale—not just their position (second degree, third degree) but their *character*: pressing, floating, dark, bright, searching, resolved.
+
+In standard major-key Western thinking, notes have primarily *harmonic* function (chord tones vs. non-chord-tones). In modal thinking, notes have *emotional* identity. The ♭2 of Phrygian presses. The raised fourth of Lydian floats. The ♭6 of Aeolian anguishes. These are not metaphors—they describe specific interval relationships that produce consistent emotional responses across listeners.
+
+The practical benefit: you can compose with clear emotional intention note by note, phrase by phrase, rather than waiting to see what the harmony "produces."
+
+### Applying Modal Knowledge to Composition: The Core Steps
+
+**Step 1: Choose the emotional world, not the scale.**
+
+The scale is the vehicle; the emotion is the destination. Before choosing a mode, decide what emotional world the composition inhabits. The mode selection follows from that decision:
+
+- Grief that is ancient and searching → Phrygian (the half-step above the tonic)
+- Grief that is settled and private → Aeolian (the flat sixth as anguish)
+- Grief that has fire → Phrygian Dominant / Flamenco mode
+- Resilient sadness → Dorian (the raised sixth as lift within darkness)
+- Wonder and floating → Lydian (the raised fourth as suspension)
+- Folk openness → Mixolydian (the flat seventh as unresolved brightness)
+- Devotional yearning → Ahavah Rabbah / Phrygian Dominant
+- Perpetual unease → Locrian (the tritone above the tonic)
+
+**Step 2: Identify the characteristic note and build from it.**
+
+Every mode has one note that carries more emotional weight than any other—the characteristic note. (See the table in this file under [The Characteristic Note](#the-characteristic-note).)
+
+This note is the gravitational center of your melody. Every phrase approaches it, dwells on it, or departs from it. The composition is, in one sense, a meditation on the relationship between the tonic (home) and the characteristic note (the emotional content of the home).
+
+**Step 3: Find the seed phrase that contains the characteristic note.**
+
+Your seed phrase—the two-to-four-note melodic cell from which the composition grows—should include the characteristic note. In Phrygian, the seed phrase might be: F – E (the ♭2 falling to the tonic—the mode's most fundamental gesture). In Dorian: D – C♯ – B (the raised sixth as the peak note). In Lydian: F – G – F♯ – G (the raised fourth arrived at from below).
+
+The seed phrase and the characteristic note are inseparable: the characteristic note is the emotional center; the seed phrase is the smallest complete emotional gesture that contains it.
+
+**Step 4: Apply the journey structure.**
+
+Whatever mode you are working in, the following structure provides a reliable compositional architecture:
+1. Establish tonic and characteristic note (low register, quiet)
+2. Develop the seed phrase progressively upward through the middle register
+3. Reach the high register with the characteristic note at its most emotionally prominent
+4. Descend back through the scale to the tonic (or, for Locrian and some flamenco, to an unresolved close)
+
+### Switching Modes Within a Composition
+
+Modal compositions that use a single mode throughout can be powerful—sustained commitment to one emotional world creates depth. But deliberate modal mixture creates contrast that makes both modes more vivid.
+
+**The relative mode shift**: every minor mode has a closely related major mode using the same notes. Switching briefly to the relative major (same pitches, different tonic) creates an immediate brightening without changing the available pitches:
+- E Phrygian relative major: G major (same notes: E – F – G – A – B – C – D)
+- A Dorian relative major: C major (same notes)
+- A Aeolian relative major: C major (same notes)
+
+**The parallel mode shift**: switching between a minor mode and its parallel major (same tonic, different character) creates a more dramatic contrast:
+- E Phrygian → E major (the E major chord arriving in Phrygian context: the flamenco bimodal effect)
+- A Aeolian → A Dorian (adding the raised sixth: Aeolian → Dorian brightness)
+- D Mixolydian → D major (removing the flat seventh: Mixolydian → full Ionian)
+
+**Rule**: establish the primary mode clearly (minimum four to six phrases) before any shift. The shift's power depends entirely on the contrast with what preceded it.
+
+### The Beginner's Most Important Exercise
+
+Write a composition that uses exactly one mode, exactly one seed phrase, and exactly one ornament.
+
+- One mode: the full emotional world established by that mode only; no borrowing
+- One seed phrase: transformed using the six techniques (move, flip, slow, speed, break, reverse) but recognizable throughout
+- One ornament: placed only on the characteristic note, every time that note appears on a strong beat
+
+This constraint—one mode, one phrase, one ornament—produces music of surprising depth because all creative energy is directed toward a single thing rather than spread across many. Scarcity of means forces richness of expression.
+
+When this exercise feels natural and the constraint feels comfortable rather than limiting, add a second ornament. Then consider a second phrase. The discipline of one thing at a time is the most effective path to genuine compositional fluency.

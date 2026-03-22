@@ -39,7 +39,7 @@ A raga is a fusion of technical and ideational ideas found in music, and may be 
 
 ## Rasa: The Nine Emotional Worlds
 
-The ancient Indian theory of aesthetics identifies nine fundamental emotional essences (*navarasa*) that art can evoke [37]:
+The ancient Indian theory of aesthetics identifies nine fundamental emotional essences (*navarasa*) that art can evoke [37](https://organology.net/instrument/bawu/):
 
 | Rasa | Meaning | Musical expression |
 |------|---------|-------------------|
@@ -59,7 +59,7 @@ Each raga has its primary *rasa*—the emotional world it inhabits most deeply. 
 
 ## Samay: Time Theory
 
-One of the most unique aspects of Hindustani classical music is the Time Theory of Raga. Ragas are traditionally performed at specific times of the day or night to maximize their emotional and psychological effect [31][34]:
+One of the most unique aspects of Hindustani classical music is the Time Theory of Raga. Ragas are traditionally performed at specific times of the day or night to maximize their emotional and psychological effect [31](https://themusictheoryprofessor.com/analyzing-famous-compositions-with-notable-deceptive-cadences/)[34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/):
 
 | Time of day | Raga character |
 |------------|---------------|
@@ -79,7 +79,7 @@ For a composer without the obligation of traditional concert scheduling: use the
 
 ## How Ascent and Descent Differ
 
-One of the most important features of ragas—and one that has no parallel in Western modes—is that the ascending and descending patterns can be completely different. Many ragas specify notes to use when going up that are omitted on the way down, or vice versa. In raga Desh, the ascent is a step-by-step pentatonic movement while the descent is heptatonic (seven notes) [32].
+One of the most important features of ragas—and one that has no parallel in Western modes—is that the ascending and descending patterns can be completely different. Many ragas specify notes to use when going up that are omitted on the way down, or vice versa. In raga Desh, the ascent is a step-by-step pentatonic movement while the descent is heptatonic (seven notes) [32](https://www.flutopedia.com/refs/Iriarte_2012_PlayingModesOnTheNAF_FP.pdf).
 
 This asymmetry serves expressive purposes:
 - Ascending notes that appear only on the way up create a particular forward momentum
@@ -94,7 +94,7 @@ This asymmetry serves expressive purposes:
 
 A gamaka is not an ornament added to a note—it is the way a note lives. A straight note feels plain. An ornamented note feels alive. Without gamakas, a raga is merely a scale.
 
-Key gamakas [37][39][40]:
+Key gamakas [37](https://organology.net/instrument/bawu/)[39](https://en.wikipedia.org/wiki/Tin_whistle)[40](https://www.tradschool.com/en/irish-music/low-whistle/):
 
 **Meend** (slide): a smooth glide between notes—not landing cleanly but sliding through the pitch space. The bawu's natural character; also available on kaval and NAF. The most expressive single technique in raga performance.
 
@@ -112,7 +112,7 @@ The bawu's pitch flexibility makes it the closest instrument in this collection 
 
 ## The Performance Structure: Alap to Jhala
 
-A traditional Hindustani performance unfolds in stages [38][39]:
+A traditional Hindustani performance unfolds in stages [38](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html)[39](https://en.wikipedia.org/wiki/Tin_whistle):
 
 **Alap**: the slow, unmetered introduction. No fixed rhythm, no accompaniment except drone. The musician explores the raga's personality note by note, phrase by phrase, gradually revealing its full character. This can last from five minutes to an hour in a full performance. The alap begins in the low register and rises gradually over its duration. The most important section for understanding the raga.
 
@@ -186,3 +186,110 @@ These ragas are among the most commonly performed and most directly translatable
 - Hindustani raga is a vast tradition—hundreds of ragas exist. This guide covers only the most common and most relevant for wind players.
 - The gamakas described here require extensive practice; meend in particular cannot be achieved without dedicated embouchure development.
 - The rhythmic aspect (tala cycles) is not covered here; this guide focuses on the melodic-improvisational alap structure most directly relevant to solo wind playing.
+
+---
+
+## Composing in Hindustani Raga Style for Solo Wind: A Complete Guide
+
+### The Alap: Your Structural Template
+
+The *alap* (unmetered, unaccompanied opening improvisation) is the most directly applicable Hindustani structure for solo wind players. In a concert setting, an alap may last 30–40 minutes before the composed piece (*gat*) begins. For our purposes, even a three-minute alap contains the complete structural logic of the tradition.
+
+The alap has three sections:
+1. **Alap proper**: completely free of rhythm; each phrase breathes independently; notes of the raga introduced one by one from low to high; the emotional world established in stillness
+2. **Jor**: a rhythmic pulse emerges from the alap, though no percussion is present; the raga explored with rhythmic coherence
+3. **Jhala**: fast, climactic, rushing; the emotional peak before the composed section
+
+For beginners, focus entirely on the **alap**. The alap is where emotional truth lives in Indian classical music. A perfect alap in a single raga will communicate more than a technically complete performance of gat and jhala without the patience of a true alap.
+
+### Composing an Alap in Raga Bhairavi: Step-by-Step
+
+Raga Bhairavi is the most important raga for beginners: it is played last at every concert as a farewell, it contains the scale equivalent to Phrygian (flat second, flat third, flat sixth, flat seventh), and it is associated with the deepest, most universal form of human emotion—longing for something that cannot be held.
+
+**Scale**: C – D♭ – E♭ – F – G – A♭ – B♭ – C (from C as Sa)
+(On NAF in Am: treat A as Sa; scale becomes A – B♭ – C – D – E – F – G – A)
+
+**The Three Structural Notes**:
+- **Sa (C)**: the tonic; home; every phrase returns here
+- **Ga (E♭)**: the *vadi* (most important note) of Bhairavi; the flat third; dwell here longest
+- **Dha (A♭)**: the *samvadi* (second most important note); a perfect fifth from Sa; the balance point
+
+Every phrase should touch or approach either Ga (E♭) or Sa (C). The vadi (E♭) is the emotional center—the note the raga keeps returning to, the note that has been described as "the note where the raga lives."
+
+**Step-by-step alap**:
+
+1. **Sa alone**: begin on C. Hold for six beats. This is not an introduction—it IS the beginning of the alap. The note says: this is where I live.
+
+2. **Introduce Re♭**: step up to D♭ (the flat second—the Phrygian pressing note). Hold. Return to Sa. The D♭ presses down against C exactly as in Phrygian. The emotional content: something leaning against home.
+
+3. **The vadi**: now introduce Ga (E♭). The first note introduced above Re♭. Play C – D♭ – E♭. Arrive at E♭ and hold it. This is the emotional center of Bhairavi. Let it breathe. On bawu: a slow oscillation (andolan) on E♭—very gentle, not vibrato, but a rocking quality.
+
+4. **First real phrase**: E♭ – D♭ – C. The vadi descending through Re♭ to Sa. This is Bhairavi's most characteristic phrase. Play it, then silence for four beats. The phrase says: I have found the feeling; here it is.
+
+5. **Introduce the fourth (F)**: a phrase that touches F—C – E♭ – F – E♭ – C. The F is stable (perfect fourth), and its approach from and return to E♭ creates the phrase's shape. Silence.
+
+6. **The fifth (Pa—G)**: introduce G. C – E♭ – G. The fifth creates an open, stable phrase. But from G, always descend through E♭ back to C: G – F – E♭ – D♭ – C. The descent through the vadi is always present.
+
+7. **Rising toward the sixth**: ascend to A♭ (Dha, the samvadi). This is the higher balance point. Play G – A♭ – G – F – E♭ – C. The samvadi (A♭) reached, then the descent through the vadi back home.
+
+8. **The upper octave**: when you are ready (not before), ascend to the upper Sa (high C). From there, descend through the full scale: C – B♭ – A♭ – G – F – E♭ – D♭ – C. The full descent through the vadi and back to home.
+
+9. **The closing phrase**: always the same in Bhairavi—or a variation of it: E♭ – D♭ – C. The vadi, the pressed note, and home. The alap closes as it opened: with the relationship between these three notes.
+
+### How Gamaka (Ornamentation) Changes Everything
+
+The *gamaka* in Indian classical music is not optional decoration—it is what makes the note the note. In Bhairavi, the E♭ (Ga) is not simply E♭. It is E♭ approached with a slow glide from D♭ below (*meend*), held with a gentle rocking oscillation (*andolan*), and resolved through a slide back to D♭ or downward to C.
+
+**For bawu players**: the bawu's pitch bending is the most natural vehicle for gamaka in this collection.
+- *Meend* on E♭: begin on D♭, slide continuously upward to E♭, hold at center pitch
+- *Andolan* on E♭: at center pitch, oscillate slowly ±30 cents, returning to center—like a slow, wide vibrato
+- *Descent meend*: from G, slide continuously down through F, through E♭, through D♭, to C—all in one unbroken pitch-bend motion
+
+**For recorder and whistle players**: a close approximation of meend is possible through gradual partial hole-covering during the note transition. For andolan, a slow breath variation (diaphragm-based amplitude oscillation combined with slight pitch variation) provides an approximation of the quality.
+
+### The Vadi-Samvadi Structure: What It Means for Composition
+
+Every Hindustani raga has a *vadi* (most important note) and *samvadi* (second most important note). These are always a fourth or fifth apart. In Bhairavi: vadi is E♭ (Ga), samvadi is A♭ (Dha)—a perfect fourth apart.
+
+**Compositional implications**:
+- The vadi should appear more often than any other note in the composition
+- The vadi should occupy more time—phrases settle on the vadi rather than passing through it
+- The samvadi appears at key structural points, especially when the melody has risen from the lower register to the upper
+- Phrases can be classified: "vadi phrases" (those that arrive at or develop the vadi) and "samvadi phrases" (those that develop the upper register around the samvadi)
+- A complete alap contains both types; the ratio is approximately 2:1 (vadi phrases more common)
+
+### Eliciting the Nine Rasas with Raga Selection
+
+| Rasa | Meaning | Raga examples | Key compositional feature |
+|------|---------|---------------|--------------------------|
+| Shringara | Love, beauty | Yaman (Lydian-equivalent), Kafi (Dorian) | Ascending phrases; major or near-major quality |
+| Karuna | Compassion, grief | Bhairavi, Marwa | Descending phrases; vadi emphasis; slow |
+| Veera | Heroism | Bhairav (Double Harmonic), Desh | Strong ascending gestures; driving rhythm in jor |
+| Shanta | Peace, serenity | Bhupali (pentatonic), Yaman | Sparse; few notes; wide silences |
+| Adbhuta | Wonder, awe | Todi, Bhairav | Unusual intervals; microtonal inflections |
+| Bhayanaka | Fear | Particular Kedar gat patterns | Tritone-adjacent intervals; irregular rhythm |
+| Hasya | Joy | Khamaj (Mixolydian), Tilang | Bright, ascending; fast jor |
+| Raudra | Fury | Purvi (evening), fast jor tempo | Rapid ascending gestures |
+| Bibhatsa | Disgust/Darkness | Very rarely cultivated intentionally |—|
+
+### Common Beginner Mistakes
+
+**Rushing the alap**: the alap should begin with one or two notes and add them gradually—taking several phrases to establish each new note before moving to the next. Beginners introduce all seven scale degrees in the first two phrases. This is not an alap; it is a scale demonstration. Introduce one new note per four to six phrases.
+
+**Not dwelling on the vadi**: the vadi (E♭ in Bhairavi) should be the most common note in the composition. If you count every note you played and the vadi is not the plurality, you have not yet internalized the raga. Return to the vadi more than you think is necessary.
+
+**Gamaka as optional**: a raga without its characteristic gamaka is not that raga. The note E♭ played cleanly as a fixed pitch is not Ga of Bhairavi—it is just E♭. The gamaka (the approach, the oscillation, the meend) is the note's identity. Practice the gamaka before composing the melody.
+
+---
+
+## Eliciting Specific Emotions in Hindustani Raga
+
+**Deep universal grief** (Bhairavi—the farewell raga): Bhairavi is always the last raga performed at a concert—the farewell, the closing of the door. Its emotional register is the grief of parting: not violent grief but settled, ancient sorrow. Very slow alap; the vadi (E♭ from C) as the most-visited note, given maximum time; the characteristic meend from D♭ through E♭ as every phrase's core gesture; much silence; the performance ends on the tonic and stays there.
+
+**Yearning and longing** (Yaman—Lydian-equivalent raga): Yaman is the evening raga of beauty and romantic yearning. The raised fourth (F♯) creates the same floating wonder as Lydian; phrases that sustain on the raised fourth before descending; the vadi is N (the major seventh—B in C Yaman) and the samvadi is Ga (the major third—E). Moderate tempo in jor; the yearning comes from the major seventh's aspiration pressed against the tonic.
+
+**Heroic devotion** (Bhairav—morning raga with Double Harmonic scale): performed at dawn as an offering, Bhairav's two augmented seconds (the Double Harmonic scale) create a devotional intensity that is both ancient and fierce. The ascending and descending forms differ slightly; the vadi is Dha (the flat sixth). Moderate tempo; the augmented second leaps as devotional gestures—the music reaching fiercely toward something beyond.
+
+**The quality of early morning stillness** (Lalit or Todi—pre-dawn ragas): ragas performed in the darkest part of night before dawn have a searching, otherworldly quality. Very slow alap; unusual intervals (Todi uses a flat second, natural third, and raised fourth together—creating an uncanny tonal world); the vadi deeply emphasized; the emotional character is beyond conventional emotion—it is awareness itself.
+
+**Joy and celebration** (Khamaj or Bhupali): Khamaj (Mixolydian-equivalent) is a late evening raga of joy and romanticism—moderate tempo, the flat seventh adding folk openness to the major quality; Bhupali (major pentatonic) is a calm, clear raga of early evening beauty—pure five-note simplicity, much silence, each note weighted.

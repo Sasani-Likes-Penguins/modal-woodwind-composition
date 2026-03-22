@@ -24,13 +24,13 @@
 
 Flamenco is not merely music that uses the Phrygian mode. It is a complete musical language with its own modal theory, its own characteristic scales, its own approach to time, and its own way of expressing emotion that is distinct from every other tradition in this guide.
 
-Flamenco has preserved the Dorian or Phrygian mode in ways that Western classical music did not. Three elements define whether something is genuinely flamenco: a flamenco modal tonality, the *compás* (rhythm), and the performer's identity within the tradition [1][9]. For a composer without that cultural background, the first element—the modal language—is what can be most fruitfully studied and applied.
+Flamenco has preserved the Dorian or Phrygian mode in ways that Western classical music did not. Three elements define whether something is genuinely flamenco: a flamenco modal tonality, the *compás* (rhythm), and the performer's identity within the tradition [1](https://en.wikipedia.org/wiki/Mode_(music))[9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain). For a composer without that cultural background, the first element—the modal language—is what can be most fruitfully studied and applied.
 
 ---
 
 ## The Flamenco Mode: Phrygian Dominant
 
-The primary flamenco scale is not pure Phrygian. It is what theorists call **Phrygian Dominant**—Phrygian with a raised third degree [1][8][4]:
+The primary flamenco scale is not pure Phrygian. It is what theorists call **Phrygian Dominant**—Phrygian with a raised third degree [1](https://en.wikipedia.org/wiki/Mode_(music))[8](https://www.musical-u.com/learn/the-many-moods-of-musical-modes/)[4](https://www.pdmusic.org/locrian-mode/):
 
 **E Phrygian Dominant**: E – F – G♯ – A – B – C – D – E
 
@@ -49,7 +49,7 @@ This scale is used liberally in flamenco music. It is also colloquially called t
 
 ## The Andalusian Cadence: The Engine of Flamenco
 
-The most recognizable harmonic gesture in flamenco is the **Andalusian cadence**—a descending four-chord sequence that defines the harmonic feel of most traditional flamenco forms [7][5]:
+The most recognizable harmonic gesture in flamenco is the **Andalusian cadence**—a descending four-chord sequence that defines the harmonic feel of most traditional flamenco forms [7](https://musiversal.com/blog/master-phrygian-mode)[5](https://musiversal.com/blog/master-locrian-mode):
 
 **In E Phrygian**: Am – G – F – E
 
@@ -63,7 +63,7 @@ The Andalusian cadence is a descending four-chord progression central to flamenc
 
 ## The Palos: Flamenco Forms as Modal Contexts
 
-The *palos* are the different styles or forms of flamenco, each with its own compás (rhythmic cycle), emotional character, and modal association [4][6][9]:
+The *palos* are the different styles or forms of flamenco, each with its own compás (rhythmic cycle), emotional character, and modal association [4](https://www.pdmusic.org/locrian-mode/)[6](https://en.wikipedia.org/wiki/Phrygian_mode)[9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain):
 
 | Palo | Mode | Compás | Character |
 |------|------|--------|-----------|
@@ -90,7 +90,7 @@ For composition: *cante jondo* represents Phrygian at its most unadorned and pow
 
 ## The Falseta: The Melody Unit
 
-A *falseta* is a short melodic phrase—the instrumental unit of flamenco composition [9]. A flamenco guitar recital consists of many falsetas strung together, each complete in itself, separated by rhythmic strumming patterns (*rasgueado*).
+A *falseta* is a short melodic phrase—the instrumental unit of flamenco composition [9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain). A flamenco guitar recital consists of many falsetas strung together, each complete in itself, separated by rhythmic strumming patterns (*rasgueado*).
 
 For solo wind players: the falseta is the exact equivalent of the seed phrase (motive) discussed throughout this guide. Each falseta:
 - Is 4–8 bars long
@@ -104,7 +104,7 @@ For solo wind players: the falseta is the exact equivalent of the seed phrase (m
 
 ## The Bimodal Character: Major/Minor Mixture
 
-One of flamenco's most characteristic and emotionally complex features is its **bimodal** mixing of Phrygian and major [4][6]:
+One of flamenco's most characteristic and emotionally complex features is its **bimodal** mixing of Phrygian and major [4](https://www.pdmusic.org/locrian-mode/)[6](https://en.wikipedia.org/wiki/Phrygian_mode):
 
 Fandangos and derivative palos like malagueñas, tarantulas and cartageneras are bimodal: guitar introductions are in Phrygian mode whereas the singing develops in a major key, modulating to Phrygian at the end of the text.
 
@@ -165,3 +165,79 @@ This means flamenco's modal language connects directly to the Byzantine modes (f
 - Authentic flamenco requires the *compás* (rhythmic cycle) and the cultural context of the tradition; this guide covers only the modal and melodic dimension.
 - The Romani (Gitano) contribution to flamenco—its most characteristic emotional quality—is an oral tradition that resists theoretical description.
 - Regional styles (Seville, Cádiz, Granada, Almería) each have distinct modal and melodic vocabulary not fully covered here.
+
+---
+
+## Composing in Flamenco Style for Solo Wind: A Complete Guide
+
+### The Starting Point: Choose a Palo
+
+Before writing a single note, choose a *palo* (flamenco form) to work within. Each palo has a specific *compás* (rhythmic cycle), modal character, and emotional register. For solo wind players without a rhythm section, the compás becomes a felt pulse rather than a performed one—an inner clock that organizes phrase lengths and accent points.
+
+The three most accessible palos for beginners:
+
+**Soleá** (12-beat cycle: 1–2–3–4–5–6–7–8–9–10–11–12, accents on 3, 6, 8, 10, 12): the "mother form" of flamenco. Serious, deeply emotional, E Phrygian Dominant. Phrases are long and stately; each phrase ends with an arrival on or near E. The emotional register is grief with dignity—not collapse, but sustained bearing of weight.
+
+**Bulerías** (12-beat cycle, same structure as soleá but performed much faster): fiercer, more energetic, often playful within the Phrygian Dominant framework. The speed makes individual phrases shorter and punchier. Begin here if you want fire rather than gravity.
+
+**Farruca** (4/4 or 2/4 meter, A Aeolian or A minor, slower and more severe): unusually for flamenco, farruca is in pure minor rather than Phrygian Dominant. The absence of the augmented second makes it darker and more austere—grief without the fierce beauty of Phrygian fire.
+
+### The Scale: E Phrygian Dominant
+
+**E Phrygian Dominant**: E – F – G♯ – A – B – C – D – E
+
+The two notes that define everything:
+- **F** (one half-step above E): the Phrygian pressing note; feels like a hand pressed against a door it cannot open
+- **G♯** (a major third above E): the raised third; creates the augmented second F → G♯; the flamenco leap
+
+Every flamenco phrase either dwells on one of these notes, uses them as approach notes, or moves through them dramatically. A melody that never touches F or G♯ is not flamenco—it is just minor.
+
+### The Andalusian Cadence: Your Structural Engine
+
+The Andalusian cadence is the fundamental harmonic motion of flamenco, heard as descending melodic motion: Am – G – F – E (in A minor context) or its equivalent from any Phrygian tonic.
+
+For solo wind, this becomes a descending melodic line from the fourth through the flat second to the tonic:
+
+**In E Phrygian Dominant**: A – G♯ – F – E (descent from fourth through the scale to home)
+
+This descending four-note figure is the most characteristic melodic gesture in all of flamenco. Every composition in this style should use it, return to it, and ornament it. The key notes to ornament:
+- **F → E** (the Phrygian half-step cadence): lean on F, hold it, then resolve to E. The slower this resolution, the more weight the grief carries.
+- **G♯** (approaching F from above): trill between G♯ and A, or approach G♯ with a lean from A, before falling through F to E.
+
+### Bimodal Mixture: The Fire Within Darkness
+
+Flamenco's most distinctive feature is its constant movement between the Phrygian Dominant dark and brief moments of major brightness. The tonic chord in flamenco is E *major* (E – G♯ – B), not E minor—even though the surrounding modal context is Phrygian Dominant. This major tonic creates the characteristic flamenco fire: a bright chord arising from dark surroundings.
+
+**For solo wind, achieve bimodal mixture by**:
+1. Alternating between G♯ (major third, bright) and G natural (minor third, dark) within a single phrase. The shift from G♯ to G natural sounds like light entering and leaving.
+2. After a period of ascending G♯ phrases (bright, fierce), dropping suddenly to G natural (shadow). The contrast is the emotional content.
+3. A phrase that begins with F – G♯ (the augmented second, upward—fierce) and ends with G – F – E (minor third falling through the Phrygian note to home—dark) contains both emotional worlds in one gesture.
+
+### Eliciting Specific Emotions
+
+**Grief (cante jondo)**: slow tempo (♩= 50–60); phrases ending on F – E (the Phrygian sigh); low register; very soft dynamics at phrase endings; long silences between phrases; avoid the G♯ brightness—stay in the flat world.
+
+**Fierce passion**: medium-fast tempo; the Andalusian cadence played with sudden dynamic surges on the G♯; trill between E and F on sustained notes; phrase endings that arrive on E *loudly*, declaring rather than sighing; use the upper register for peak phrases.
+
+**Ancient, sacred character**: very slow; sparse—never more than four or five notes per phrase; long silences; the half-step F – E as the only ornament; the mode's ancient quality comes from restraint, not from ornamentation.
+
+**Playful energy (bulería character)**: short staccato phrases; the Andalusian cadence as a rapid four-note figure rather than a sustained descent; vary the starting point of the descent within the compás to create rhythmic surprise.
+
+### Common Beginner Mistakes
+
+**Playing too many notes**: flamenco melody is spare. The most powerful *cantaor* (singer) may sing only three notes in the first phrase of a soleá—and those three notes carry more weight than a busy ornamented melody. Start with fewer notes than you think are necessary.
+
+**Not letting the F breathe**: the Phrygian half-step (F) is the most important note in the scale. Beginners rush through it toward G♯ or E. Slow down when F arrives. The dissonance of F against the implied E tonic is the entire emotional content of the mode—let the listener feel it.
+
+**Ignoring the compás**: even when playing without a rhythm section, keep the compás in your body. Tap your foot, nod your head, feel the 12-beat cycle. Phrases that don't relate to the compás are just modal melodies—they are not flamenco.
+
+**Staying in one register**: a soleá composition that stays in the middle register throughout has no arc. Begin low (intimate, searching), develop through the middle, reach the G♯ or A in the upper register for the peak, descend back to low E for the close.
+
+### Step-by-Step: Writing Your First Soleá Melody
+
+1. **Establish E as home**: play E alone, slowly. Let it settle for 6 beats of the compás.
+2. **Introduce F** (the pressing note): step up to F. Hold it. The discomfort is the point. Return to E.
+3. **The Andalusian descent**: from A, descend A – G♯ – F – E. Take three full beats to arrive at E from F.
+4. **Second phrase, one step higher**: begin the Andalusian descent from B instead of A. B – A – G♯ – F – E. The phrase is longer; the arrival on E more anticipated.
+5. **Peak phrase**: ascend E – G♯ – A – B – C (the highest note used so far). Descend from C: C – B – A – G♯ – F – E. Let the descent be your slowest phrase yet.
+6. **Close**: E alone, very soft, with a trill between E and F if the instrument allows—the Phrygian half-step shimmering at the end before true silence.

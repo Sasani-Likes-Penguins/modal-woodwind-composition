@@ -276,3 +276,31 @@ The most natural Phrygian seed phrases contain or approach the ♭2. Some exampl
 - [Arabic Maqam](world-arabic-maqam.md)—Maqam Kurd and Bayati: Phrygian in the Arabic tradition
 - [Jewish Nusach](world-jewish-nusach.md)—Ahavah Rabbah: Phrygian Dominant in liturgical music
 - [Brain Biology and Psychology](brain-biology-psychology.md)—the neuroscience of Phrygian's emotional effect
+
+---
+
+## Eliciting Specific Emotions in Phrygian
+
+**Ancient, sacred mystery**: very slow tempo (near 50–60 BPM); sparse—three or four notes per phrase; the ♭2 touched briefly as a color note rather than dwelt upon as a tension note; phrases settled on the fifth (B in E Phrygian) rather than the tonic; much silence; low-to-middle register throughout; no climactic peak—the music simply exists in its own ancient space.
+
+**Grief with dignity** (the Brahms/Vaughan Williams Phrygian): slow tempo; long arching phrases that ascend to a peak and descend; the ♭2 as the peak note of many phrases—held at the top before resolving down; dynamic swells on the ♭2 (soft → louder in the middle → soft again—the [messa di voce](../glossary.md#messa-di-voce)); the overall dynamic arc building slowly and releasing gradually; never loud—this is private grief.
+
+**Fierce passion** (flamenco Phrygian): moderate to fast tempo; short, punchy phrases; the ♭2 trill (rapid alternation E–F on the whistle) on strong beats; sudden dynamic surges (piano → forte → back); the Andalusian cadence descent (A–G♯–F–E in E Phrygian Dominant, or A–G–F–E in pure Phrygian) repeated with increasing intensity; rhythmic drive even without a drum.
+
+**Searching, yearning**: moderate tempo; the ♭2 as an unresolved note that phrases arrive at and leave without settling; phrases that circle around the ♭2 without committing to the resolution downward to the tonic; the music asking a question and never answering it; end on the ♭2 itself for maximum unresolved yearning.
+
+**Bittersweet beauty**: the ♭2 placed on unaccented beats so it colors the phrase without dominating; the peak note is the ♭7 (D in E Phrygian) rather than the ♭2—darker but less pressing; long arching melodic lines; legato throughout; soft dynamics with a single gentle swell at the peak.
+
+---
+
+## Common Beginner Mistakes in Phrygian
+
+**Staying on the ♭2 too long**: the ♭2 (F in E Phrygian) is the most powerful note in the mode—but its power comes from tension that resolves. Holding it for too many beats without resolving creates sustained dissonance rather than expressive tension. Rule: the ♭2 presses; it does not rest. Give it 1–2 beats, then resolve it downward to the tonic or continue upward.
+
+**Never using the ♭2 at all**: the opposite error. Beginners sometimes avoid the ♭2 because it sounds "wrong" against an implied E tonic. It is not wrong—it is the mode's entire personality. A Phrygian melody that never meaningfully uses F is a minor melody, not a Phrygian one. Place F on at least one strong beat per phrase.
+
+**Playing in one register**: a Phrygian composition that stays in the middle register throughout has no arc. The ♭2 in the low register sounds intimate and private; in the upper register it sounds open and anguished. Use both to create a journey.
+
+**Forcing resolution to the tonic constantly**: Phrygian's character comes partly from its resistance to strong tonal resolution—it has no leading tone pressing upward. Phrases can settle on the ♭7, the fourth, or even the ♭2 itself without landing on the tonic. Ending every phrase on E makes the mode sound like it wants to be major. Let some phrases end elsewhere.
+
+**Playing too fast**: the ♭2's emotional charge requires time to register. At fast tempos it becomes a brief passing note rather than an expressive event. Phrygian works best at moderate-slow tempos where each characteristic interval has room to breathe.

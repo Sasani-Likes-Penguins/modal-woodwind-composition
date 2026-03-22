@@ -143,3 +143,83 @@ Now write a 4-bar phrase returning to the original minor mode. Notice how the re
 - [Lydian Mode](mode-lydian.md)—Ionian with the fourth raised; wonder and floating
 - [Dorian Mode](mode-dorian.md)—the darkened minor that pairs most naturally with Ionian in modal mixture
 - [Celtic Modes](world-celtic-modes.md)—Ionian as the most common Celtic mode in Irish traditional music
+
+---
+
+## Composing in Ionian for Solo Wind: A Complete Guide
+
+### Ionian Is Not Simple—It Is the Hardest Mode to Make Interesting
+
+Every beginner's first scale is the major scale. This familiarity makes Ionian the most difficult mode to compose in expressively—not because it lacks emotional range, but because its emotional range is so well-mapped by the listener's existing expectations that nothing surprises.
+
+To compose interesting Ionian music, you must understand what makes it familiar and then deliberately work against those expectations while staying within the mode. The tools are: rhythmic surprise, register contrast, and the deliberate management of the leading tone.
+
+### The Leading Tone: Use It or Withhold It
+
+The leading tone (B in C major—the half-step below the octave that urgently wants to rise) is the most powerful note in Ionian. Used on a strong beat before a tonic arrival, it creates the clearest, most resolved cadence in Western music. Used too often, it makes the music sound mechanical—every phrase clicking shut with the same lock-and-key motion.
+
+**Three approaches to the leading tone**:
+
+**Use it at climactic arrivals only**: save the leading tone for the single most important arrival in the composition—the climax or the final note. Approach every other phrase ending from a step above (D – C in C major) or a fifth above (G – C) rather than from the leading tone. When the leading tone finally appears, its arrival is much more powerful for having been withheld.
+
+**Approach the leading tone from above**: B can be arrived at from C (descending)—a descending half-step rather than an ascending one. This reverses the direction of the urgency: instead of B pressing upward, C presses downward to B before continuing the descent. This creates unexpected color within a very familiar scale.
+
+**Withhold it entirely**: compose a piece in C major that never uses B. You now have the major pentatonic scale (C – D – E – G – A). The absence of the leading tone gives the melody an open, folk quality—major without the urgency of tonal Western music.
+
+### The Major Third: The Note of Brightness
+
+The major third (E in C major) is the single note that makes Ionian "major" rather than minor. Emphasizing it creates brightness; withholding it or approaching it carefully creates more complex major moods.
+
+**For celebrations**: place the major third on strong beats; use it as a phrase peak; let it ring with a dynamic swell. The major third on a strong beat is the sonic equivalent of sunlight—uncomplicated brightness.
+
+**For noble, hymn-like writing**: approach the major third from below (D – E), hold it briefly, then continue upward (E – F – G). The measured approach to the major third creates dignity rather than cheerfulness.
+
+**For Ionian as contrast within a dark-mode piece**: when briefly visiting Ionian from Phrygian or Dorian, let the major third arrive unexpectedly—on an unaccented beat, touching E where E♭ or G was expected. The surprise of the major third against the minor context is the entire emotional effect.
+
+### Eliciting Specific Emotions in Ionian
+
+**Joy and celebration**: fast tempo; phrases ascending to the major third and fifth; strong rhythmic accents; clean, bright articulation; high register for the peak phrase; the leading tone used freely at every phrase ending.
+
+**Hymn-like nobility**: slow to moderate tempo; long sustained phrases; the fifth (G in C major) as the primary resting point between tonic arrivals; moderate dynamics with a single peak; no fast runs—stepwise motion only.
+
+**Gentle brightness** (folk major): moderate tempo with rhythmic regularity; the pentatonic subset (C – D – E – G – A) as the primary material with F and B as occasional passing notes; the flat seventh borrowed occasionally from Mixolydian for a folk-major quality.
+
+**Ancient simplicity** (modal Ionian): very slow; sparse—three or four notes per phrase; wide silences; Ionian treated as a medieval mode (which it was) rather than a modern major scale; avoid the V – I cadential motion of tonal harmony; let the melody drift between the tonic, fifth, and major third without the urgency of resolution.
+
+**Ionian as a contrast moment within Phrygian/Dorian writing**: the major third arriving unexpectedly; the leading tone (absent in Phrygian, present in Ionian) as a sudden note of urgency after the modal openness; the phrase returning quickly to the darker mode, leaving the Ionian moment as a shaft of light.
+
+### Step-by-Step: Composing in Ionian
+
+**C Ionian**: C – D – E – F – G – A – B – C
+**Instrument**: any (Ionian is the native scale of the D whistle and G whistle in their primary keys; fully natural on recorder)
+
+1. **Establish the major quality**: begin on E (the major third—the brightness)—not on C. Starting on the major third rather than the tonic places the listener immediately in the mode's emotional territory. Play E alone. Step up to F, then G. Arrive on G (the fifth—open and stable). The first three notes (E – F – G) are a minor third that feels major because of the tonic implied below.
+
+2. **Arrive on the tonic**: descend from G: G – E – D – C. The arrival on C from above (D – C)—approaching the tonic from the step above rather than the leading tone—is warmer and less mechanical than a leading-tone cadence. First phrase complete.
+
+3. **The ascending arch**: second phrase ascends: C – D – E – F – G – A – B. When B arrives (the leading tone), *do not resolve immediately*. Hold B for one beat—let it press. Then: B – C. The held leading tone before resolution creates more emotional weight than an immediate cadence.
+
+4. **High phrase with the sixth**: ascend to A (the major sixth—a note that adds warmth above the fifth). From A: A – G – F – E – D – C. A smooth descending scale, arriving home without the leading tone (because this phrase ends through D – C rather than B – C). Contrast with phrase 3.
+
+5. **Peak phrase in the upper register**: ascend to the high C or B if available. The high B (leading tone in the upper register) has a bright, aspiring quality. From high B: B – A – G – F – E – D – C. The full descending scale from the leading tone to home. This is the composition's climax—the highest note, the most complete scale, the most directed arrival.
+
+6. **Close**: C – E – G – C (ascending arpeggio—broken chord of the tonic). This upward motion to a final C is more interesting than simply playing C alone. The arpeggio outlines the major triad (C – E – G) before settling on the upper C. Or: C alone, the simplest possible ending.
+
+### Using Ionian as a Contrast Color
+
+Ionian's most sophisticated use in this repository is as a brief contrast within a primarily minor or modal composition. The technique:
+
+1. Establish the primary mode clearly (Phrygian, Dorian, Aeolian)—at least four to six phrases.
+2. Without preparation, play one phrase in the relative major (Ionian on the third, sixth, or other degree of the primary mode). Example: in E Phrygian, the relative major is G major (Ionian). One phrase in G major, touching B (the leading tone of G major) and arriving on G.
+3. Return immediately to E Phrygian. The F natural returns (the Phrygian half-step above E); the mood darkens.
+4. The contrast makes both modes more vivid: the Ionian phrase demonstrates how bright major is; the return to Phrygian demonstrates how dark the mode is.
+
+**Key rule**: the Ionian contrast phrase should be exactly one phrase—brief enough to feel like a window opening, not a modulation. A window: a moment of light, then closed. Not a new room.
+
+### Common Beginner Mistakes
+
+**Using only the pentatonic**: the major pentatonic (C – D – E – G – A) is comfortable to stay in because it has no half-steps. But the half-steps (E – F and B – C) are what give Ionian its character—the half-step E – F creates the feeling of the fourth sitting just above the major third; the leading tone B – C creates the urgency of arrival. Use F and B deliberately, not accidentally.
+
+**Ending every phrase with the leading tone**: the leading tone (B → C in C major) is powerful precisely because it is used selectively. A phrase that ends B – C every time becomes predictable. Alternate: some phrase endings through D – C (from above), some through G – A – C (through the sixth), some resting on G or E without arriving on C at all.
+
+**Ionian at the same tempo throughout**: major mode music that does not vary tempo feels march-like and mechanical. Even a simple major melody needs to breathe—slow slightly at phrase endings, press forward slightly during ascending development phrases.

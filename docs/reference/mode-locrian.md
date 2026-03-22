@@ -228,3 +228,29 @@ Before writing in Locrian, ask: does this piece need the *absence of resolution*
 - [Brain Biology and Psychology](brain-biology-psychology.md)—why the tritone activates the amygdala; why silence after the ♭5 is so powerful
 - [Ornamentation Guide](ornamentation-guide.md)—how to ornament Locrian melody
 - [Structure and Surprise](structure-and-surprise.md)—using silence as a compositional tool
+
+---
+
+## Eliciting Specific Emotions in Locrian
+
+**Perpetual unease**: moderate-slow tempo; phrases that visit the ♭5 (tritone) as a passing note once per phrase—arrived at by step, never by leap; after each ♭5 arrival, silence for 2–3 beats before the next phrase; the music never settles on the tonic or the fourth for more than one beat; the ♭2 (Phrygian half-step) adds a second pressing quality; everything is movement without arrival.
+
+**Resigned acceptance of the unresolvable**: slow tempo; the fourth degree (E in B Locrian, G in D Locrian) as the primary resting point rather than the tonic; long phrases that reach the ♭5 and then step back down to the fourth (not the tonic)—settling on the second-most-stable note rather than home; the final note of the composition on the fourth rather than the tonic; the music has accepted that it cannot come home.
+
+**Profound, still darkness**: very slow; sparse—two or three notes per phrase; only the bottom three degrees of the scale (tonic, ♭2, ♭3) used in the first half of the piece; the ♭5 introduced only in the second half as a single, held note followed by long silence; no dynamic above mezzo-piano; this is darkness that is too complete to be dramatic.
+
+**Threshold and liminality**: the sensation of standing at the edge of something—not fear, but the stillness of a boundary; the ♭5 as the edge itself; phrases that move toward the ♭5 and stop, or approach it and retreat; the music hovering near the ♭5 without fully arriving; the fourth degree as the landing place after each approach.
+
+---
+
+## Common Beginner Mistakes in Locrian
+
+**Trying to make Locrian "work" like other modes**: Locrian is not a mode that resolves or settles in the conventional sense. Beginners often try to make it sound like Phrygian (adding ornaments that imply Phrygian character) or to give it a tonic-feeling arrival. Embrace the instability rather than correcting it. The mode's purpose is to express states that do not resolve.
+
+**Playing the ♭5 too frequently**: the tritone (♭5) is the most dissonant interval in the mode. Used in every phrase, it becomes numbing. Used sparingly—once or twice per composition, as a carefully placed arrival—it retains maximum impact. Plan your ♭5 moments; do not let them happen by accident.
+
+**Ignoring the fourth as the resting point**: because the tonic chord in Locrian is diminished (unstable), the tonic itself is not a comfortable resting point. The fourth degree (E in B Locrian) is the only relatively stable note in the mode. Use it as a resting point. Phrases should arrive at the fourth as their stable point, not the tonic.
+
+**Overly fast tempo**: Locrian's instability requires time to register. At fast tempos, the ♭5 and ♭2 become passing notes rather than expressive events. Slow down. Let each note's relationship to the tonic (which is itself unstable) register fully before moving to the next.
+
+**Avoiding Locrian and writing Phrygian instead**: Locrian and Phrygian differ by one note—the ♭5. Beginners who are uncomfortable with the tritone instability sometimes unconsciously use the natural fifth (which converts Locrian to Phrygian). The natural fifth makes the music more comfortable—and loses the entire point. Use the diminished fifth deliberately.
