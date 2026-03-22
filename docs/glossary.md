@@ -4,6 +4,10 @@ Definitions for all technical terms, non-English words, and music theory concept
 
 ---
 
+## Table of Contents
+
+[A](#a) — [B](#b) — [C](#c) — [D](#d) — [E](#e) — [F](#f) — [G](#g) — [H](#h) — [I](#i) — [J](#j) — [K](#k) — [L](#l) — [M](#m) — [N](#n) — [O](#o) — [P](#p) — [Q](#q) — [R](#r) — [S](#s) — [T](#t) — [U](#u) — [V](#v) — [W](#w) — [Z](#z)
+
 ## A
 
 **Accidental**—A symbol that raises or lowers a note by a half-step or more. The most common accidentals are the sharp (♯, raises by a half-step), the flat (♭, lowers by a half-step), and the natural (♮, cancels a previous sharp or flat). See also: *koron*, *sori*, *quarter-tone*.
