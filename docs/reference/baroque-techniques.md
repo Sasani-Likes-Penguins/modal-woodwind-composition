@@ -15,13 +15,15 @@
 6. [Phrase Structure: Music as Speech](#phrase-structure-music-as-speech)
 7. [Form: The Shape of a Whole Piece](#form-the-shape-of-a-whole-piece)
 8. [Applying This to Your Instruments](#applying-this-to-your-instruments)
-9. [Further Reading and Related Topics](#gaps-and-limitations)
+9. [Baroque Repertoire for Wind Players to Study](#baroque-repertoire-for-wind-players-to-study)
+10. [Connecting Baroque Principles to Other Traditions](#connecting-baroque-principles-to-other-traditions)
+11. [Composing in Baroque Style for Solo Wind: Step-by-Step](#composing-in-baroque-style-for-solo-wind-step-by-step)
 
 ## The Central Idea: Music as Emotional Rhetoric
 
-Baroque music (roughly 1600–1750) was governed by a powerful idea: music should express specific emotions with the same precision and intention that a great speaker uses to move an audience.⁽[¹⁸](https://louis.pressbooks.pub/exploringarts/chapter/568/) Composers thought of themselves as orators—making arguments in sound rather than words, but with the same goal of producing a specific feeling in the listener.
+Baroque music (roughly 1600–1750) was governed by a powerful idea: music should express specific emotions with the same precision and intention that a great speaker uses to move an audience.[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/) Composers thought of themselves as orators—making arguments in sound rather than words, but with the same goal of producing a specific feeling in the listener.
 
-The formal name for this idea was the *Doctrine of Affections* (German: *Affektenlehre*)—from the Latin word *affectus*, meaning "feeling" or "passion"⁽[¹⁵]⁾(https://en.wikipedia.org/wiki/Baroque_music)⁽[¹⁸]⁾(https://louis.pressbooks.pub/exploringarts/chapter/568/). In practice, it meant:
+The formal name for this idea was the *Doctrine of Affections* (German: *Affektenlehre*)—from the Latin word *affectus*, meaning "feeling" or "passion"[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music)[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/). In practice, it meant:
 
 1. Before writing anything, decide exactly what emotion this piece expresses.
 2. Every note, ornament, rhythm, and volume choice serves that emotion.
@@ -33,7 +35,7 @@ This principle is the most useful thing Baroque music can offer a composer worki
 
 ## Choosing One Feeling
 
-Early Baroque composers typically wrote entire movements expressing a single emotion—the same sustained feeling from first note to last. ⁽[¹⁸]⁾(https://louis.pressbooks.pub/exploringarts/chapter/568/) Bach, who came later, was celebrated for being able to move between different emotional states within a single piece—but this was considered a mark of unusual mastery, not the default  ⁽[¹⁸]⁾(https://louis.pressbooks.pub/exploringarts/chapter/568/).
+Early Baroque composers typically wrote entire movements expressing a single emotion—the same sustained feeling from first note to last[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/). Bach, who came later, was celebrated for being able to move between different emotional states within a single piece—but this was considered a mark of unusual mastery, not the default[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/).
 
 For a solo wind player composing in Phrygian or Locrian: **start by trying the single-affect approach**. Choose grief, or sacred awe, or fierce passion, and commit to it entirely for one piece. This discipline is easier than it sounds and produces astonishingly focused, emotionally coherent music.
 
@@ -41,9 +43,9 @@ For a solo wind player composing in Phrygian or Locrian: **start by trying the s
 
 ## Ornaments: The Emotional Vocabulary
 
-In Baroque music, ornaments—trills, lean notes, slides, turns—were not decorations added after the important work was done. They *were* the important work. Performers were expected to improvise them freely from what the composer wrote.⁽[¹⁵]⁾(https://en.wikipedia.org/wiki/Baroque_music)⁽[¹⁶]⁾(https://fiveable.me/history-music-1600-1750/unit-13)
+In Baroque music, ornaments—trills, lean notes, slides, turns—were not decorations added after the important work was done. They *were* the important work. Performers were expected to improvise them freely from what the composer wrote[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music)[⁽¹⁶⁾](https://fiveable.me/history-music-1600-1750/unit-13).
 
-The French tradition of Baroque music notated ornaments in elaborate detail; the Italian tradition largely left their execution to the performer⁽[¹⁷]⁾(https://tafelmusik.org/explore-baroque/baroque-101/). Between these extremes, the shared understanding was: ornaments are how specific emotions are expressed with precision.
+The French tradition of Baroque music notated ornaments in elaborate detail; the Italian tradition largely left their execution to the performer[⁽¹⁷⁾](https://tafelmusik.org/explore-baroque/baroque-101/). Between these extremes, the shared understanding was: ornaments are how specific emotions are expressed with precision.
 
 **The main ornaments and what they express**:
 
@@ -57,28 +59,28 @@ The French tradition of Baroque music notated ornaments in elaborate detail; the
 
 **The sigh** (Latin: *suspiratio*): A short note, then a rest, then the next phrase begins. The rest *is* the sigh—the breath held after the emotion. Use in grief passages.
 
-**The lament descent** (Latin: *passus duriusculus*): Moving the melody downward in pure half-steps—for example E → D♯ → D → C♯ → C. Baroque composers used this as the "grief figure"—the sound of inevitable, descending sorrow⁽[¹⁵]⁾(https://en.wikipedia.org/wiki/Baroque_music). Even three or four half-steps creates this effect.
+**The lament descent** (Latin: *passus duriusculus*): Moving the melody downward in pure half-steps—for example E → D♯ → D → C♯ → C. Baroque composers used this as the "grief figure"—the sound of inevitable, descending sorrow[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music). Even three or four half-steps creates this effect.
 
 ---
 
 ## Tone Color on Baroque Woodwinds
 
-All Baroque woodwind instruments (recorder, baroque flute, baroque oboe) required non-standard fingerings to play notes that weren't in the instrument's natural scale⁽[¹⁷]⁾(https://tafelmusik.org/explore-baroque/baroque-101/). These non-standard fingerings produce a slightly different tone quality—slightly quieter, slightly more "veiled" or indirect.
+All Baroque woodwind instruments (recorder, baroque flute, baroque oboe) required non-standard fingerings to play notes that weren't in the instrument's natural scale[⁽¹⁷⁾](https://tafelmusik.org/explore-baroque/baroque-101/). These non-standard fingerings produce a slightly different tone quality—slightly quieter, slightly more "veiled" or indirect.
 
-Baroque composers knew this and used it expressively⁽[¹⁷]⁾(https://tafelmusik.org/explore-baroque/baroque-101/). The one-up note in Phrygian, being outside the home key's natural notes, will often be one of these "veiled" notes on recorder. Rather than trying to match the tone of the surrounding notes, treat that slight timbral difference as part of the note's emotional identity—a note that sounds slightly "other," slightly searching.
+Baroque composers knew this and used it expressively[⁽¹⁷⁾](https://tafelmusik.org/explore-baroque/baroque-101/). The one-up note in Phrygian, being outside the home key's natural notes, will often be one of these "veiled" notes on recorder. Rather than trying to match the tone of the surrounding notes, treat that slight timbral difference as part of the note's emotional identity—a note that sounds slightly "other," slightly searching.
 
 ---
 
 ## Volume in Baroque Style: Sharp Contrasts
 
-Baroque music typically changed volume in clear steps rather than gradual swells—loud, then quiet, rather than gradually getting louder or softer⁽[²⁶]⁾(https://www.musicalinstrumenthub.com/archives/21844). This came partly from the harpsichord (the keyboard instrument of the era), which couldn't vary volume based on touch. The aesthetic was contrast, not gradient.
+Baroque music typically changed volume in clear steps rather than gradual swells—loud, then quiet, rather than gradually getting louder or softer[⁽²⁶⁾](https://www.musicalinstrumenthub.com/archives/21844). This came partly from the harpsichord (the keyboard instrument of the era), which couldn't vary volume based on touch. The aesthetic was contrast, not gradient.
 
 For a solo wind instrument in Baroque style:
 - Use clear loud and soft sections rather than continuous shaping
 - The moment of switching from loud to soft (or vice versa) is itself expressive—a sudden drop to quiet can feel like an intake of breath, a moment of sudden private grief
 - Playing the same phrase first loud then soft (or first soft then loud) was a standard Baroque way of varying a repeated phrase
 
-That said: **Baroque flute players did shade volume within individual phrases**—breath pressure naturally varies as emotion varies. The "no gradual dynamics" rule is a structural principle for sections, not a ban on nuance within a phrase   ⁽[¹⁹]⁾(https://www.oldflutes.com/baroq.htm).
+That said: **Baroque flute players did shade volume within individual phrases**—breath pressure naturally varies as emotion varies. The "no gradual dynamics" rule is a structural principle for sections, not a ban on nuance within a phrase   [⁽¹⁹⁾](https://www.oldflutes.com/baroq.htm).
 
 ---
 
@@ -92,7 +94,7 @@ Baroque composers thought of musical phrases the way we think of sentences—wit
 
 This question-and-answer pair is the smallest complete emotional exchange in Baroque music. You can build entire pieces from it, varying whether the question gets answered, delayed, or answered unexpectedly.
 
-**Phrase length**: Baroque phrases were often four bars long, but composers regularly stretched or shortened phrases for expressive purposes   ⁽[²⁸]⁾(https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/composition-and-melodic-development/). A phrase that "should" end at bar four but continues to bar six creates accumulating tension. A phrase that ends at bar three instead of four creates breathlessness.
+**Phrase length**: Baroque phrases were often four bars long, but composers regularly stretched or shortened phrases for expressive purposes   [⁽²⁸⁾](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/composition-and-melodic-development/). A phrase that "should" end at bar four but continues to bar six creates accumulating tension. A phrase that ends at bar three instead of four creates breathlessness.
 
 ---
 
@@ -110,20 +112,13 @@ Most Baroque wind music used one of these forms:
 
 ## Applying This to Your Instruments
 
-**Recorder**: The recorder is the most naturally Baroque of your instruments. Use it for music that demands structural clarity, precise ornamental language, and the specific tender-to-grief emotional range that Baroque composers associated with it. The French Baroque writer François Raguenet described the recorder (and transverse flute) as suited to making music "groan" and "sigh" in mournful and tender airs⁽[¹⁹]⁾(https://www.oldflutes.com/baroq.htm).
+**Recorder**: The recorder is the most naturally Baroque of your instruments. Use it for music that demands structural clarity, precise ornamental language, and the specific tender-to-grief emotional range that Baroque composers associated with it. The French Baroque writer François Raguenet described the recorder (and transverse flute) as suited to making music "groan" and "sigh" in mournful and tender airs[⁽¹⁹⁾](https://www.oldflutes.com/baroq.htm).
 
 **Moldavian kaval**: While not a Baroque instrument, the Baroque approach of choosing a single affect, structuring phrases as questions and answers, and using the lean-note ornament to emphasize the one-up note translates entirely to the kaval. The result is not "Baroque kaval music"—it's Baroque thinking applied to a Balkan folk instrument, which produces something genuinely new.
 
-**Irish whistle**: The Irish slow air is structurally Baroque in the best sense—a single long melody, deeply felt, with ornamental elaboration and phrase shapes that mirror vocal speech⁽[⁴⁰]⁾(https://www.tradschool.com/en/irish-music/low-whistle/). The "whistle" tradition's ornamentation (cuts, rolls, slides) is simply a different dialect of the same ornamental language Baroque composers used.
+**Irish whistle**: The Irish slow air is structurally Baroque in the best sense—a single long melody, deeply felt, with ornamental elaboration and phrase shapes that mirror vocal speech[⁽⁴⁰⁾](https://www.tradschool.com/en/irish-music/low-whistle/). The "whistle" tradition's ornamentation (cuts, rolls, slides) is simply a different dialect of the same ornamental language Baroque composers used.
 
 **NAF**: The Baroque idea of choosing one emotion and playing from it entirely—what the NAF tradition calls playing from the heart, what some players describe as a "medicine song"—is the same impulse. Different cultural frame, identical artistic logic.
-
----
-
-## Further Reading and Related Topics
-
-- The bawu has no direct Baroque counterpart; Chinese musical traditions have their own equally sophisticated approach to expressive playing that develops along completely different lines.
-- Full exploration of Baroque counterpoint (multiple independent melodic lines) is beyond this guide's scope, since these instruments are used as solo melody instruments.
 
 ---
 
