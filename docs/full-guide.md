@@ -56,7 +56,7 @@ All of these are the same insight: emotion is not something you add to music aft
 
 Different scales carry different emotional territories. The table below is a quick-reference emotional map across the full repository. Use it to find the scale that most closely matches your chosen emotion, then go to its reference file for the full treatment.
 
-[**Western diatonic modes**:
+**Western diatonic modes**:
 
 | Mode | Emotional core | Best for |
 |------|---------------|---------|
@@ -68,7 +68,7 @@ Different scales carry different emotional territories. The table below is a qui
 | Aeolian (Natural Minor) | Resigned sadness, introspection | Quiet grief, private feeling, folk lament |
 | Locrian | Perpetual unease, no stable home | Profound instability, the unresolvable, threshold states |
 
-[**Extended Western scales**:
+**Extended Western scales**:
 
 | Scale | Emotional core |
 |-------|---------------|
@@ -83,7 +83,7 @@ Different scales carry different emotional territories. The table below is a qui
 | Minor Blues | Searching, longing, bittersweet; the blue note's ache |
 | Bebop scales | Jazz fluency; swinging clarity; chromatic passing color |
 
-[**World systems** (each is a complete modal universe—see its reference file):
+**World systems** (each is a complete modal universe—see its reference file):
 
 | System | Emotional range | File |
 |--------|----------------|------|
@@ -131,13 +131,13 @@ In Indian classical music, the *alap* is shaped entirely by breath—the slow un
 
 Where you breathe is a compositional decision:
 
-[**Long phrases without breath** (achievable with breath control, or on kaval via circular breathing—breathing in through the nose while maintaining airflow through the mouth): the held, unbroken line creates urgency and intensity. The listener unconsciously feels the sustained effort. Use for grief that cannot stop, for ecstatic continuation, for the sustained devotional energy of Sufi qawwali singing.
+**Long phrases without breath** (achievable with breath control, or on kaval via circular breathing—breathing in through the nose while maintaining airflow through the mouth): the held, unbroken line creates urgency and intensity. The listener unconsciously feels the sustained effort. Use for grief that cannot stop, for ecstatic continuation, for the sustained devotional energy of Sufi qawwali singing.
 
-[**Short phrases with frequent breath**: fragmented, searching, like someone trying to find words. Use for questioning states, disturbed emotion, the Locrian sense of never finding ground.
+**Short phrases with frequent breath**: fragmented, searching, like someone trying to find words. Use for questioning states, disturbed emotion, the Locrian sense of never finding ground.
 
-[**Breath in unexpected places**: cutting a phrase before its natural end, or holding beyond it—disorienting in the most expressive way. Like a speaker suddenly losing composure, or suddenly finding it.
+**Breath in unexpected places**: cutting a phrase before its natural end, or holding beyond it—disorienting in the most expressive way. Like a speaker suddenly losing composure, or suddenly finding it.
 
-[**The breath as ornament**: in some traditions—NAF, Irish whistle, kaval—the audible breath itself is part of the music, not a gap in it. Do not hide it. The breath says: a human being is playing this.
+**The breath as ornament**: in some traditions—NAF, Irish whistle, kaval—the audible breath itself is part of the music, not a gap in it. Do not hide it. The breath says: a human being is playing this.
 
 ---
 
@@ -145,11 +145,11 @@ Where you breathe is a compositional decision:
 
 Every phrase—in every tradition in this repository—has a shape: louder and more intense toward the peak, quieter at the beginning and end. This mirrors the natural contour of human speech. We emphasize the most important word by making it louder and slightly longer. Music does the same.
 
-[**On a single sustained note** (the Italian *messa di voce*; the Indian *andolan* at the phrase level; the Arabic *tarab* moment): start soft, grow louder through the middle of the note, then fade back to soft before moving on. Applied to the characteristic tension note of any scale—the one-up note of Phrygian, the neutral third of Bayati, the raised fourth of Lydian, the blue note of blues—this technique is maximally expressive. The listener feels the tension in that swell.
+**On a single sustained note** (the Italian *messa di voce*; the Indian *andolan* at the phrase level; the Arabic *tarab* moment): start soft, grow louder through the middle of the note, then fade back to soft before moving on. Applied to the characteristic tension note of any scale—the one-up note of Phrygian, the neutral third of Bayati, the raised fourth of Lydian, the blue note of blues—this technique is maximally expressive. The listener feels the tension in that swell.
 
-[**On a phrase** (a musical sentence of several notes): begin quietly, build toward the highest or most emotionally charged note, sustain it briefly, then relax dynamically as the phrase closes.
+**On a phrase** (a musical sentence of several notes): begin quietly, build toward the highest or most emotionally charged note, sustain it briefly, then relax dynamically as the phrase closes.
 
-[**On a whole piece**: identify the single moment of maximum emotional intensity—the climax—and structure everything else around it. Everything before builds toward it; everything after moves away from it and settles. This large-scale arc appears in Indian raga (the alap's gradual ascent from low register to high register over many minutes), in Persian dastgah performance (the middle gushes rise progressively higher before the forud descent), in Baroque binary form (the A section builds to a cadential pause), in Celtic slow airs (the melody arches to a high note then descends to close), and in every blues performance (the tension builds toward the climax then releases). The shape is universal. The timescale and the specific notes differ by tradition. The emotional logic is identical.
+**On a whole piece**: identify the single moment of maximum emotional intensity—the climax—and structure everything else around it. Everything before builds toward it; everything after moves away from it and settles. This large-scale arc appears in Indian raga (the alap's gradual ascent from low register to high register over many minutes), in Persian dastgah performance (the middle gushes rise progressively higher before the forud descent), in Baroque binary form (the A section builds to a cadential pause), in Celtic slow airs (the melody arches to a high note then descends to close), and in every blues performance (the tension builds toward the climax then releases). The shape is universal. The timescale and the specific notes differ by tradition. The emotional logic is identical.
 
 ---
 
@@ -173,7 +173,7 @@ The practical applications are identical across all traditions:
 
 One rule applies everywhere: the listener should feel the emotion, not notice the timing. If they feel you rushing or dragging, you have gone too far.
 
-[**Style matching**: the amount of temporal flexibility appropriate varies enormously by tradition. Baroque music uses very little—the rhythmic framework is quite strict. Romantic music uses a great deal. Indian alap uses essentially no fixed time at all. Celtic jigs and reels are strictly metered. Know which tradition you are working in and calibrate accordingly.
+**Style matching**: the amount of temporal flexibility appropriate varies enormously by tradition. Baroque music uses very little—the rhythmic framework is quite strict. Romantic music uses a great deal. Indian alap uses essentially no fixed time at all. Celtic jigs and reels are strictly metered. Know which tradition you are working in and calibrate accordingly.
 
 ---
 
@@ -181,19 +181,19 @@ One rule applies everywhere: the listener should feel the emotion, not notice th
 
 In every tradition covered here, rests and silence are structural elements equal in importance to notes. They are not gaps in the music. They are the music continuing in negative space.
 
-[**Why silence works (the neuroscience)**: neurons in the auditory cortex fire in response to the *absence* of a predicted note. When the brain has established a pattern and a note is omitted—a beat of silence where the melody "should" continue—those neurons generate what researchers call a "negative prediction error response." The silence is *heard*. The listener's nervous system is actively reaching for the absent note, held in the "wanting" phase of the dopamine anticipation cycle for the duration of the silence. Used deliberately, silence is one of the most powerful compositional tools available.
+**Why silence works (the neuroscience)**: neurons in the auditory cortex fire in response to the *absence* of a predicted note. When the brain has established a pattern and a note is omitted—a beat of silence where the melody "should" continue—those neurons generate what researchers call a "negative prediction error response." The silence is *heard*. The listener's nervous system is actively reaching for the absent note, held in the "wanting" phase of the dopamine anticipation cycle for the duration of the silence. Used deliberately, silence is one of the most powerful compositional tools available.
 
-[**In Persian music**: the *forud* (the descent back to home) is often characterized by long held silences between phrases—the music has journeyed far and is now resting, breathing, finding its way back.
+**In Persian music**: the *forud* (the descent back to home) is often characterized by long held silences between phrases—the music has journeyed far and is now resting, breathing, finding its way back.
 
-[**In Arvo Pärt's tintinnabuli**: the silence after each phrase is as long as the phrase itself. The silence is the phrase still sounding in the listener's mind.
+**In Arvo Pärt's tintinnabuli**: the silence after each phrase is as long as the phrase itself. The silence is the phrase still sounding in the listener's mind.
 
-[**In Indian alap**: long silences between the introduction of new notes are structurally essential—each new note needs space to establish itself in the listener's ear before the next one arrives.
+**In Indian alap**: long silences between the introduction of new notes are structurally essential—each new note needs space to establish itself in the listener's ear before the next one arrives.
 
-[**In gamelan**: the cyclic return of the gong punctuates silence with a sonic arrival that feels inevitable after the accumulation of smaller patterns.
+**In gamelan**: the cyclic return of the gong punctuates silence with a sonic arrival that feels inevitable after the accumulation of smaller patterns.
 
-[**In Celtic slow airs**: a breath held at the peak of a phrase—a fraction of a second longer than necessary—is the ornament that marks the emotional climax.
+**In Celtic slow airs**: a breath held at the peak of a phrase—a fraction of a second longer than necessary—is the ornament that marks the emotional climax.
 
-[**The practice**: compose silences with the same deliberateness as notes. Ask: where does this phrase end? Where does the next one begin? What happens in the space between them? The answer to the third question is as important as the first two.
+**The practice**: compose silences with the same deliberateness as notes. Ask: where does this phrase end? Where does the next one begin? What happens in the space between them? The answer to the third question is as important as the first two.
 
 ---
 
@@ -201,13 +201,13 @@ In every tradition covered here, rests and silence are structural elements equal
 
 Every instrument sounds different in its low, middle, and high registers. These differences carry emotional meaning that is consistent enough across traditions to be treated as a compositional principle:
 
-[**Low register**: intimate, close, personal, often dark or ancient. The Persian ney in its lowest register is described as the sound of the soul breathing. The kaval's lowest notes—especially with the dual-voice technique—sound primordial and vast simultaneously. The low D whistle's lower octave is "haunting and delicate." The bawu's lowest notes are buzzing and harmonically complex. Use the low register for intimacy, for darkness, for beginning.
+**Low register**: intimate, close, personal, often dark or ancient. The Persian ney in its lowest register is described as the sound of the soul breathing. The kaval's lowest notes—especially with the dual-voice technique—sound primordial and vast simultaneously. The low D whistle's lower octave is "haunting and delicate." The bawu's lowest notes are buzzing and harmonically complex. Use the low register for intimacy, for darkness, for beginning.
 
-[**Middle register**: expressive, singing, most characteristic. This is where most instruments are most themselves—the recorder's sweet middle range, the kaval's lyrical second register, the bawu's warm, buzzing, harmonically rich range, the whistle's most even and singing tones. Most melodic material lives here.
+**Middle register**: expressive, singing, most characteristic. This is where most instruments are most themselves—the recorder's sweet middle range, the kaval's lyrical second register, the bawu's warm, buzzing, harmonically rich range, the whistle's most even and singing tones. Most melodic material lives here.
 
-[**High register**: urgent, intense, keening, sometimes harsh. The NAF's overblown range (when available—varies by instrument) can produce more intense tones, but is unreliable and should not be planned around. The recorder's upper range is bright and penetrating. The kaval's highest register can be harsh—use it sparingly for peaks of intensity.
+**High register**: urgent, intense, keening, sometimes harsh. The NAF's overblown range (when available—varies by instrument) can produce more intense tones, but is unreliable and should not be planned around. The recorder's upper range is bright and penetrating. The kaval's highest register can be harsh—use it sparingly for peaks of intensity.
 
-[**The compositional rule**: the emotional arc of a piece often mirrors the physical arc of pitch. Begin in the low register. Rise through the middle register as the music develops. Reach the high register only at the climax. Then descend back through middle to low for the resolution or acceptance. This arc is structural in Indian alap (which literally begins low and rises over its full duration), in Persian dastgah performance, in Baroque binary form, and in Celtic slow airs.
+**The compositional rule**: the emotional arc of a piece often mirrors the physical arc of pitch. Begin in the low register. Rise through the middle register as the music develops. Reach the high register only at the climax. Then descend back through middle to low for the resolution or acceptance. This arc is structural in Indian alap (which literally begins low and rises over its full duration), in Persian dastgah performance, in Baroque binary form, and in Celtic slow airs.
 
 ---
 
@@ -215,15 +215,15 @@ Every instrument sounds different in its low, middle, and high registers. These 
 
 In every tradition in this repository, ornaments—trills, slides, grace notes, turns, pitch bends—are not decorations added to a completed melody. They are the primary vocabulary of emotional expression. In many traditions, a melody played without its characteristic ornaments is not considered that melody at all.
 
-[**In Indian classical music**: the *gamaka* (ornamentation) is inseparable from the raga. A raga played without its characteristic gamakas is merely a scale.
+**In Indian classical music**: the *gamaka* (ornamentation) is inseparable from the raga. A raga played without its characteristic gamakas is merely a scale.
 
-[**In Arabic maqam**: the microtonal inflections—approaching the neutral third from slightly below, bending off a characteristic note—carry the emotional charge that distinguishes maqam from a mere scale.
+**In Arabic maqam**: the microtonal inflections—approaching the neutral third from slightly below, bending off a characteristic note—carry the emotional charge that distinguishes maqam from a mere scale.
 
-[**In Baroque music**: performers were expected to improvise ornamentation freely from a written skeleton. The written notes were the structure; the ornaments were the flesh and blood.
+**In Baroque music**: performers were expected to improvise ornamentation freely from a written skeleton. The written notes were the structure; the ornaments were the flesh and blood.
 
-[**In Celtic tradition**: the cut, roll, and slide of Irish whistle playing are not decorations on a tune. They ARE how the tune is articulated.
+**In Celtic tradition**: the cut, roll, and slide of Irish whistle playing are not decorations on a tune. They ARE how the tune is articulated.
 
-[**Universal ornament types** (named differently across traditions, functionally equivalent):
+**Universal ornament types** (named differently across traditions, functionally equivalent):
 
 *The lean note / appoggiatura / kan*: landing first on the tension note (the note above or below the intended target), holding it briefly on a stressed beat, then resolving. In Phrygian: land on the one-up note, let it press for a beat, then step home. In Hindustani: *kan* (quick grace note) before the main note. In Arabic: the characteristic approach to a maqam's most important note from just above or below.
 
@@ -253,9 +253,9 @@ Every musical tradition in this repository has a name for the short melodic cell
 
 All of these are the same idea: a short melodic shape that is recognizable, repeatable, and transformable—the seed from which a longer piece grows.
 
-[**Finding your seed phrase**: play slowly and quietly in your chosen scale. Find the 2–4 note pattern that feels like the emotional center of your sentence from Part I. It will almost certainly touch the scale's most characteristic note—the one-up note in Phrygian, the neutral third in Bayati, the raised fourth in Lydian, the blue note in blues, the augmented second in Hicaz or Hungarian Minor. Play it until it feels inevitable. That is your seed.
+**Finding your seed phrase**: play slowly and quietly in your chosen scale. Find the 2–4 note pattern that feels like the emotional center of your sentence from Part I. It will almost certainly touch the scale's most characteristic note—the one-up note in Phrygian, the neutral third in Bayati, the raised fourth in Lydian, the blue note in blues, the augmented second in Hicaz or Hungarian Minor. Play it until it feels inevitable. That is your seed.
 
-[**Developing the seed phrase**: the same transformations work across all traditions:
+**Developing the seed phrase**: the same transformations work across all traditions:
 
 - **Move it**: play the same shape starting on a different note—same emotion, different harmonic light
 - **Flip it**: ascending becomes descending—the familiar pattern becomes its own mirror image
@@ -270,9 +270,9 @@ All of these are the same idea: a short melodic shape that is recognizable, repe
 
 Surprise only works in the presence of established expectation. Every tradition in this repository uses the relationship between expectation and its violation as the primary engine of emotional engagement.
 
-[**Regular phrases establish the expectation**: four bars, four bars, four bars. Or a consistent phrase length in maqam. Or a consistent cycle length in gamelan. The listener's body begins to predict the ending.
+**Regular phrases establish the expectation**: four bars, four bars, four bars. Or a consistent phrase length in maqam. Or a consistent cycle length in gamelan. The listener's body begins to predict the ending.
 
-[**Variation creates the surprise**:
+**Variation creates the surprise**:
 
 *End later than expected*: add bars beyond the expected endpoint. The listener reaches for the ending and finds more music. Longing extends. Used in Celtic airs at emotional peaks, in maqam improvisation for dramatic effect, and in Romantic melody.
 
@@ -282,7 +282,7 @@ Surprise only works in the presence of established expectation. Every tradition 
 
 *Asymmetric meters*: 5/8, 7/8, 9/8, 11/8—native to Balkan folk music and kaval tradition. The phrase never quite lands where a standard Western ear expects it. The unpredictability is structural, built into the pulse itself.
 
-[**The rule that applies everywhere**: establish a pattern clearly—repeat it at least three times—before violating it. The violation's power comes entirely from the pattern that preceded it.
+**The rule that applies everywhere**: establish a pattern clearly—repeat it at least three times—before violating it. The violation's power comes entirely from the pattern that preceded it.
 
 ---
 
@@ -290,17 +290,17 @@ Surprise only works in the presence of established expectation. Every tradition 
 
 How a complete piece is shaped varies by tradition, but the underlying logic is consistent: a journey away from home, exploration, and a return—or a deliberate choice not to return.
 
-[**Western binary form (AB)**: Section A establishes home and primary material; Section B explores different territory (higher register, different modal color, contrasting dynamics); optional return to A transforms the familiar material.
+**Western binary form (AB)**: Section A establishes home and primary material; Section B explores different territory (higher register, different modal color, contrasting dynamics); optional return to A transforms the familiar material.
 
-[**Indian alap-jor-jhala**: unmetered opening rising from low register → pulsed middle exploration → fast climactic rushing. The arc: slow and low, pulsed and middle, fast and high, then into the composed gat.
+**Indian alap-jor-jhala**: unmetered opening rising from low register → pulsed middle exploration → fast climactic rushing. The arc: slow and low, pulsed and middle, fast and high, then into the composed gat.
 
-[**Persian dastgah performance**: daramad (opening, establishes home) → middle gushes (progressively higher, sometimes borrowing from related modes) → forud (the descent back toward home) → avaz (vocal improvisation) → tasnif (composed song) → reng (rhythmic close).
+**Persian dastgah performance**: daramad (opening, establishes home) → middle gushes (progressively higher, sometimes borrowing from related modes) → forud (the descent back toward home) → avaz (vocal improvisation) → tasnif (composed song) → reng (rhythmic close).
 
-[**Gamelan gending**: cyclic, not linear. The large gong marks the end of each cycle. Phrases accumulate and layer. There is no single climax—intensity rises and falls in waves before the piece concludes with a deliberate slowing.
+**Gamelan gending**: cyclic, not linear. The large gong marks the end of each cycle. Phrases accumulate and layer. There is no single climax—intensity rises and falls in waves before the piece concludes with a deliberate slowing.
 
-[**Celtic slow air**: a single long melody, unmetered, shaped by breath. Natural arc from opening phrase through development to high-note peak, then descent to close.
+**Celtic slow air**: a single long melody, unmetered, shaped by breath. Natural arc from opening phrase through development to high-note peak, then descent to close.
 
-[**For solo wind players**: the most universally applicable structure is the Indian alap arc—begin low and sparse, rise gradually, reach the peak, descend. Use it as your default structural template when no other form is specified.
+**For solo wind players**: the most universally applicable structure is the Indian alap arc—begin low and sparse, rise gradually, reach the peak, descend. Use it as your default structural template when no other form is specified.
 
 ---
 
@@ -308,19 +308,19 @@ How a complete piece is shaped varies by tradition, but the underlying logic is 
 
 Understanding the neuroscience behind musical emotion gives you a practical toolkit. The full treatment is in reference file 09; here is the essential summary for compositional application.
 
-[**Dopamine and anticipation**: the brain's reward system fires twice—once during *anticipation* (the buildup) and once at the *peak*. The buildup is already producing pleasure. A held silence before resolution, a sustained tension note before release, a slowly rising melodic line before its climax—these are physiologically activating the listener's reward system. Do not rush through them.
+**Dopamine and anticipation**: the brain's reward system fires twice—once during *anticipation* (the buildup) and once at the *peak*. The buildup is already producing pleasure. A held silence before resolution, a sustained tension note before release, a slowly rising melodic line before its climax—these are physiologically activating the listener's reward system. Do not rush through them.
 
-[**The prediction engine**: the brain constantly models what comes next in music. When a prediction is violated in an interesting way—a note arrives somewhere unexpected, a silence falls where a note was expected—the brain releases dopamine. *Establish patterns strongly enough that violations of them feel meaningful, not arbitrary.*
+**The prediction engine**: the brain constantly models what comes next in music. When a prediction is violated in an interesting way—a note arrives somewhere unexpected, a silence falls where a note was expected—the brain releases dopamine. *Establish patterns strongly enough that violations of them feel meaningful, not arbitrary.*
 
-[**The half-step above home**: this interval—the defining interval of Phrygian, also present in Neapolitan Minor, Ahavah Rabbah, Hicaz, and many other scales—appears more often in human infant crying than any other interval. The emotional response may be biological rather than learned.
+**The half-step above home**: this interval—the defining interval of Phrygian, also present in Neapolitan Minor, Ahavah Rabbah, Hicaz, and many other scales—appears more often in human infant crying than any other interval. The emotional response may be biological rather than learned.
 
-[**The augmented second**: the one-and-a-half-step leap (Double Harmonic, Hungarian Minor, Hijaz, Harmonic Minor) activates the amygdala across cultures—rare enough in most listeners' musical experience that it reliably spikes attention. Use it deliberately, not habitually.
+**The augmented second**: the one-and-a-half-step leap (Double Harmonic, Hungarian Minor, Hijaz, Harmonic Minor) activates the amygdala across cultures—rare enough in most listeners' musical experience that it reliably spikes attention. Use it deliberately, not habitually.
 
-[**Slow tempo and alpha brainwaves**: music at approximately 60 beats per minute can induce alpha brainwave states associated with relaxed alertness—the state where emotional processing is deepest and music most often produces tears and the feeling of music "saying something true." Most of the world's meditative and devotional musical traditions operate at or near this tempo.
+**Slow tempo and alpha brainwaves**: music at approximately 60 beats per minute can induce alpha brainwave states associated with relaxed alertness—the state where emotional processing is deepest and music most often produces tears and the feeling of music "saying something true." Most of the world's meditative and devotional musical traditions operate at or near this tempo.
 
-[**Silence as neural signal**: neurons in the auditory cortex fire in response to the *absence* of a predicted note. The silence after a sustained tension note is actively "heard" by the brain. The listener's nervous system holds the unresolved tension through the silence.
+**Silence as neural signal**: neurons in the auditory cortex fire in response to the *absence* of a predicted note. The silence after a sustained tension note is actively "heard" by the brain. The listener's nervous system holds the unresolved tension through the silence.
 
-[**Drone and entrainment**: sustained drone notes create a stable tonal anchor for the brain's prediction system—departures from home become more emotionally vivid when home is always audible. The kaval's dual-voice technique and the bawu's free-reed resonance create internal beating effects that may engage brainwave entrainment.
+**Drone and entrainment**: sustained drone notes create a stable tonal anchor for the brain's prediction system—departures from home become more emotionally vivid when home is always audible. The kaval's dual-voice technique and the bawu's free-reed resonance create internal beating effects that may engage brainwave entrainment.
 
 *For the full neuroscience treatment, see:* [Brain Biology & Psychology](reference/brain-biology-psychology.md)
 
