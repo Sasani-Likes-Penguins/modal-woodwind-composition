@@ -481,7 +481,7 @@ The full treatment, with specific exercises for each composer and tradition, is 
 | Balkan / kaval tradition | Characteristic cell as identity; rhythmic asymmetry | Romanian Minor, Double Harmonic, Phrygian on kaval |
 | NAF tradition | Authenticity over theory; play to something real | Pentatonic systems; meditative modal improvisation |
 
-*For full exercises in each style: [10—Composing in Imitation](reference/10-composing-in-imitation.md)*
+*For full exercises in each style: [Composing in Imitation](reference/composing-in-imitation.md)*
 
 ---
 
