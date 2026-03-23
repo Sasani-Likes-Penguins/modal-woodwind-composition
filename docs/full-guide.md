@@ -322,7 +322,7 @@ Understanding the neuroscience behind musical emotion gives you a practical tool
 
 **Drone and entrainment**: sustained drone notes create a stable tonal anchor for the brain's prediction system—departures from home become more emotionally vivid when home is always audible. The kaval's dual-voice technique and the bawu's free-reed resonance create internal beating effects that may engage brainwave entrainment.
 
-*For the full neuroscience treatment, see:* [09—Brain Biology & Psychology](reference/09-brain-biology-psychology.md)
+*For the full neuroscience treatment, see:* [Brain Biology & Psychology](reference/brain-biology-psychology.md)
 
 ---
 
