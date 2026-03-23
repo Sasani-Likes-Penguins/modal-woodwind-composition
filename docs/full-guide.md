@@ -332,92 +332,92 @@ This section gives a concise entry point for every scale and modal system in the
 
 ### The Seven Diatonic Modes
 
-[**Aeolian (Natural Minor)**](mode-aeolian.md): Three lowered degrees compared to major. The flat sixth adds anguish; the flat seventh gives no urgency toward resolution, making the sadness feel settled rather than turbulent. Emotionally: resigned sadness, introspection, private grief. The default minor scale across Western folk, classical, and popular music.
+[**Aeolian (Natural Minor)**](reference/mode-aeolian.md): Three lowered degrees compared to major. The flat sixth adds anguish; the flat seventh gives no urgency toward resolution, making the sadness feel settled rather than turbulent. Emotionally: resigned sadness, introspection, private grief. The default minor scale across Western folk, classical, and popular music.
 
-[**Dorian**](mode-dorian.md): Natural minor with a raised sixth degree—"bittersweet melancholy with a twist of hope." The raised sixth is the single note that distinguishes it from natural minor; emphasizing it is what makes a melody sound distinctly Dorian. Emotionally: resilient darkness, the minor that holds its head up. Celtic minor music is predominantly Dorian. Miles Davis's *Kind of Blue* is D Dorian.
+[**Dorian**](reference/mode-dorian.md): Natural minor with a raised sixth degree—"bittersweet melancholy with a twist of hope." The raised sixth is the single note that distinguishes it from natural minor; emphasizing it is what makes a melody sound distinctly Dorian. Emotionally: resilient darkness, the minor that holds its head up. Celtic minor music is predominantly Dorian. Miles Davis's *Kind of Blue* is D Dorian.
 
-[**Ionian (Major)**](mode-ionian.md): The foundation of Western music since the 17th century. Bright, resolved, confident. The leading tone (half-step below the octave) creates the strongest possible pull toward home. Emotionally: joy, celebration, nobility, hymn-like clarity. Use as a contrast mode within darker modal writing—a brief Ionian passage within Phrygian or Dorian creates an emotional shift as dramatic as sunlight through clouds.
+[**Ionian (Major)**](reference/mode-ionian.md): The foundation of Western music since the 17th century. Bright, resolved, confident. The leading tone (half-step below the octave) creates the strongest possible pull toward home. Emotionally: joy, celebration, nobility, hymn-like clarity. Use as a contrast mode within darker modal writing—a brief Ionian passage within Phrygian or Dorian creates an emotional shift as dramatic as sunlight through clouds.
 
-[**Locrian**](mode-locrian.md): Phrygian with an additional lowered fifth—the only diatonic mode where the home chord is diminished (unstable). There is no stable resting place. Emotionally: perpetual unease, the profoundly unresolved, threshold states. Best approached as a melodic texture rather than a harmonic system.
+[**Locrian**](reference/mode-locrian.md): Phrygian with an additional lowered fifth—the only diatonic mode where the home chord is diminished (unstable). There is no stable resting place. Emotionally: perpetual unease, the profoundly unresolved, threshold states. Best approached as a melodic texture rather than a harmonic system.
 
-[**Lydian**](mode-lydian): Major with a raised fourth—the only diatonic mode that raises a note compared to major, making it the "brightest" of all seven. The raised fourth creates a floating, unresolved quality: "musically going nowhere, beautifully." Emotionally: wonder, magic, awe, the vast and dreamlike. John Williams's default mode for cinematic wonder.
+[**Lydian**](reference/mode-lydian): Major with a raised fourth—the only diatonic mode that raises a note compared to major, making it the "brightest" of all seven. The raised fourth creates a floating, unresolved quality: "musically going nowhere, beautifully." Emotionally: wonder, magic, awe, the vast and dreamlike. John Williams's default mode for cinematic wonder.
 
-[**Mixolydian**](mode-mixolydian.md): Major with a flat seventh—the flat seventh removes the leading tone, leaving brightness without the urgency of resolution. Emotionally: open, folk-like, outdoor, rootsy. The second most common mode in Irish traditional music. The engine of blues harmony. Called Adonai Malakh in Jewish liturgical tradition.
+[**Mixolydian**](reference/mode-mixolydian.md): Major with a flat seventh—the flat seventh removes the leading tone, leaving brightness without the urgency of resolution. Emotionally: open, folk-like, outdoor, rootsy. The second most common mode in Irish traditional music. The engine of blues harmony. Called Adonai Malakh in Jewish liturgical tradition.
 
-[**Phrygian**](mode-phrygian.md): Natural minor with the second degree lowered to a half-step above the home note—the most emotionally direct of all modes; may be biologically anchored in the infant-cry interval. Emotionally: ancient darkness, sacred mystery, fierce passion, grief. Appears in Renaissance polyphony, flamenco, Arabic maqam, Byzantine chant, Indian Bhairavi.
+[**Phrygian**](reference/mode-phrygian.md): Natural minor with the second degree lowered to a half-step above the home note—the most emotionally direct of all modes; may be biologically anchored in the infant-cry interval. Emotionally: ancient darkness, sacred mystery, fierce passion, grief. Appears in Renaissance polyphony, flamenco, Arabic maqam, Byzantine chant, Indian Bhairavi.
 
 ---
 
 ### Extended Western Scales
-[**Bebop scales (Dominant, Major, Minor, Half-Diminished)**](scale-bebop.md): Standard scales with one chromatic passing note added—making eight-note scales where chord tones land on strong beats when descending in eighth notes. Jazz fluency; swinging melodic clarity.
+[**Bebop scales (Dominant, Major, Minor, Half-Diminished)**](reference/scale-bebop.md): Standard scales with one chromatic passing note added—making eight-note scales where chord tones land on strong beats when descending in eighth notes. Jazz fluency; swinging melodic clarity.
 
-[**Double Harmonic**](scale-double-harmonic.md): Two augmented second leaps. Called Byzantine scale, Arabic scale, Hungarian Major, and Bhairav raga in different traditions—the same pitch collection converged independently across cultures. Ancient, sacred, fierce.
+[**Double Harmonic**](reference/scale-double-harmonic.md): Two augmented second leaps. Called Byzantine scale, Arabic scale, Hungarian Major, and Bhairav raga in different traditions—the same pitch collection converged independently across cultures. Ancient, sacred, fierce.
 
-[**Enigmatic**](scale-enigmatic.md): Verdi's deliberately disorienting construction—almost every interval is unusual. Genuinely unsettling; the beauty of the truly strange.
+[**Enigmatic**](reference/scale-enigmatic.md): Verdi's deliberately disorienting construction—almost every interval is unusual. Genuinely unsettling; the beauty of the truly strange.
 
-[**Harmonic Minor**](scale-harmonic-minor.md): Natural minor + raised seventh. Created to give minor keys a strong leading-tone pull toward home. The augmented second between the flat sixth and raised seventh connects it to Hijaz maqam, Ahavah Rabbah, and the Double Harmonic scale across cultural boundaries. Classical drama; urgent, inevitable resolution.
+[**Harmonic Minor**](reference/scale-harmonic-minor.md): Natural minor + raised seventh. Created to give minor keys a strong leading-tone pull toward home. The augmented second between the flat sixth and raised seventh connects it to Hijaz maqam, Ahavah Rabbah, and the Double Harmonic scale across cultural boundaries. Classical drama; urgent, inevitable resolution.
 
-[**Hungarian Major**](scale-hungarian-major.md): Major with raised second—augmented second at the very opening of the scale. Dramatic, bright-exotic, Romantic-era harmonic color.
+[**Hungarian Major**](reference/scale-hungarian-major.md): Major with raised second—augmented second at the very opening of the scale. Dramatic, bright-exotic, Romantic-era harmonic color.
 
-[**Hungarian Minor**](scale-hungarian-minor.md.md): Harmonic minor with a raised fourth—adding a second augmented second. Romani fire; Liszt and Brahms; passionate dark.
+[**Hungarian Minor**](reference/scale-hungarian-minor.md.md): Harmonic minor with a raised fourth—adding a second augmented second. Romani fire; Liszt and Brahms; passionate dark.
 
-[**Leading Whole Tone**](scale-leading-whole-tone.md): Near-whole-tone + raised seventh. A dream that suddenly remembers it must end.
+[**Leading Whole Tone**](reference/scale-leading-whole-tone.md): Near-whole-tone + raised seventh. A dream that suddenly remembers it must end.
 
-[**Lydian Dominant**](scale-lydian-dominant): Raised fourth + flat seventh—simultaneously floating (Lydian) and unresolved (Mixolydian). The fourth mode of melodic minor. Suspended awe; cinematic vastness; Scriabin's mystic territory.
+[**Lydian Dominant**](reference/scale-lydian-dominant): Raised fourth + flat seventh—simultaneously floating (Lydian) and unresolved (Mixolydian). The fourth mode of melodic minor. Suspended awe; cinematic vastness; Scriabin's mystic territory.
 
-[**Lydian Minor**](scale-lydian-minor.md): Raised fourth + flat sixth and seventh—floating yet melancholic. A beautiful dream with an undertow of sadness.
+[**Lydian Minor**](reference/scale-lydian-minor.md): Raised fourth + flat sixth and seventh—floating yet melancholic. A beautiful dream with an undertow of sadness.
 
-[**Major Blues**](scale-blues.md): Major pentatonic + flat third passing note. Soulful brightness; warm, grained, gospel and country energy.
+[**Major Blues**](reference/scale-blues.md): Major pentatonic + flat third passing note. Soulful brightness; warm, grained, gospel and country energy.
 
-[**Melodic Minor (classical)**](scale-melodic-minor.md): Ascending with raised sixth and seventh (hope, forward momentum); descending in natural minor (shadow, settling). "Hope ascending, shadow descending" in one melodic arc. In jazz, only the ascending form is used in both directions—smooth, sophisticated, between minor and major.
+[**Melodic Minor (classical)**](reference/scale-melodic-minor.md): Ascending with raised sixth and seventh (hope, forward momentum); descending in natural minor (shadow, settling). "Hope ascending, shadow descending" in one melodic arc. In jazz, only the ascending form is used in both directions—smooth, sophisticated, between minor and major.
 
-[**Minor Blues**](scale-blues.md): Natural minor pentatonic + flat fifth (the "blue note"). Longing, searching, bittersweet. The sound of West African pentatonic meeting Western harmony in the American South.
+[**Minor Blues**](reference/scale-blues.md): Natural minor pentatonic + flat fifth (the "blue note"). Longing, searching, bittersweet. The sound of West African pentatonic meeting Western harmony in the American South.
 
-[**Neapolitan Major**](scale-neopolitan-major.md): Phrygian opening (flat second, flat third) with major sixth and seventh in the upper range. Bittersweet complexity—dark opening, bright upper range.
+[**Neapolitan Major**](reference/scale-neopolitan-major.md): Phrygian opening (flat second, flat third) with major sixth and seventh in the upper range. Bittersweet complexity—dark opening, bright upper range.
 
-[**Neapolitan Minor**](scale-neopolitan-minor.md): Phrygian + raised seventh. Two urgent pulls toward the tonic: one pressing from above (the Phrygian half-step), one pressing from below (the leading tone). Maximum tonal urgency.
+[**Neapolitan Minor**](reference/scale-neopolitan-minor.md): Phrygian + raised seventh. Two urgent pulls toward the tonic: one pressing from above (the Phrygian half-step), one pressing from below (the leading tone). Maximum tonal urgency.
 
-[**Nine-Tone (Nonatonic)**](scale-nine-tone): Combined major and minor blues collection—nine chromatic pitch classes for improvisational use. Saturated; best treated as an approach vocabulary.
+[**Nine-Tone (Nonatonic)**](reference/scale-nine-tone): Combined major and minor blues collection—nine chromatic pitch classes for improvisational use. Saturated; best treated as an approach vocabulary.
 
-[**Prometheus**](scale-prometheus.md): Scriabin's six-note scale—raised fourth, flat seventh, no perfect fifth. Cosmic, mystical suspension; hovering between tonal worlds.
+[**Prometheus**](reference/scale-prometheus.md): Scriabin's six-note scale—raised fourth, flat seventh, no perfect fifth. Cosmic, mystical suspension; hovering between tonal worlds.
 
-[**Romanian Minor**](scale-romanian-minor.md): Dorian with a raised fourth—folk-earthy minor with an unexpected lift, native to Romanian folk music and Bartók's collected material.
+[**Romanian Minor**](reference/scale-romanian-minor.md): Dorian with a raised fourth—folk-earthy minor with an unexpected lift, native to Romanian folk music and Bartók's collected material.
 
-[**Spanish Heptatonic / Phrygian Dominant**](scale-spanish-heptatonic.md): Major third within a Phrygian framework—the flamenco mode, Ahavah Rabbah in Jewish music, Hijaz in Arabic music. See files 28 and 29 for full treatment.
+[**Spanish Heptatonic / Phrygian Dominant**](reference/scale-spanish-heptatonic.md): Major third within a Phrygian framework—the flamenco mode, Ahavah Rabbah in Jewish music, Hijaz in Arabic music. See files 28 and 29 for full treatment.
 
-[**Super Locrian (Altered)**](scale-super-locrian.md): The seventh mode of melodic minor—every degree lowered. Maximum jazz tension; used over altered dominant chords. Brief passages of extreme dissonance before resolution.
+[**Super Locrian (Altered)**](reference/scale-super-locrian.md): The seventh mode of melodic minor—every degree lowered. Maximum jazz tension; used over altered dominant chords. Brief passages of extreme dissonance before resolution.
 
-[**Whole-Tone Scale**](scale-whole-tone.md): All whole steps—six notes, perfectly symmetrical, no gravity, no home. Total ambiguity; Debussy's "Voiles." Use for brief passages of frictionless floating before returning to a mode.
+[**Whole-Tone Scale**](reference/scale-whole-tone.md): All whole steps—six notes, perfectly symmetrical, no gravity, no home. Total ambiguity; Debussy's "Voiles." Use for brief passages of frictionless floating before returning to a mode.
 
 ---
 
 ### World Modal Systems
 
-[**Arabic Maqam**](world-arabic-maqam.md): A complete melodic language built from short characteristic cells (*jins*, plural *ajnas*). Each maqam is defined by which cells it uses, how it moves through them, and which emotions it inhabits. Microtonal inflections (quarter-tones) are integral. Modulation between maqamat happens through pivot notes (*ghammaz*). The seven most important maqamat for wind players: Rast (warm, noble), Bayati (soulful yearning), Hijaz (dramatic, exotic distance), Saba (deepest grief), Nahawand (familiar minor), Kurd (dark, grounded), Sikah (intimate love).
+[**Arabic Maqam**](reference/world-arabic-maqam.md): A complete melodic language built from short characteristic cells (*jins*, plural *ajnas*). Each maqam is defined by which cells it uses, how it moves through them, and which emotions it inhabits. Microtonal inflections (quarter-tones) are integral. Modulation between maqamat happens through pivot notes (*ghammaz*). The seven most important maqamat for wind players: Rast (warm, noble), Bayati (soulful yearning), Hijaz (dramatic, exotic distance), Saba (deepest grief), Nahawand (familiar minor), Kurd (dark, grounded), Sikah (intimate love).
 
-[**Byzantine Octoechos**](world-byzantine-modes.md): Eight modes (*echoi*) organized in a liturgical cycle, each associated with specific emotions and occasions. Four genera (diatonic, soft chromatic, hard chromatic, enharmonic) give each echos multiple tonal flavors. Historically connected to both Arabic maqam and Western medieval modes.
+[**Byzantine Octoechos**](reference/world-byzantine-modes.md): Eight modes (*echoi*) organized in a liturgical cycle, each associated with specific emotions and occasions. Four genera (diatonic, soft chromatic, hard chromatic, enharmonic) give each echos multiple tonal flavors. Historically connected to both Arabic maqam and Western medieval modes.
 
-[**Carnatic Melakarta**](world-carnatic-melakarta.md): The South Indian system of 72 mathematically complete parent scales—every possible combination of seven notes from the 12-tone octave, organized systematically. *Gamaka* (ornamentation) is inseparable from raga identity in Carnatic music to an even greater degree than in Hindustani practice.
+[**Carnatic Melakarta**](reference/world-carnatic-melakarta.md): The South Indian system of 72 mathematically complete parent scales—every possible combination of seven notes from the 12-tone octave, organized systematically. *Gamaka* (ornamentation) is inseparable from raga identity in Carnatic music to an even greater degree than in Hindustani practice.
 
-[**Celtic Modal Traditions**](world-celtic-modes.md): Four modes dominate—Ionian (60% of Irish repertoire), Mixolydian (folk brightness with open endings), Dorian (most Celtic minor tunes), Aeolian (deepest lament). Gaelic traditions favor extended melodic range and pentatonic foundations; Brythonic traditions favor narrower range and syllabic melody.
+[**Celtic Modal Traditions**](reference/world-celtic-modes.md): Four modes dominate—Ionian (60% of Irish repertoire), Mixolydian (folk brightness with open endings), Dorian (most Celtic minor tunes), Aeolian (deepest lament). Gaelic traditions favor extended melodic range and pentatonic foundations; Brythonic traditions favor narrower range and syllabic melody.
 
-[**Ethiopian Kiñit**](world-ethiopian-kinit.md): Four primary pentatonic modes—Tizita (nostalgic; major and minor forms), Bati (energetic, celebratory), Ambassel (heroic storytelling), Anchihoye (sacred, solemn). Each sits between Western major and minor categories, creating emotional territories that neither Western scale can reach directly.
+[**Ethiopian Kiñit**](reference/world-ethiopian-kinit.md): Four primary pentatonic modes—Tizita (nostalgic; major and minor forms), Bati (energetic, celebratory), Ambassel (heroic storytelling), Anchihoye (sacred, solemn). Each sits between Western major and minor categories, creating emotional territories that neither Western scale can reach directly.
 
-[**Flamenco Modal System**](world-flamenco.md): Phrygian Dominant as primary tonality; the Andalusian cadence (descending iv–III–II–I) as the primary harmonic motion; the *palos* (forms) as modal and rhythmic contexts; bimodal mixing of Phrygian and major as the source of flamenco's simultaneous grief and passion.
+[**Flamenco Modal System**](reference/world-flamenco.md): Phrygian Dominant as primary tonality; the Andalusian cadence (descending iv–III–II–I) as the primary harmonic motion; the *palos* (forms) as modal and rhythmic contexts; bimodal mixing of Phrygian and major as the source of flamenco's simultaneous grief and passion.
 
-[**Gamelan: Pelog and Slendro**](world-gamelan.md): Two Javanese/Balinese tuning systems with no Western equivalents. Slendro divides the octave into five roughly equal steps (smooth, flowing); pelog has seven unequal steps (dramatic contrasts, used in five-note subsets). Each gamelan is tuned uniquely. Compositional concepts: cyclic form, the gong as structural anchor, shimmering of paired instruments tuned slightly apart.
+[**Gamelan: Pelog and Slendro**](reference/world-gamelan.md): Two Javanese/Balinese tuning systems with no Western equivalents. Slendro divides the octave into five roughly equal steps (smooth, flowing); pelog has seven unequal steps (dramatic contrasts, used in five-note subsets). Each gamelan is tuned uniquely. Compositional concepts: cyclic form, the gong as structural anchor, shimmering of paired instruments tuned slightly apart.
 
-[**Hindustani Raga**](world-hindustani-raga.md): A raga is not a scale—it is a living melodic personality with a characteristic ascending pattern (arohana), descending pattern (avarohana, often different from the ascent), most important note (*vadi*), second most important note (*samvadi*), characteristic phrase (*pakad*), ornamentation (*gamaka*), emotional essence (*rasa*), and time of day association (*samay*). The *alap* (unmetered opening improvisation) is the most directly applicable structure for solo wind players.
+[**Hindustani Raga**](reference/world-hindustani-raga.md): A raga is not a scale—it is a living melodic personality with a characteristic ascending pattern (arohana), descending pattern (avarohana, often different from the ascent), most important note (*vadi*), second most important note (*samvadi*), characteristic phrase (*pakad*), ornamentation (*gamaka*), emotional essence (*rasa*), and time of day association (*samay*). The *alap* (unmetered opening improvisation) is the most directly applicable structure for solo wind players.
 
-[**Jewish Nusach and Shtayger**](world-jewish-nusach.md): Three primary modes with liturgical calendar associations: Ahavah Rabbah (Phrygian Dominant—devotional yearning, Shabbat mornings), Magen Avot (natural minor—Shabbat peace), Adonai Malakh (Mixolydian—regal majesty, Kabbalat Shabbat). A trained listener can determine the day of the week and time of day from the mode alone.
+[**Jewish Nusach and Shtayger**](reference/world-jewish-nusach.md): Three primary modes with liturgical calendar associations: Ahavah Rabbah (Phrygian Dominant—devotional yearning, Shabbat mornings), Magen Avot (natural minor—Shabbat peace), Adonai Malakh (Mixolydian—regal majesty, Kabbalat Shabbat). A trained listener can determine the day of the week and time of day from the mode alone.
 
-[**Persian Dastgah**](world-persian-dastgah): Seven primary modal worlds, each containing many *gusheh* (melodic fragments) organized into the *radif*—the complete body of Persian classical melody. A performance journeys through gushes progressively higher in register before descending home. Dastgah-e Shur (closest to Phrygian) is the most performed.
+[**Persian Dastgah**](reference/world-persian-dastgah): Seven primary modal worlds, each containing many *gusheh* (melodic fragments) organized into the *radif*—the complete body of Persian classical melody. A performance journeys through gushes progressively higher in register before descending home. Dastgah-e Shur (closest to Phrygian) is the most performed.
 
-[**Turkish Makam**](world-turkish-makam.md): Related to Arabic maqam but distinct—defined by the *seyir* (required melodic direction: ascending, descending, or ascending-descending). Every Turkish makam prescribes not only which notes to use but in which direction the melody must travel. The *asma karar* (suspended cadence on a non-tonic note) is a characteristic expressive device.
+[**Turkish Makam**](reference/world-turkish-makam.md): Related to Arabic maqam but distinct—defined by the *seyir* (required melodic direction: ascending, descending, or ascending-descending). Every Turkish makam prescribes not only which notes to use but in which direction the melody must travel. The *asma karar* (suspended cadence on a non-tonic note) is a characteristic expressive device.
 
-[**West African Pentatonic**](world-west-african.md): Melodically pentatonic across most traditions. The griot (*jeli*) tradition uses melodic ostinato (*kumbengo*) over which improvisation occurs. Characteristic melodic direction: descending. The historical source of blues pentatonic and blue-note inflection.
+[**West African Pentatonic**](reference/world-west-african.md): Melodically pentatonic across most traditions. The griot (*jeli*) tradition uses melodic ostinato (*kumbengo*) over which improvisation occurs. Characteristic melodic direction: descending. The historical source of blues pentatonic and blue-note inflection.
 
-[**World Pentatonic Systems**](world-pentatonic-systems.md): The universal human scale—five notes, no half-steps—appears independently across Chinese (five Wu Sheng modes), Japanese (Yo and In scales, Hirajoshi), Celtic (gapped diatonic), West African, Native American, and blues traditions. The NAF's native scale is pentatonic minor (Chinese Yu mode).
+[**World Pentatonic Systems**](reference/world-pentatonic-systems.md): The universal human scale—five notes, no half-steps—appears independently across Chinese (five Wu Sheng modes), Japanese (Yo and In scales, Hirajoshi), Celtic (gapped diatonic), West African, Native American, and blues traditions. The NAF's native scale is pentatonic minor (Chinese Yu mode).
 
 ---
 
