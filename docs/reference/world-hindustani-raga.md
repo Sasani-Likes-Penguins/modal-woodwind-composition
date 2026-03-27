@@ -17,7 +17,7 @@
 8. [Instrument Access](#instrument-access)
 9. [Composition Exercise: Alap in Bhairavi on Bawu](#composition-exercise-alap-in-bhairavi-on-bawu)
 10. [Repertoire to Study](#repertoire-to-study)
-11. [Further Reading and Related Topics](#gaps-and-limitations)
+11. [Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ## What Is a Raga?
 
@@ -181,14 +181,6 @@ These ragas are among the most commonly performed and most directly translatable
 
 ---
 
-## Further Reading and Related Topics
-
-- Hindustani raga is a vast tradition—hundreds of ragas exist. This guide covers only the most common and most relevant for wind players.
-- The gamakas described here require extensive practice; meend in particular cannot be achieved without dedicated embouchure development.
-- The rhythmic aspect (tala cycles) is not covered here; this guide focuses on the melodic-improvisational alap structure most directly relevant to solo wind playing.
-
----
-
 ## Composing in Hindustani Raga Style for Solo Wind: A Complete Guide
 
 ### The Alap: Your Structural Template
@@ -293,3 +285,13 @@ Every Hindustani raga has a *vadi* (most important note) and *samvadi* (second m
 **The quality of early morning stillness** (Lalit or Todi—pre-dawn ragas): ragas performed in the darkest part of night before dawn have a searching, otherworldly quality. Very slow alap; unusual intervals (Todi uses a flat second, natural third, and raised fourth together—creating an uncanny tonal world); the vadi deeply emphasized; the emotional character is beyond conventional emotion—it is awareness itself.
 
 **Joy and celebration** (Khamaj or Bhupali): Khamaj (Mixolydian-equivalent) is a late evening raga of joy and romanticism—moderate tempo, the flat seventh adding folk openness to the major quality; Bhupali (major pentatonic) is a calm, clear raga of early evening beauty—pure five-note simplicity, much silence, each note weighted.
+
+---
+
+## Further Reading and Related Topics
+
+- Hindustani raga is a vast tradition—hundreds of ragas exist. This guide covers only the most common and most relevant for wind players.
+- The gamakas described here require extensive practice; meend in particular cannot be achieved without dedicated embouchure development.
+- The rhythmic aspect (tala cycles) is not covered here; this guide focuses on the melodic-improvisational alap structure most directly relevant to solo wind playing.
+
+---
