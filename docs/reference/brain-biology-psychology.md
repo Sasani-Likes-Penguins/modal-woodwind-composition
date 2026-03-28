@@ -15,8 +15,8 @@
 6. [5. The Absence of a Note: Silence as Neural Signal](#5-the-absence-of-a-note-silence-as-neural-signal)
 7. [6. Summary: The Composer as Neurological Architect](#6-summary-the-composer-as-neurological-architect)
 8. [7. World Music Systems and the Brain: What the Science Shows](#7-world-music-systems-and-the-brain-what-the-science-shows)
-9. [Updated Summary Table](#updated-summary-table)
-10. [Further Reading and Related Topics](#gaps-and-limitations)
+9. [Summary Table](#summary-table)
+10. [Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ## Overview
 
@@ -30,15 +30,15 @@ This section covers the core neuroscience and psychology behind musical emotion,
 
 ### What Happens Physiologically
 
-When music reaches a moment of peak emotional intensity, many listeners experience *frisson*—a shiver or wave of goosebumps, sometimes called "chills" or "musical thrills." This is not a metaphor. It is a measurable physiological response: changes in heart rate, skin conductance, breathing rate, and body temperature [1](https://en.wikipedia.org/wiki/Mode_(music))[2](https://en.wikipedia.org/wiki/Locrian_mode).
+When music reaches a moment of peak emotional intensity, many listeners experience *frisson*—a shiver or wave of goosebumps, sometimes called "chills" or "musical thrills." This is not a metaphor. It is a measurable physiological response: changes in heart rate, skin conductance, breathing rate, and body temperature[⁽¹⁾](https://en.wikipedia.org/wiki/Mode_(music))[⁽²⁾](https://en.wikipedia.org/wiki/Locrian_mode).
 
-Researchers at McGill University used a combination of brain imaging technologies (PET and fMRI scans) to measure what happens in the brain during these moments. They found that dopamine release is greater for pleasurable versus neutral music, and that levels of release are correlated with the extent of emotional arousal and pleasurability ratings [1](https://en.wikipedia.org/wiki/Mode_(music)). Dopamine is the same neurotransmitter released during eating, sex, and certain drugs—the brain's primary "reward" signal, designed to reinforce behaviors that are important for survival.
+Researchers at McGill University used a combination of brain imaging technologies (PET and fMRI scans) to measure what happens in the brain during these moments. They found that dopamine release is greater for pleasurable versus neutral music, and that levels of release are correlated with the extent of emotional arousal and pleasurability ratings[⁽¹⁾](https://en.wikipedia.org/wiki/Mode_(music)). Dopamine is the same neurotransmitter released during eating, sex, and certain drugs—the brain's primary "reward" signal, designed to reinforce behaviors that are important for survival.
 
-The specific brain structures involved include the ventral striatum, midbrain, amygdala, orbitofrontal cortex, and ventral medial prefrontal cortex—brain structures known to be active in response to other euphoria-inducing stimuli, such as food, sex, and drugs of abuse [5](https://musiversal.com/blog/master-locrian-mode). In other words, music uses the same ancient reward circuitry as the basic drives of life.
+The specific brain structures involved include the ventral striatum, midbrain, amygdala, orbitofrontal cortex, and ventral medial prefrontal cortex—brain structures known to be active in response to other euphoria-inducing stimuli, such as food, sex, and drugs of abuse[⁽⁵⁾](https://musiversal.com/blog/master-locrian-mode). In other words, music uses the same ancient reward circuitry as the basic drives of life.
 
 ### Anticipation vs. Peak
 
-A key finding: the brain's reward system fires in *two distinct moments*, not one [2](https://en.wikipedia.org/wiki/Locrian_mode)[4](https://www.pdmusic.org/locrian-mode/):
+A key finding: the brain's reward system fires in *two distinct moments*, not one[⁽²⁾](https://en.wikipedia.org/wiki/Locrian_mode)[⁽⁴⁾](https://www.pdmusic.org/locrian-mode/):
 
 1. **During anticipation** (the moment before the emotional peak): activity increases in the *caudate nucleus*, a brain structure associated with prediction and reward-seeking. The brain is leaning forward, expecting something.
 2. **At the peak itself**: the *nucleus accumbens* activates most strongly—the final "delivery" of the promised reward.
@@ -47,7 +47,7 @@ This is why the buildup to an emotional moment in music often feels almost as po
 
 ### What This Means for Composition
 
-The "chills" response is most reliably triggered when: the brain correlates of chills map with the "Wanting" phase, characterized by midbrain dopamine projections to forebrain targets—in other words, when the music has built a strong expectation and then delivers (or interestingly violates) it [3](https://splice.com/blog/music-modes-locrian/).
+The "chills" response is most reliably triggered when: the brain correlates of chills map with the "Wanting" phase, characterized by midbrain dopamine projections to forebrain targets—in other words, when the music has built a strong expectation and then delivers (or interestingly violates) it [⁽³⁾](https://splice.com/blog/music-modes-locrian/).
 
 For solo wind composition: **the silence before the emotional peak is already doing work**. The held breath before the high note, the sustained tension before the one-up note resolves—these are not empty moments. The brain's anticipation system is fully activated during them. A composer who rushes through the buildup is discarding one of the most powerful tools available.
 
@@ -57,33 +57,33 @@ For solo wind composition: **the silence before the emotional peak is already do
 
 ### The Brain as Pattern Machine
 
-The brain does not passively receive music. It actively *predicts* what comes next at every moment [14](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html)[11](https://www.ethanhein.com/wp/2010/scales-and-emotions/). Based on everything it has ever heard—which, after a lifetime of listening, is an enormous unconscious database of musical patterns—it generates a continuous model of what should happen next [15](https://en.wikipedia.org/wiki/Baroque_music).
+The brain does not passively receive music. It actively *predicts* what comes next at every moment[⁽¹⁴⁾](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html)[⁽¹¹⁾](https://www.ethanhein.com/wp/2010/scales-and-emotions/). Based on everything it has ever heard—which, after a lifetime of listening, is an enormous unconscious database of musical patterns—it generates a continuous model of what should happen next[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music).
 
 When the prediction is correct: the brain registers a small satisfaction. The pattern was learned; the model was confirmed.
 
-When the prediction is wrong in an interesting way: something more powerful happens. Musical pleasure comes from positive reward prediction errors, which arise when what is heard proves to be better than expected. Central to this view is the engagement of the nucleus accumbens—a brain region that processes reward expectations [11](https://www.ethanhein.com/wp/2010/scales-and-emotions/).
+When the prediction is wrong in an interesting way: something more powerful happens. Musical pleasure comes from positive reward prediction errors, which arise when what is heard proves to be better than expected. Central to this view is the engagement of the nucleus accumbens—a brain region that processes reward expectations[⁽¹¹⁾](https://www.ethanhein.com/wp/2010/scales-and-emotions/).
 
 ### The ERAN and MMN Responses
 
-Within 100–250 milliseconds after a note that violates musical expectation, the brain generates a measurable electrical response that researchers can detect with EEG (brain wave recording) [14](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html). This response—called the ERAN (Early Right Anterior Negativity) or MMN (Mismatch Negativity)—happens for a range of violations of auditory regularities, including out-of-key notes embedded in chords, unlikely chords, and single tones [14](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html).
+Within 100–250 milliseconds after a note that violates musical expectation, the brain generates a measurable electrical response that researchers can detect with EEG (brain wave recording)[⁽¹⁴⁾](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html). This response—called the ERAN (Early Right Anterior Negativity) or MMN (Mismatch Negativity)—happens for a range of violations of auditory regularities, including out-of-key notes embedded in chords, unlikely chords, and single tones[⁽¹⁴⁾](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html).
 
 This means that even a listener with no musical training has a brain that is constantly running a prediction model, flagging unexpected events, and adjusting the model in real time. The response is largely automatic and unconscious.
 
 ### Uncertainty vs. Surprise: A Crucial Distinction
 
-Research from the Max Planck Institute found that musical pleasure doesn't come from surprise alone—it requires the right *relationship between uncertainty and surprise* [11](https://www.ethanhein.com/wp/2010/scales-and-emotions/)[12](https://musiversal.com/blog/learn-dark-chord-progressions):
+Research from the Max Planck Institute found that musical pleasure doesn't come from surprise alone—it requires the right *relationship between uncertainty and surprise*[⁽¹¹⁾](https://www.ethanhein.com/wp/2010/scales-and-emotions/)[⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions):
 
 - **High surprise + low uncertainty** (an unexpected note in a very clear context): maximum pleasure jolt. The listener knew exactly what to expect; something better happened.
 - **Low surprise + high uncertainty** (an expected note when nothing was clear): also pleasurable, but in a different way—the relief of pattern emerging from fog.
 - **Moderate surprise in a moderately uncertain context**: diminishing returns.
 
-Pleasantness ratings indicated high pleasure in two situations: when a chord with high surprise had been predicted with low uncertainty, or conversely, when a chord with low surprise had been predicted with high uncertainty [12](https://musiversal.com/blog/learn-dark-chord-progressions).
+Pleasantness ratings indicated high pleasure in two situations: when a chord with high surprise had been predicted with low uncertainty, or conversely, when a chord with low surprise had been predicted with high uncertainty[⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions).
 
 **What this means for composition**: the half-step-above-home note in Phrygian is maximally effective because it violates the listener's prediction in a clear context. The listener hears the home note repeated, expects it to continue or to move by a whole step, and instead hears the half-step neighbor. The context is clear (the home note has been established); the surprise is real (the half-step is unexpected). This is structurally why Phrygian creates such a strong emotional response.
 
 ### Dopamine and Musical Surprise
 
-A pharmacological experiment directly tested dopamine's role in musical pleasure [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). Participants listened to music under three conditions: normal (placebo), with extra dopamine available (levodopa drug), or with dopamine blocked (risperidone). The results were clear: under levodopa, participants were more likely to report high-pleasure ratings and less likely to report low-pleasure ratings than following risperidone administration [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). More dopamine = more musical pleasure. Blocked dopamine = reduced pleasure. The chemical link is direct and causal, not merely correlational.
+A pharmacological experiment directly tested dopamine's role in musical pleasure[⁽¹⁰⁾](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). Participants listened to music under three conditions: normal (placebo), with extra dopamine available (levodopa drug), or with dopamine blocked (risperidone). The results were clear: under levodopa, participants were more likely to report high-pleasure ratings and less likely to report low-pleasure ratings than following risperidone administration [⁽¹⁰⁾](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). More dopamine = more musical pleasure. Blocked dopamine = reduced pleasure. The chemical link is direct and causal, not merely correlational.
 
 ---
 
@@ -97,23 +97,23 @@ This suggests that the half-step's association with distress and yearning may be
 
 ### The Amygdala and Emotional Valence
 
-The amygdala—the brain's primary emotional processing center, involved in fear, threat detection, and emotional memory—responds strongly to unexpected or dissonant musical events [11](https://www.ethanhein.com/wp/2010/scales-and-emotions/)[12](https://musiversal.com/blog/learn-dark-chord-progressions). The tritone (six half-steps, the "devil's interval" of Locrian) activates the amygdala more strongly than consonant intervals, which is why it creates a feeling of unease or danger even in listeners who have never heard the term "tritone."
+The amygdala—the brain's primary emotional processing center, involved in fear, threat detection, and emotional memory—responds strongly to unexpected or dissonant musical events[⁽¹¹⁾](https://www.ethanhein.com/wp/2010/scales-and-emotions/)[⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions). The tritone (six half-steps, the "devil's interval" of Locrian) activates the amygdala more strongly than consonant intervals, which is why it creates a feeling of unease or danger even in listeners who have never heard the term "tritone."
 
 The amygdala does not distinguish between "real" threats and musical ones in the same way the cortex does. A sudden tritone in a quiet melodic passage can trigger a mild fear response—which, in context, reads as emotional intensity, urgency, or darkness.
 
 ### Slow Tempo and the Parasympathetic Nervous System
 
-The autonomic nervous system has two modes: sympathetic (fight or flight, arousal, accelerated heart rate) and parasympathetic (rest, recovery, slowed heart rate). Music engages both [27](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/):
+The autonomic nervous system has two modes: sympathetic (fight or flight, arousal, accelerated heart rate) and parasympathetic (rest, recovery, slowed heart rate). Music engages both[⁽²⁷⁾](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/):
 
-- Brain signals respond to music rhythms through signal activations to organs of the body, including the heart, which then respond to the tempo of the song—when the tempo is fast, the heart rate and blood pressure speed up, and when the tempo is slow the heart rate and blood pressure slow down [27](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/).
-- Fast music (above ~120 BPM) activates the sympathetic system: heart rate rises, breathing becomes shallower, galvanic skin response increases [23](https://synthase.cc/blog/the-phrygian-mode-is-quietly-changing-the-sound-of-loudness/).
-- Slow music (60–80 BPM) activates the parasympathetic system: heart rate slows, breathing deepens, cortisol (the stress hormone) decreases [22](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5)[28](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/composition-and-melodic-development/).
+- Brain signals respond to music rhythms through signal activations to organs of the body, including the heart, which then respond to the tempo of the song—when the tempo is fast, the heart rate and blood pressure speed up, and when the tempo is slow the heart rate and blood pressure slow down [⁽²⁷⁾](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/).
+- Fast music (above ~120 BPM) activates the sympathetic system: heart rate rises, breathing becomes shallower, galvanic skin response increases[⁽²³⁾](https://synthase.cc/blog/the-phrygian-mode-is-quietly-changing-the-sound-of-loudness/).
+- Slow music (60–80 BPM) activates the parasympathetic system: heart rate slows, breathing deepens, cortisol (the stress hormone) decreases [⁽²²⁾](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5)[⁽²⁸⁾](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-reharmonization/composition-and-melodic-development/).
 
 **For Phrygian and Locrian on solo wind**: these modes are naturally suited to slower, meditative tempos—not because of tradition, but because slower music allows the brain's prediction system to generate stronger anticipatory responses (more time to lean forward), and because slower tempos access the parasympathetic state where deep emotional processing is most available. A slow Phrygian lament is physiologically making the listener receptive to emotional depth in a way that a fast one cannot.
 
 ### Minor Mode and Cortisol
 
-Studies on cortisol—the body's primary stress hormone—have found measurable differences between major and minor music: major mode music led to lower salivary cortisol levels compared to minor mode music, implying that music in a major mode may induce emotional responses such as happiness, which are closely linked to stress reduction [22](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5). Minor mode music (including Phrygian and Locrian) maintains slightly elevated cortisol—not at stress levels, but enough to create a background of physiological tension that maps directly onto the emotional experience of the music.
+Studies on cortisol—the body's primary stress hormone—have found measurable differences between major and minor music: major mode music led to lower salivary cortisol levels compared to minor mode music, implying that music in a major mode may induce emotional responses such as happiness, which are closely linked to stress reduction[⁽²²⁾](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5). Minor mode music (including Phrygian and Locrian) maintains slightly elevated cortisol—not at stress levels, but enough to create a background of physiological tension that maps directly onto the emotional experience of the music.
 
 This is not a flaw. It is the mechanism. Phrygian and Locrian literally keep the body in a mild state of heightened emotional readiness—which is what "emotional intensity" feels like from the inside.
 
@@ -123,19 +123,19 @@ This is not a flaw. It is the mechanism. Phrygian and Locrian literally keep the
 
 ### Why Rhythm Is Physical
 
-Rhythm activates the motor system even when the listener is sitting still. Brain imaging studies consistently show that listening to a rhythmic beat activates the basal ganglia, the cerebellum, and the supplementary motor area—regions involved in movement planning and execution—even without any movement [12](https://musiversal.com/blog/learn-dark-chord-progressions). The desire to move to music (tapping, swaying, nodding) is not a choice. It is the motor system engaging automatically.
+Rhythm activates the motor system even when the listener is sitting still. Brain imaging studies consistently show that listening to a rhythmic beat activates the basal ganglia, the cerebellum, and the supplementary motor area—regions involved in movement planning and execution—even without any movement [⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions). The desire to move to music (tapping, swaying, nodding) is not a choice. It is the motor system engaging automatically.
 
 This motor entrainment is why rhythm affects how music feels before the brain has consciously processed what it heard. A change in tempo is felt in the body before it is "understood" by the mind.
 
 ### Groove: Medium Complexity as Maximum Pleasure
 
-Research on "groove"—the pleasurable desire to move to music—found that medium complexity rhythms elicited higher ratings of pleasure and wanting to move, and were associated with activity in regions linked to beat perception and reward, as well as prefrontal and parietal regions implicated in generating and updating stimuli-based expectations [12](https://musiversal.com/blog/learn-dark-chord-progressions). The optimal rhythmic complexity for pleasurable engagement is not the simplest (boring) or the most complex (confusing) but somewhere in the middle—predictable enough to track, varied enough to keep the motor system engaged.
+Research on "groove"—the pleasurable desire to move to music—found that medium complexity rhythms elicited higher ratings of pleasure and wanting to move, and were associated with activity in regions linked to beat perception and reward, as well as prefrontal and parietal regions implicated in generating and updating stimuli-based expectations [⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions). The optimal rhythmic complexity for pleasurable engagement is not the simplest (boring) or the most complex (confusing) but somewhere in the middle—predictable enough to track, varied enough to keep the motor system engaged.
 
 For Phrygian and Locrian: a completely regular, simple rhythm makes the mode's emotional content feel static and potentially mechanical. A slightly irregular rhythm—occasional extra beats, syncopation, asymmetric phrases—engages the motor system more deeply, which in turn amplifies the emotional response to the pitches. The mode's tension is *felt* more when the rhythm is keeping the body slightly off-balance.
 
 ### Slow Rhythm and Alpha Brainwaves
 
-EEG research has found that music around 60 BPM—roughly the speed of a resting heartbeat—can induce alpha brainwave patterns (8–12 Hz oscillations) associated with relaxed alertness, the state between waking and sleep, where emotional processing is deepest and autobiographical memory is most accessible [29](https://musicstudent101.com/117-melodic-organization-and-thematic-development.html). This is the state in which music most often produces profound emotional responses, including tears and the feeling of music "saying something true" about personal experience.
+EEG research has found that music around 60 BPM—roughly the speed of a resting heartbeat—can induce alpha brainwave patterns (8–12 Hz oscillations) associated with relaxed alertness, the state between waking and sleep, where emotional processing is deepest and autobiographical memory is most accessible[⁽²⁹⁾](https://musicstudent101.com/117-melodic-organization-and-thematic-development.html). This is the state in which music most often produces profound emotional responses, including tears and the feeling of music "saying something true" about personal experience.
 
 Slow Phrygian melodies on the low D whistle or kaval, played around this tempo, are not merely aesthetically pleasing—they are neurologically placing the listener in the state most receptive to the mode's emotional content.
 
@@ -145,7 +145,7 @@ Slow Phrygian melodies on the low D whistle or kaval, played around this tempo, 
 
 ### Omission Responses
 
-One of the most striking findings in recent auditory neuroscience: neurons in the auditory cortex *fire in response to the absence of a predicted note* [16](https://fiveable.me/history-music-1600-1750/unit-13). When the brain has established a pattern and a note is omitted—a beat of silence where the melody "should" continue—neurons that would have responded to the predicted sound generate what researchers call a "negative prediction error response."
+One of the most striking findings in recent auditory neuroscience: neurons in the auditory cortex *fire in response to the absence of a predicted note*[⁽¹⁶⁾](https://fiveable.me/history-music-1600-1750/unit-13). When the brain has established a pattern and a note is omitted—a beat of silence where the melody "should" continue—neurons that would have responded to the predicted sound generate what researchers call a "negative prediction error response."
 
 This means silence is not neutral. A silence in the right place—where a note was expected—is a positive event in the brain. It is *heard* as a kind of negative space that has its own shape. The listener's nervous system is actively reaching for the absent note.
 
@@ -214,7 +214,7 @@ These constants provide a compositional foundation that works regardless of the 
 
 ---
 
-## Updated Summary Table
+## Summary Table
 
 | Compositional choice | Primary brain mechanism | Cross-cultural? |
 |---------------------|------------------------|----------------|
@@ -226,15 +226,6 @@ These constants provide a compositional foundation that works regardless of the 
 | Rhythmic cycle (gamelan, Balkan, tala) | Motor entrainment; expectation structure | Yes (motor system) |
 | Characteristic phrase (jins/pakad/gusheh) | Identity recognition; learned prediction | Culture-dependent |
 | Raga time association | Circadian physiological alignment | Partial—body-clock based |
-
----
-
-## Further Reading and Related Topics
-
-- Most of the foundational neuroscience research summarized in sections 1–6 used Western music and Western listeners. The prediction models the brain builds are based on the music it has been exposed to; listeners from very different musical traditions may have different predictions and therefore different surprise responses to the same melodic choices.
-- Individual differences in dopamine system sensitivity mean that some people reliably experience musical chills while others rarely or never do—this appears to be partly genetic and partly experiential.
-- The science of musical emotion is active and evolving. Some findings cited here (especially around prediction error and the nucleus accumbens) are subject to ongoing debate and refinement.
-- Cross-cultural music neuroscience is a young field; many findings cited above are preliminary and subject to replication.
 
 ---
 
@@ -293,3 +284,13 @@ Use it deliberately. Give it time. Let it press. The listener's nervous system i
 Music at approximately 60 beats per minute—close to the resting human heartbeat—can induce alpha brainwave states (8–12 Hz) associated with the deepest emotional processing. This is why most of the world's devotional, sacred, and deeply expressive music operates near this tempo.
 
 **Practical application**: for compositions intended to carry maximum emotional weight—grief, devotion, wonder—consider a tempo near 60 BPM. This does not mean the music must be expressionless or metronomic; the tempo is a structural choice, not an aesthetic straitjacket. But a composition in Phrygian at 60 BPM will reach the listener more deeply than the same composition at 120 BPM, because the brain's emotional processing system has been physiologically supported by the tempo choice.
+
+---
+
+## Further Reading and Related Topics
+
+- Most of the foundational neuroscience research summarized in sections 1–6 used Western music and Western listeners. The prediction models the brain builds are based on the music it has been exposed to; listeners from very different musical traditions may have different predictions and therefore different surprise responses to the same melodic choices.
+- Individual differences in dopamine system sensitivity mean that some people reliably experience musical chills while others rarely or never do—this appears to be partly genetic and partly experiential.
+- The science of musical emotion is active and evolving. Some findings cited here (especially around prediction error and the nucleus accumbens) are subject to ongoing debate and refinement.
+- Cross-cultural music neuroscience is a young field; many findings cited above are preliminary and subject to replication.
+
