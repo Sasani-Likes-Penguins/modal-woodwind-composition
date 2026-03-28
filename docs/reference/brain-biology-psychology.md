@@ -1,6 +1,6 @@
 # Reference: The Biology and Psychology of Music on the Brain
 
-*New section—dimension 9. See ../citations.md for source details.*
+*See [citations](../citations.md) for source details.*
 
 ---
 
