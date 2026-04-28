@@ -1,41 +1,43 @@
 # Microtonal Notation and Theory
 
-*A detailed guide to pitches between the standard Western notes—how they are notated, how they are named across traditions, and how to produce them on the instruments in this collection. See [Glossary](../glossary.md) for term definitions.*
+*A detailed guide to pitches between the standard Western notes—how they are notated, how they are named across traditions, and how to produce them on the instruments in this collection. See[Glossary](../glossary.md) for term definitions.*
+
+*See [citations](../citations.md) for source details.*
 
 ---
 
 ## Table of Contents
 
-1. [What Is a Microtone?](#what-is-a-microtone)
-2. [Why Microtones Matter for This Repository](#why-microtones-matter)
-3. [Units of Microtonal Measurement](#units-of-microtonal-measurement)
-4. [Western Microtonal Notation Systems](#western-microtonal-notation-systems)
-5. [Persian Notation: Koron and Sori](#persian-notation-koron-and-sori)
-6. [Arabic and Turkish Notation](#arabic-and-turkish-notation)
-7. [The Turkish Koma System](#the-turkish-koma-system)
-8. [Indian Shruti: The 22-Division System](#indian-shruti)
-9. [The Neutral Interval: Between Major and Minor](#the-neutral-interval)
-10. [Microtones and Equal Temperament](#microtones-and-equal-temperament)
-11. [Producing Microtones on Each Instrument](#producing-microtones-on-each-instrument)
-12. [Practical Notation for Composers](#practical-notation-for-composers)
-13. [Further Reading and Related Topics](#further-reading-and-related-topics)
+1.[What Is a Microtone?](#what-is-a-microtone)
+2.[Why Microtones Matter for This Repository](#why-microtones-matter)
+3.[Units of Microtonal Measurement](#units-of-microtonal-measurement)
+4.[Western Microtonal Notation Systems](#western-microtonal-notation-systems)
+5.[Persian Notation: Koron and Sori](#persian-notation-koron-and-sori)
+6.[Arabic and Turkish Notation](#arabic-and-turkish-notation)
+7.[The Turkish Koma System](#the-turkish-koma-system)
+8.[Indian Shruti: The 22-Division System](#indian-shruti)
+9.[The Neutral Interval: Between Major and Minor](#the-neutral-interval)
+10.[Microtones and Equal Temperament](#microtones-and-equal-temperament)
+11.[Producing Microtones on Each Instrument](#producing-microtones-on-each-instrument)
+12.[Practical Notation for Composers](#practical-notation-for-composers)
+13.[Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ---
 
 ## What Is a Microtone?
 
-A [microtone](../glossary.md#microtone) is any musical interval smaller than a standard Western half-step ([semitone](../glossary.md#half-step)). In equal temperament—the standard Western tuning system—the octave is divided into 12 equal half-steps of exactly 100 [cents](../glossary.md#cent) each. A microtone is any interval smaller than 100 cents.
+A[microtone](../glossary.md#microtone) is any musical interval smaller than a standard Western half-step ([semitone](../glossary.md#half-step)). In equal temperament—the standard Western tuning system—the octave is divided into 12 equal half-steps of exactly 100[cents](../glossary.md#cent) each. A microtone is any interval smaller than 100 cents.
 
-Microtones are not "out of tune" notes. They are precisely placed pitches with specific expressive and structural roles in the traditions that use them. The [neutral third](../glossary.md#neutral-interval) of Arabic [Maqam Bayati](world-arabic-maqam.md)—approximately 150 cents, sitting exactly between a minor third (100 cents) and a major third (200 cents)—is not an imprecise approximation of either. It is its own pitch, with its own emotional identity, that neither the minor nor major third can replace.
+Microtones are not "out of tune" notes. They are precisely placed pitches with specific expressive and structural roles in the traditions that use them. The[neutral third](../glossary.md#neutral-interval) of Arabic[Maqam Bayati](world-arabic-maqam.md)—approximately 150 cents, sitting exactly between a minor third (100 cents) and a major third (200 cents)—is not an imprecise approximation of either. It is its own pitch, with its own emotional identity, that neither the minor nor major third can replace.
 
 Understanding microtones is essential for working with:
-- [Arabic Maqam](world-arabic-maqam.md)—quarter-tone inflections
-- [Turkish Makam](world-turkish-makam.md)—53-comma koma system
-- [Persian Dastgah](world-persian-dastgah.md)—koron and sori accidentals
-- [Hindustani Raga](world-hindustani-raga.md)—22-shruti system (in theory) and gamaka inflections
-- [Carnatic Melakarta](world-carnatic-melakarta.md)—gamaka and shruti
-- [Byzantine Modes](world-byzantine-modes.md)—soft chromatic and enharmonic genera
-- [Gamelan](world-gamelan.md)—non-equal-tempered tuning with no Western equivalent
+-[Arabic Maqam](world-arabic-maqam.md)—quarter-tone inflections
+-[Turkish Makam](world-turkish-makam.md)—53-comma koma system
+-[Persian Dastgah](world-persian-dastgah.md)—koron and sori accidentals
+-[Hindustani Raga](world-hindustani-raga.md)—22-shruti system (in theory) and gamaka inflections
+-[Carnatic Melakarta](world-carnatic-melakarta.md)—gamaka and shruti
+-[Byzantine Modes](world-byzantine-modes.md)—soft chromatic and enharmonic genera
+-[Gamelan](world-gamelan.md)—non-equal-tempered tuning with no Western equivalent
 
 ---
 
@@ -45,7 +47,7 @@ The instruments in this collection—bawu, kaval, NAF, and (with technique) whis
 
 For any player working with Arabic maqam, Turkish makam, Persian dastgah, or Indian raga, the ability to produce the characteristic microtonal inflections of those systems is not optional—it is what makes the music sound like itself rather than like a Western approximation of it.
 
-The [neutral second](../glossary.md#neutral-interval) of Bayati maqam, the [koron](../glossary.md#koron)-inflected notes of Persian Shur, the specific shruti placement of a Carnatic gamaka—these are the emotional heart of the music they appear in. Approximating them with the nearest standard Western pitch produces a different, less expressive result.
+The[neutral second](../glossary.md#neutral-interval) of Bayati maqam, the[koron](../glossary.md#koron)-inflected notes of Persian Shur, the specific shruti placement of a Carnatic gamaka—these are the emotional heart of the music they appear in. Approximating them with the nearest standard Western pitch produces a different, less expressive result.
 
 ---
 
@@ -53,7 +55,7 @@ The [neutral second](../glossary.md#neutral-interval) of Bayati maqam, the [koro
 
 ### The Cent
 
-The **cent** is the standard unit for measuring small pitch intervals in Western music theory. One cent equals one hundredth of a [half-step](../glossary.md#half-step) (semitone). There are 100 cents in one semitone and 1,200 cents in one octave.
+The **cent** is the standard unit for measuring small pitch intervals in Western music theory. One cent equals one hundredth of a[half-step](../glossary.md#half-step) (semitone). There are 100 cents in one semitone and 1,200 cents in one octave.
 
 Cents allow precise comparison of intervals from different tuning systems:
 
@@ -157,7 +159,7 @@ Persian classical music uses two specific microtonal accidentals that lower or r
 
 ### Arabic Quarter-Tone System
 
-Arabic music theory divides the octave into 24 equal quarter-tones (compared to Western music's 12 equal half-tones). The characteristic [neutral](../glossary.md#neutral-interval) intervals of Arabic maqam—particularly the neutral second and neutral third—are produced by the quarter-tone divisions between the standard Western half-steps.
+Arabic music theory divides the octave into 24 equal quarter-tones (compared to Western music's 12 equal half-tones). The characteristic[neutral](../glossary.md#neutral-interval) intervals of Arabic maqam—particularly the neutral second and neutral third—are produced by the quarter-tone divisions between the standard Western half-steps.
 
 **Standard Arabic notation**: Western staff notation with additional symbols:
 - A downward arrow (↓) before a note: lower by a quarter-tone
@@ -213,9 +215,9 @@ Indian classical music theory describes 22 *shrutis* (Sanskrit: श्रुत�
 
 Each of the notes Re, Ga, Ma, Dha, and Ni has two or three variant positions—the different shrutis within each swara's region give the 22-division total.
 
-**In practice**: modern Carnatic and Hindustani musicians do not consciously calculate shrutis during performance. The shruti system is a theoretical framework that describes the pitch territory available within the octave—the [gamaka](../glossary.md#gamaka) ornamentations of Indian classical music move freely through these pitch territories as an expressive vocabulary rather than landing on fixed discrete points.
+**In practice**: modern Carnatic and Hindustani musicians do not consciously calculate shrutis during performance. The shruti system is a theoretical framework that describes the pitch territory available within the octave—the[gamaka](../glossary.md#gamaka) ornamentations of Indian classical music move freely through these pitch territories as an expressive vocabulary rather than landing on fixed discrete points.
 
-The practical implications for wind players: the [meend](../glossary.md#meend) (slide) of Hindustani music naturally traverses the shruti territory between standard Western pitches. The bawu's continuous pitch bending and the kaval's embouchure flexibility both allow this kind of fluid microtonal movement without requiring the player to consciously target specific shrutis.
+The practical implications for wind players: the[meend](../glossary.md#meend) (slide) of Hindustani music naturally traverses the shruti territory between standard Western pitches. The bawu's continuous pitch bending and the kaval's embouchure flexibility both allow this kind of fluid microtonal movement without requiring the player to consciously target specific shrutis.
 
 ---
 
@@ -268,7 +270,7 @@ For most Western music, these differences are imperceptible or acceptable. But f
 
 ### Bawu
 
-The bawu's [free-reed](../glossary.md#free-reed) mechanism allows continuous pitch variation through embouchure (lip pressure) and airspeed. This is the most flexible microtonal instrument in this collection.
+The bawu's[free-reed](../glossary.md#free-reed) mechanism allows continuous pitch variation through embouchure (lip pressure) and airspeed. This is the most flexible microtonal instrument in this collection.
 
 **How to raise pitch**: increase air pressure or tighten embouchure slightly
 **How to lower pitch**: decrease air pressure or relax embouchure
@@ -352,12 +354,12 @@ When writing music that includes microtonal inflections for the instruments in t
 
 ## Further Reading and Related Topics
 
-- [Arabic Maqam](world-arabic-maqam.md)—maqam as a complete microtonal modal system; jins cells and their characteristic quarter-tone inflections
-- [Turkish Makam](world-turkish-makam.md)—the 53-koma system in practice; how seyir interacts with microtonal note placement
-- [Persian Dastgah](world-persian-dastgah.md)—koron and sori in the radif; how microtonal inflections change across gushes within the same dastgah
-- [Hindustani Raga](world-hindustani-raga.md)—how gamaka ornamentation moves through the shruti pitch territory; meend as microtonal traversal
-- [Carnatic Melakarta](world-carnatic-melakarta.md)—gamaka and the 22-shruti system in Carnatic theory
-- [Byzantine Modes](world-byzantine-modes.md)—the soft chromatic and enharmonic genera; how Byzantine notation handled microtones
-- [Ornamentation Guide](ornamentation-guide.md)—how to produce microtonal inflections as expressive ornaments on each instrument
-- [Instrument Capabilities](instrument-capabilities.md)—detailed instrument-by-instrument technical information
-- [Glossary](../glossary.md)—definitions of cent, comma, koma, koron, sori, neutral interval, shruti, and all other microtonal terms
+-[Arabic Maqam](world-arabic-maqam.md)—maqam as a complete microtonal modal system; jins cells and their characteristic quarter-tone inflections
+-[Turkish Makam](world-turkish-makam.md)—the 53-koma system in practice; how seyir interacts with microtonal note placement
+-[Persian Dastgah](world-persian-dastgah.md)—koron and sori in the radif; how microtonal inflections change across gushes within the same dastgah
+-[Hindustani Raga](world-hindustani-raga.md)—how gamaka ornamentation moves through the shruti pitch territory; meend as microtonal traversal
+-[Carnatic Melakarta](world-carnatic-melakarta.md)—gamaka and the 22-shruti system in Carnatic theory
+-[Byzantine Modes](world-byzantine-modes.md)—the soft chromatic and enharmonic genera; how Byzantine notation handled microtones
+-[Ornamentation Guide](ornamentation-guide.md)—how to produce microtonal inflections as expressive ornaments on each instrument
+-[Instrument Capabilities](instrument-capabilities.md)—detailed instrument-by-instrument technical information
+-[Glossary](../glossary.md)—definitions of cent, comma, koma, koron, sori, neutral interval, shruti, and all other microtonal terms

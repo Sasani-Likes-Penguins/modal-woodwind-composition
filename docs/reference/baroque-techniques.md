@@ -1,6 +1,6 @@
 # Reference: Baroque Compositional Techniques for Wind Instruments
 
-*Covers dimension 3. See ../citations.md for source details.*
+*See [citations](../citations.md) for source details.*
 
 ---
 

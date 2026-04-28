@@ -1,21 +1,21 @@
 # Reference: Composing in Imitation of Specific Composers
 
-*New section—dimension 10. See ../citations.md for source details.*
+*See [citations](../citations.md) for source details.*
 
 ---
 
 
 ## Table of Contents
 
-1. [Why Imitate Other Composers?](#why-imitate-other-composers)
-2. [Era 1: Renaissance—Palestrina (c. 1525–1594)](#era-1-renaissancepalestrina-c-15251594)
-3. [Era 2: Baroque—J.S. Bach (1685–1750)](#era-2-baroquejs-bach-16851750)
-4. [Era 3: Romantic—Johannes Brahms (1833–1897)](#era-3-romanticjohannes-brahms-18331897)
-5. [Era 4: Impressionist—Claude Debussy (1862–1918)](#era-4-impressionistclaude-debussy-18621918)
-6. [Era 5: Sacred Minimalism—Arvo Pärt (born 1935)](#era-5-sacred-minimalismarvo-pärt-born-1935)
-7. [Era 6: Contemporary / World Fusion—Applicable to Multiple Traditions](#era-6-contemporary-world-fusionapplicable-to-multiple-traditions)
-8. [Era 7: World Classical Traditions—Composers and Performers to Imitate](#era-7-world-classical-traditionscomposers-and-performers-to-imitate)
-9. [Updated Summary: What Each Tradition Teaches](#updated-summary-what-each-tradition-teaches)
+1.[Why Imitate Other Composers?](#why-imitate-other-composers)
+2.[Era 1: Renaissance—Palestrina (c. 1525–1594)](#era-1-renaissancepalestrina-c-15251594)
+3.[Era 2: Baroque—J.S. Bach (1685–1750)](#era-2-baroquejs-bach-16851750)
+4.[Era 3: Romantic—Johannes Brahms (1833–1897)](#era-3-romanticjohannes-brahms-18331897)
+5.[Era 4: Impressionist—Claude Debussy (1862–1918)](#era-4-impressionistclaude-debussy-18621918)
+6.[Era 5: Sacred Minimalism—Arvo Pärt (born 1935)](#era-5-sacred-minimalismarvo-pärt-born-1935)
+7.[Era 6: Contemporary / World Fusion—Applicable to Multiple Traditions](#era-6-contemporary-world-fusionapplicable-to-multiple-traditions)
+8.[Era 7: World Classical Traditions—Composers and Performers to Imitate](#era-7-world-classical-traditionscomposers-and-performers-to-imitate)
+9.[Updated Summary: What Each Tradition Teaches](#summary-what-each-tradition-teaches)
 
 ## Why Imitate Other Composers?
 
@@ -31,17 +31,17 @@ For each composer: a description of their core techniques is given, followed by 
 
 ### The Problem He Solved
 
-How to make multiple melodic lines sound simultaneously beautiful, balanced, and emotionally unified—without any single line dominating or any combination of lines clashing harshly. Palestrina's solution was the concept of *smooth flow*: every note grows logically from the one before it, and every moment of tension resolves in a way that feels inevitable [41](https://en.wikipedia.org/wiki/Low_whistle)[43](https://zhivkovasilev.com/range-and-registers-of-the-bulgarian-kaval/)[46].
+How to make multiple melodic lines sound simultaneously beautiful, balanced, and emotionally unified—without any single line dominating or any combination of lines clashing harshly. Palestrina's solution was the concept of *smooth flow*: every note grows logically from the one before it, and every moment of tension resolves in a way that feels inevitable[⁽⁴¹⁾](https://en.wikipedia.org/wiki/Low_whistle)[⁽⁴³⁾](https://zhivkovasilev.com/range-and-registers-of-the-bulgarian-kaval/)[⁽⁴⁶⁾](../citations.md).
 
 ### Core Techniques
 
-**Mostly stepwise motion**: Palestrina's melodies move predominantly by single steps—one note to its neighbor. Large leaps are rare; when they occur, they are small (a third or fourth) and immediately followed by stepwise motion back in the opposite direction [43](https://zhivkovasilev.com/range-and-registers-of-the-bulgarian-kaval/)[47]. The melody never draws attention to itself by jumping unexpectedly.
+**Mostly stepwise motion**: Palestrina's melodies move predominantly by single steps—one note to its neighbor. Large leaps are rare; when they occur, they are small (a third or fourth) and immediately followed by stepwise motion back in the opposite direction[⁽⁴³⁾](https://zhivkovasilev.com/range-and-registers-of-the-bulgarian-kaval/)[⁽⁴⁷⁾](../citations.md). The melody never draws attention to itself by jumping unexpectedly.
 
-**Leaps followed by contrary motion**: if a leap occurs (say, a fourth upward), the very next note steps back down. The leap is immediately "paid back" with resolution [41](https://en.wikipedia.org/wiki/Low_whistle)[44](https://www.robertsnider.com/kavals/kavalbeginning.html). This creates a constant sense of balance—the melody breathes in with each leap and breathes out with the step back.
+**Leaps followed by contrary motion**: if a leap occurs (say, a fourth upward), the very next note steps back down. The leap is immediately "paid back" with resolution[⁽⁴¹⁾](https://en.wikipedia.org/wiki/Low_whistle)[⁽⁴⁴⁾](https://www.robertsnider.com/kavals/kavalbeginning.html). This creates a constant sense of balance—the melody breathes in with each leap and breathes out with the step back.
 
-**Careful dissonance**: tense notes (those that clash with surrounding voices) occur only on weak beats or as passing tones between consonant notes, and they resolve by stepping to a consonant note [45](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532). No tension is left hanging; everything moves toward balance.
+**Careful dissonance**: tense notes (those that clash with surrounding voices) occur only on weak beats or as passing tones between consonant notes, and they resolve by stepping to a consonant note[⁽⁴⁵⁾](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532). No tension is left hanging; everything moves toward balance.
 
-**Phrase structure**: each phrase begins fresh, moves through a small arc, and closes with a clear landing. Phrases are like exhalations—complete, unhurried, complete again [46].
+**Phrase structure**: each phrase begins fresh, moves through a small arc, and closes with a clear landing. Phrases are like exhalations—complete, unhurried, complete again[⁽⁴⁶⁾].
 
 ### What It Sounds Like
 
@@ -66,21 +66,21 @@ How to make multiple melodic lines sound simultaneously beautiful, balanced, and
 
 ### The Problem He Solved
 
-How to express completely specific, intense emotions with precision and craft—and how to develop a tiny musical idea into a large, satisfying structure. Bach brought these together: intense emotional expression through rigorous development of small ideas [45](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532).
+How to express completely specific, intense emotions with precision and craft—and how to develop a tiny musical idea into a large, satisfying structure. Bach brought these together: intense emotional expression through rigorous development of small ideas[⁽⁴⁵⁾](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532).
 
 ### Core Techniques
 
-**Motivic development**: Bach typically begins with a short phrase (2–4 notes) and develops it relentlessly—transposing it to different starting notes, inverting it (upside down), fragmenting it (using just the first note or two), and augmenting it (stretching the rhythm out) [45](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532). Every development feels like the same idea seen from a new angle.
+**Motivic development**: Bach typically begins with a short phrase (2–4 notes) and develops it relentlessly—transposing it to different starting notes, inverting it (upside down), fragmenting it (using just the first note or two), and augmenting it (stretching the rhythm out)[⁽⁴⁵⁾](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532). Every development feels like the same idea seen from a new angle.
 
-**The Doctrine of Affections in practice**: before writing, Bach chose the specific emotion the piece would express, then applied specific musical figures to express it [15](https://en.wikipedia.org/wiki/Baroque_music)[18](https://louis.pressbooks.pub/exploringarts/chapter/568/):
+**The Doctrine of Affections in practice**: before writing, Bach chose the specific emotion the piece would express, then applied specific musical figures to express it[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music)[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/):
 - *Grief/lament*: descending lines, half-step sighs, chromatic descents (half-step by half-step)
 - *Joy/triumph*: fast upward arpeggios, sequences climbing through the scale
 - *Agitation*: fast repeated notes, urgent rhythmic figures
 - *Wonder/awe*: sustained notes with expressive ornaments, slow harmonic movement
 
-**Sequence**: one of Bach's most characteristic devices—taking a phrase and repeating it starting on successively lower (or higher) notes. The pattern is clear; the harmonic movement is inevitable. Each repetition feels like the same emotional gesture in a slightly new key [45](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532).
+**Sequence**: one of Bach's most characteristic devices—taking a phrase and repeating it starting on successively lower (or higher) notes. The pattern is clear; the harmonic movement is inevitable. Each repetition feels like the same emotional gesture in a slightly new key[⁽⁴⁵⁾](https://omeka-s.grinnell.edu/s/MusicalInstruments/item/1532).
 
-**Rhetoric**: phrases work like spoken rhetoric—question (unresolved ending), answer (resolved ending), exclamation (sudden high note or dramatic leap), pause (rest). The listener understands the musical argument even without knowing the terminology [15](https://en.wikipedia.org/wiki/Baroque_music)[18](https://louis.pressbooks.pub/exploringarts/chapter/568/).
+**Rhetoric**: phrases work like spoken rhetoric—question (unresolved ending), answer (resolved ending), exclamation (sudden high note or dramatic leap), pause (rest). The listener understands the musical argument even without knowing the terminology[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music)[⁽¹⁸⁾](https://louis.pressbooks.pub/exploringarts/chapter/568/).
 
 ### What It Sounds Like
 
@@ -106,17 +106,17 @@ How to express completely specific, intense emotions with precision and craft—
 
 ### The Problem He Solved
 
-How to write music of great emotional depth and weight—sustained, patient, building—while still honoring the structural intelligence of Classical form. Brahms combined Romantic emotional expansiveness with rigorous compositional craft [98](https://en.wikipedia.org/wiki/Quarter_tone).
+How to write music of great emotional depth and weight—sustained, patient, building—while still honoring the structural intelligence of Classical form. Brahms combined Romantic emotional expansiveness with rigorous compositional craft[⁽⁹⁸⁾](https://en.wikipedia.org/wiki/Quarter_tone).
 
 ### Core Techniques
 
-**Long, arching phrases**: where Palestrina wrote short balanced phrases and Bach wrote tightly developed sequences, Brahms writes long, breathing phrases that rise and fall over many bars. The melody is like a long exhalation—it takes its time, it doesn't hurry, and when it arrives at the peak it has truly earned it [26](https://www.musicalinstrumenthub.com/archives/21844).
+**Long, arching phrases**: where Palestrina wrote short balanced phrases and Bach wrote tightly developed sequences, Brahms writes long, breathing phrases that rise and fall over many bars. The melody is like a long exhalation—it takes its time, it doesn't hurry, and when it arrives at the peak it has truly earned it[⁽²⁶⁾](https://www.musicalinstrumenthub.com/archives/21844).
 
 **Rhythmic displacement and syncopation**: Brahms frequently starts phrases on unexpected beats, or creates rhythmic patterns that pull against the underlying pulse. This gives his music a sense of inner tension and forward motion even in slow passages.
 
 **Expressive chromatic harmony** (less relevant for solo melodic wind): Brahms used unexpected harmonic coloring. For solo wind: use this by briefly touching a note outside the mode—a momentary Dorian sixth, or a chromatic passing note—before returning to the Phrygian palette.
 
-**Dynamic arc as architecture**: the dynamic shape of a Brahms phrase is its emotional content. A phrase doesn't just rise and fall in pitch—it swells and subsides in volume in precise correspondence with its emotional meaning. The loudest note is the most important note, and it arrives after patient building [24](https://www.musicalinstrumenthub.com/archives/22288)[26](https://www.musicalinstrumenthub.com/archives/21844).
+**Dynamic arc as architecture**: the dynamic shape of a Brahms phrase is its emotional content. A phrase doesn't just rise and fall in pitch—it swells and subsides in volume in precise correspondence with its emotional meaning. The loudest note is the most important note, and it arrives after patient building[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288)[⁽²⁶⁾](https://www.musicalinstrumenthub.com/archives/21844).
 
 ### What It Sounds Like
 
@@ -141,19 +141,19 @@ How to write music of great emotional depth and weight—sustained, patient, bui
 
 ### The Problem He Solved
 
-How to capture a mood, an atmosphere, a moment of perception—rather than a narrative or an argument—and how to do it without the strong push-pull of conventional harmonic motion. Debussy replaced directed harmonic movement with floating, shimmering color [35](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales)[37](https://organology.net/instrument/bawu/).
+How to capture a mood, an atmosphere, a moment of perception—rather than a narrative or an argument—and how to do it without the strong push-pull of conventional harmonic motion. Debussy replaced directed harmonic movement with floating, shimmering color[⁽³⁵⁾](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales)[⁽³⁷⁾](https://organology.net/instrument/bawu/).
 
 ### Core Techniques
 
-**Avoid resolution**: in conventional Western music, tense harmonies want to resolve to a stable home. Debussy removed this want. His harmonies *are*—they don't go anywhere; they simply exist as color [31](https://themusictheoryprofessor.com/analyzing-famous-compositions-with-notable-deceptive-cadences/)[35](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales). For a solo wind player: end phrases on notes other than the home note; let the melody dissolve into silence rather than resolving.
+**Avoid resolution**: in conventional Western music, tense harmonies want to resolve to a stable home. Debussy removed this want. His harmonies *are*—they don't go anywhere; they simply exist as color[⁽³¹⁾](https://themusictheoryprofessor.com/analyzing-famous-compositions-with-notable-deceptive-cadences/)[⁽³⁵⁾](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales). For a solo wind player: end phrases on notes other than the home note; let the melody dissolve into silence rather than resolving.
 
-**Parallel motion**: instead of voices moving independently, Debussy moves a whole group of notes together in the same direction, keeping their relative spacing the same [33](https://chantingdroneflutes.com/exploring-the-pentatonic-minor-scale-and-the-seven-hole-native-american-style-flute/)[37](https://organology.net/instrument/bawu/). For melody: repeat a short figure, but shift its starting point up or down by a consistent amount—the shape stays the same, the pitch level changes. The effect is shimmering, decorative, non-directed.
+**Parallel motion**: instead of voices moving independently, Debussy moves a whole group of notes together in the same direction, keeping their relative spacing the same[⁽³³⁾](https://chantingdroneflutes.com/exploring-the-pentatonic-minor-scale-and-the-seven-hole-native-american-style-flute/)[⁽³⁷⁾](https://organology.net/instrument/bawu/). For melody: repeat a short figure, but shift its starting point up or down by a consistent amount—the shape stays the same, the pitch level changes. The effect is shimmering, decorative, non-directed.
 
-**Pentatonic passages**: the five-note scale (without the half-step clashes of full diatonic scales) creates a frictionless, floating quality—no note wants to go anywhere; the melody simply drifts [39](https://en.wikipedia.org/wiki/Tin_whistle)[31](https://themusictheoryprofessor.com/analyzing-famous-compositions-with-notable-deceptive-cadences/). On the NAF (which is natively pentatonic) this is the instrument's natural voice. On recorder or whistle, use pentatonic runs as connective tissue between more harmonically specific notes.
+**Pentatonic passages**: the five-note scale (without the half-step clashes of full diatonic scales) creates a frictionless, floating quality—no note wants to go anywhere; the melody simply drifts[39](https://en.wikipedia.org/wiki/Tin_whistle)[⁽³¹⁾](https://themusictheoryprofessor.com/analyzing-famous-compositions-with-notable-deceptive-cadences/). On the NAF (which is natively pentatonic) this is the instrument's natural voice. On recorder or whistle, use pentatonic runs as connective tissue between more harmonically specific notes.
 
-**Silence and space**: Debussy composed rests as carefully as notes. Phrases dissolve; silence enters; a new fragment of melody appears from another direction [37](https://organology.net/instrument/bawu/). The music breathes between ideas rather than connecting them with busy transitions.
+**Silence and space**: Debussy composed rests as carefully as notes. Phrases dissolve; silence enters; a new fragment of melody appears from another direction[⁽³⁷⁾](https://organology.net/instrument/bawu/). The music breathes between ideas rather than connecting them with busy transitions.
 
-**Whole-tone passages**: a scale where every note is exactly a whole step apart—no half-steps, no direction, no gravity. For momentary use: a run of six consecutive whole-tone notes within a Phrygian melody creates a moment of total ambiguity before the Phrygian character returns. Available on all your fully chromatic instruments [34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/).
+**Whole-tone passages**: a scale where every note is exactly a whole step apart—no half-steps, no direction, no gravity. For momentary use: a run of six consecutive whole-tone notes within a Phrygian melody creates a moment of total ambiguity before the Phrygian character returns. Available on all your fully chromatic instruments[⁽³⁴⁾](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/).
 
 ### What It Sounds Like
 
@@ -178,21 +178,21 @@ How to capture a mood, an atmosphere, a moment of perception—rather than a nar
 
 ### The Problem He Solved
 
-How to create music of profound depth and spiritual power from the simplest possible materials—one or two notes, a single scale, a triad—and how to make time itself feel different when the music plays. Pärt's answer was a technique he called *tintinnabuli* ("little bells" in Latin), developed in 1976 after years of silence and study of medieval chant [52](https://www.maqamworld.com/en/maqam.php)[56](https://en.wikipedia.org/wiki/Arabic_maqam)[60].
+How to create music of profound depth and spiritual power from the simplest possible materials—one or two notes, a single scale, a triad—and how to make time itself feel different when the music plays. Pärt's answer was a technique he called *tintinnabuli* ("little bells" in Latin), developed in 1976 after years of silence and study of medieval chant[⁽⁵²⁾](https://www.maqamworld.com/en/maqam.php)[⁽⁵⁶⁾](https://en.wikipedia.org/wiki/Arabic_maqam)[⁽⁶⁰⁾].
 
 ### Core Techniques
 
-**Two-voice principle**: Pärt's tintinnabuli works have two voices working simultaneously. The *melody voice* (m-voice) moves stepwise through the notes of a chosen scale—simple steps, like a voice speaking. The *tintinnabuli voice* (t-voice) plays only notes of the home triad (root, third, fifth) in response to where the melody is [51](https://en.wikipedia.org/wiki/Maqam)[54](https://www.maqamworld.com/en/maqam/saba.php)[56](https://en.wikipedia.org/wiki/Arabic_maqam). For a solo wind player, both "voices" must be realized in the single melody line—but you can alternate between notes of the scale (m-voice moments) and notes of the triad (t-voice moments) within the same phrase.
+**Two-voice principle**: Pärt's tintinnabuli works have two voices working simultaneously. The *melody voice* (m-voice) moves stepwise through the notes of a chosen scale—simple steps, like a voice speaking. The *tintinnabuli voice* (t-voice) plays only notes of the home triad (root, third, fifth) in response to where the melody is[⁽⁵¹⁾](https://en.wikipedia.org/wiki/Maqam)[⁽⁵⁴⁾](https://www.maqamworld.com/en/maqam/saba.php)[⁽⁵⁶⁾](https://en.wikipedia.org/wiki/Arabic_maqam). For a solo wind player, both "voices" must be realized in the single melody line—but you can alternate between notes of the scale (m-voice moments) and notes of the triad (t-voice moments) within the same phrase.
 
-**The m-voice and t-voice are unified**: Pärt himself said: "tintinnabuli is the rule where the melody and the accompaniment is one. One and one, it is one – it is not two. This is the secret of this technique." [52](https://www.maqamworld.com/en/maqam.php)
+**The m-voice and t-voice are unified**: Pärt himself said: "tintinnabuli is the rule where the melody and the accompaniment is one. One and one, it is one – it is not two. This is the secret of this technique."[⁽⁵²⁾](https://www.maqamworld.com/en/maqam.php)
 
-**Simplicity and restriction**: the less material, the more powerful each note. Pärt deliberately restricts himself to a single mode, a single triad, and stepwise motion [54](https://www.maqamworld.com/en/maqam/saba.php)[60]. The restriction is not a limitation—it is what creates the sense of inevitability and depth.
+**Simplicity and restriction**: the less material, the more powerful each note. Pärt deliberately restricts himself to a single mode, a single triad, and stepwise motion[⁽⁵⁴⁾](https://www.maqamworld.com/en/maqam/saba.php)[⁽⁶⁰⁾]. The restriction is not a limitation—it is what creates the sense of inevitability and depth.
 
-**Silence as structure**: Pärt uses silence not as emptiness but as a structural element equal to sound [59]. Each phrase is complete; then silence holds the resonance; then the next phrase begins. The silence is not a gap—it is the space in which the previous phrase continues to sound in the listener's mind.
+**Silence as structure**: Pärt uses silence not as emptiness but as a structural element equal to sound[⁽⁵⁹⁾]. Each phrase is complete; then silence holds the resonance; then the next phrase begins. The silence is not a gap—it is the space in which the previous phrase continues to sound in the listener's mind.
 
-**Slow, meditative tempo**: tintinnabuli works often have a slow and meditative tempo, and a minimalist approach to both notation and performance [52](https://www.maqamworld.com/en/maqam.php). The music creates a sense of time slowing—which aligns with the neuroscience of alpha brainwave induction at slow tempos (see section 09-brain-biology-psychology.md).
+**Slow, meditative tempo**: tintinnabuli works often have a slow and meditative tempo, and a minimalist approach to both notation and performance[⁽⁵²⁾](https://www.maqamworld.com/en/maqam.php). The music creates a sense of time slowing—which aligns with the neuroscience of alpha brainwave induction at slow tempos *(see [The Biology and Psychology of Music on the Brain](brain-biology-psychology.md)).*
 
-**Spiritual and emotional depth through economy**: the works often move listeners to tears despite (because of) their simplicity. Each note is necessary; nothing is decorative; the gravity comes from what is absent as much as what is present [59].
+**Spiritual and emotional depth through economy**: the works often move listeners to tears despite (because of) their simplicity. Each note is necessary; nothing is decorative; the gravity comes from what is absent as much as what is present[⁽⁵⁹⁾].
 
 ### What It Sounds Like
 
@@ -220,7 +220,7 @@ Beyond these eras, some useful modern compositional models for these specific in
 
 ### The Irish Slow Air Tradition (20th–21st century)
 
-Modern low whistle players like Davy Spillane and Michael McGoldrick [41](https://en.wikipedia.org/wiki/Low_whistle) represent a fusion of the Irish air tradition (ornamental, breath-shaped, deeply personal) with contemporary production. Their approach to modal melody—a single long line that pauses, breathes, ornaments, and resumes—is essentially what this entire guide describes. Study: play an established Irish modal air from memory, then gradually replace notes with your own, keeping the ornamental vocabulary (rolls, cuts, slides) intact. When the original notes are completely replaced, you have composed in this tradition.
+Modern low whistle players like Davy Spillane and Michael McGoldrick[⁽⁴¹⁾](https://en.wikipedia.org/wiki/Low_whistle) represent a fusion of the Irish air tradition (ornamental, breath-shaped, deeply personal) with contemporary production. Their approach to modal melody—a single long line that pauses, breathes, ornaments, and resumes—is essentially what this entire guide describes. Study: play an established Irish modal air from memory, then gradually replace notes with your own, keeping the ornamental vocabulary (rolls, cuts, slides) intact. When the original notes are completely replaced, you have composed in this tradition.
 
 ### Balkan Folk Approach (kaval tradition)
 
@@ -228,7 +228,7 @@ Balkan folk melody operates through *characteristic cells*—short, 2–4 note p
 
 ### Native American Flute Tradition
 
-The NAF tradition resists notation and rule-based composition because it is fundamentally improvisational and spiritual [34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/). The closest "style exercise" is to: choose an object or place in the natural world that moves you (a particular tree, a storm, a body of water), sit outdoors with the flute, and play *to that thing*. Record without editing. Listen back and note which moments felt most honest. Play again, trying to return to those moments. This is the tradition's approach to composition: not rules, but repeated authentic return.
+The NAF tradition resists notation and rule-based composition because it is fundamentally improvisational and spiritual[⁽³⁴⁾](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/). The closest "style exercise" is to: choose an object or place in the natural world that moves you (a particular tree, a storm, a body of water), sit outdoors with the flute, and play *to that thing*. Record without editing. Listen back and note which moments felt most honest. Play again, trying to return to those moments. This is the tradition's approach to composition: not rules, but repeated authentic return.
 
 ---
 
@@ -312,7 +312,7 @@ The NAF tradition resists notation and rule-based composition because it is fund
 
 ---
 
-## Updated Summary: What Each Tradition Teaches
+## Summary: What Each Tradition Teaches
 
 | Composer / Tradition | Core lesson | Apply to any mode by... |
 |---------------------|-------------|------------------------|
@@ -330,5 +330,3 @@ The NAF tradition resists notation and rule-based composition because it is fund
 | Irish air tradition | Breath as structure; ornamentation as grammar | Shaping the phrase around the breath; letting ornaments do emotional work |
 | Balkan / kaval | Characteristic cell as identity | Building from one 2–3 note cell and transforming it |
 | NAF tradition | Authenticity over theory | Playing to something real in the world and finding the music in the response |
-
-

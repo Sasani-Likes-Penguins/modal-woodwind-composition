@@ -1,24 +1,24 @@
 # Reference: Making Music Sound Human, Not Mechanical
 
-*Covers dimension 5. See ../citations.md for source details.*
+*See[citations](../citations.md) for source details.*
 
 ---
 
 
 ## Table of Contents
 
-1. [The Central Problem](#the-central-problem)
-2. [1. Breath as the Structure of Phrases](#1-breath-as-the-structure-of-phrases)
-3. [2. Shape Every Phrase Like a Wave](#2-shape-every-phrase-like-a-wave)
-4. [3. Play With Time (Rubato)](#3-play-with-time-rubato)
-5. [4. Articulation: How Notes Begin and Connect](#4-articulation-how-notes-begin-and-connect)
-6. [5. Sing It First](#5-sing-it-first)
-7. [6. Register as Emotional Color](#6-register-as-emotional-color)
-8. [Further Reading and Related Topics](#gaps-and-limitations)
+1.[The Central Problem](#the-central-problem)
+2.[1. Breath as the Structure of Phrases](#1-breath-as-the-structure-of-phrases)
+3.[2. Shape Every Phrase Like a Wave](#2-shape-every-phrase-like-a-wave)
+4.[3. Play With Time (Rubato)](#3-play-with-time-rubato)
+5.[4. Articulation: How Notes Begin and Connect](#4-articulation-how-notes-begin-and-connect)
+6.[5. Sing It First](#5-sing-it-first)
+7.[6. Register as Emotional Color](#6-register-as-emotional-color)
+8.[Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ## The Central Problem
 
-Mechanical playing is playing that executes notes correctly but communicates nothing. It sounds like a metronome with pitch. The solution is not more technical practice—it is the consistent application of breath, shape, dynamic intention, and rhythmic freedom to every note and every silence [24](https://www.musicalinstrumenthub.com/archives/22288).
+Mechanical playing is playing that executes notes correctly but communicates nothing. It sounds like a metronome with pitch. The solution is not more technical practice—it is the consistent application of breath, shape, dynamic intention, and rhythmic freedom to every note and every silence[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288).
 
 Think of it this way: every note is a word in a sentence. You can read a sentence out loud correctly—hitting every word—while communicating nothing, because you didn't stress the right words, didn't pause in the right places, didn't let the meaning change your voice. Or you can read the same sentence so that the listener feels what it means. That difference is the difference between mechanical and expressive playing.
 
@@ -26,9 +26,9 @@ Think of it this way: every note is a word in a sentence. You can read a sentenc
 
 ## 1. Breath as the Structure of Phrases
 
-**The breath is where the sentence ends.** For wind instruments, where you breathe determines where the musical thought ends and the next one begins. This isn't a physical limitation—it's the structure of spoken language itself [24](https://www.musicalinstrumenthub.com/archives/22288)[26](https://www.musicalinstrumenthub.com/archives/21844):
+**The breath is where the sentence ends.** For wind instruments, where you breathe determines where the musical thought ends and the next one begins. This isn't a physical limitation—it's the structure of spoken language itself[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288)[⁽²⁶⁾](https://www.musicalinstrumenthub.com/archives/21844):
 
-> "Phrasing often mirrors human speech, with breaths marking phrase boundaries." [24](https://www.musicalinstrumenthub.com/archives/22288)
+> "Phrasing often mirrors human speech, with breaths marking phrase boundaries."[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288)
 
 **Choosing where to breathe** is a compositional decision:
 
@@ -38,17 +38,17 @@ Think of it this way: every note is a word in a sentence. You can read a sentenc
 
 **For each instrument**:
 - *Recorder*: breath management is conventional; breath support shapes phrase intensity
-- *NAF*: breath is spiritual in the NAF tradition—it's part of the music, not a gap in it [34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/)
-- *Bawu*: the free reed continues sounding as long as air flows; breathing at phrase boundaries (rather than mid-phrase) is essential for "dramatic expressiveness" [38](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html)
+- *NAF*: breath is spiritual in the NAF tradition—it's part of the music, not a gap in it[34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/)
+- *Bawu*: the free reed continues sounding as long as air flows; breathing at phrase boundaries (rather than mid-phrase) is essential for "dramatic expressiveness"[⁽³⁸⁾](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html)
 - *Irish whistle*: breathing between ornamental groups naturally
-- *Kaval*: circular breathing is idiomatic in the Balkan kaval tradition and allows continuous unbroken phrases; knowing when *not* to use it—when to let the breath be heard as a phrase boundary—is equally important
+- *Kaval*: [circular breathing](../glossary.md#circular-breathing) is idiomatic in the Balkan kaval tradition and allows continuous unbroken phrases; knowing when *not* to use it—when to let the breath be heard as a phrase boundary—is equally important
 - *All wind instruments*: [circular breathing](../glossary.md#circular-breathing) (inhaling through the nose while pushing stored air out through the cheeks) is physically possible on recorder, bawu, kaval, NAF, and whistle. It requires significant practice to develop. It is most idiomatic in Middle Eastern, Balkan, and Indian traditions; less common in Western Baroque and Celtic styles, where audible breaths are part of the musical phrasing. Its value is not constant unbroken sound—it is the *option* to sustain when the music demands it.
 
 ---
 
 ## 2. Shape Every Phrase Like a Wave
 
-Every phrase should have a shape—louder and more intense toward its peak, softer at the beginning and end [24](https://www.musicalinstrumenthub.com/archives/22288). This mirrors the natural contour of human speech: we naturally emphasize the most important word by making it louder and slightly longer.
+Every phrase should have a shape—louder and more intense toward its peak, softer at the beginning and end[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288). This mirrors the natural contour of human speech: we naturally emphasize the most important word by making it louder and slightly longer.
 
 **Three levels of this principle**:
 
@@ -62,7 +62,7 @@ Every phrase should have a shape—louder and more intense toward its peak, soft
 
 ## 3. Play With Time (Rubato)
 
-*Rubato* is Italian for "stolen time." It describes the expressive freedom to stretch some notes slightly longer than written and compress others slightly shorter—not randomly, but in response to the emotional content [24](https://www.musicalinstrumenthub.com/archives/22288).
+*Rubato* is Italian for "stolen time." It describes the expressive freedom to stretch some notes slightly longer than written and compress others slightly shorter—not randomly, but in response to the emotional content[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288).
 
 **Specific uses of rubato**:
 
@@ -79,7 +79,7 @@ Every phrase should have a shape—louder and more intense toward its peak, soft
 
 ## 4. Articulation: How Notes Begin and Connect
 
-**Articulation** describes how notes are initiated and connected to each other—the "grammar" of musical speech [27](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/):
+**Articulation** describes how notes are initiated and connected to each other—the "grammar" of musical speech[⁽²⁷⁾](https://www.vaia.com/en-us/explanations/music/musical-performance/woodwind-techniques/):
 
 - **Legato** (smooth and connected): notes breathe into each other; the most vocal, singing quality
 - **Staccato** (short and separated): clarity, energy, sometimes a dance-like quality
@@ -89,9 +89,9 @@ Every phrase should have a shape—louder and more intense toward its peak, soft
 
 **By instrument**:
 
-*Irish whistle*: the primary mode of articulation in traditional Irish playing is **not tonguing** (stopping and restarting the airflow with the tongue) but rather **ornamental interruption**—briefly lifting or touching a finger to create a micro-break between notes. Cuts, taps, and rolls are not decoration; they are how notes are separated [39](https://en.wikipedia.org/wiki/Tin_whistle). The whistle's "legato with ornamental breaks" produces a completely different texture from recorder or classical flute.
+*Irish whistle*: the primary mode of articulation in traditional Irish playing is **not tonguing** (stopping and restarting the airflow with the tongue) but rather **ornamental interruption**—briefly lifting or touching a finger to create a micro-break between notes. Cuts, taps, and rolls are not decoration; they are how notes are separated[⁽³⁹⁾](https://en.wikipedia.org/wiki/Tin_whistle). The whistle's "legato with ornamental breaks" produces a completely different texture from recorder or classical flute.
 
-*Bawu*: the bawu's continuous airflow (the free reed sounds as long as air flows) makes smooth legato its natural state. Ornamentation—bends, trills, turns—provides articulation within that legato surface [37](https://organology.net/instrument/bawu/)[38](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html).
+*Bawu*: the bawu's continuous airflow (the free reed sounds as long as air flows) makes smooth legato its natural state. Ornamentation—bends, trills, turns—provides articulation within that legato surface[37](https://organology.net/instrument/bawu/)[⁽³⁸⁾](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html).
 
 *Recorder*: tonguing ("tu," "du," or "lu" syllables, imagined or barely audible) is the primary articulation tool. Baroque articulation patterns ("ti-ri-ti-ri") shape the energy of fast passages; slower passages use a gentle tongued attack for each note, giving each note weight.
 
@@ -111,7 +111,7 @@ Singing reveals:
 - What the dynamic arc is (you instinctively sing louder on the important notes)
 - Whether the phrase has a coherent shape or is a collection of individual notes
 
-> "If you can sing a phrase musically, you can usually play it musically." [24](https://www.musicalinstrumenthub.com/archives/22288)
+> "If you can sing a phrase musically, you can usually play it musically."[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288)
 
 For Phrygian: sing the one-up note with the emotional weight it deserves—not as a passing moment but as an expressive event. Feel its tension. Feel the desire to resolve it. That feeling, transferred to the instrument, is what expressive playing sounds like.
 
@@ -119,7 +119,7 @@ For Phrygian: sing the one-up note with the emotional weight it deserves—not a
 
 ## 6. Register as Emotional Color
 
-Each part of an instrument's range has a different character [25](https://tamingthesaxophone.com/theory/arranging/composition-woodwind)[26](https://www.musicalinstrumenthub.com/archives/21844):
+Each part of an instrument's range has a different character[⁽²⁵⁾](https://tamingthesaxophone.com/theory/arranging/composition-woodwind)[⁽²⁶⁾](https://www.musicalinstrumenthub.com/archives/21844):
 
 | Instrument | Low range | Middle range | High range |
 |-----------|-----------|-------------|-----------|
@@ -171,7 +171,7 @@ A phrase of four notes followed by four beats of silence communicates more than 
 
 **The practice**: record yourself playing. Listen back and locate every moment you filled silence with sound unnecessarily. On the next take, stop at each of those moments instead of continuing. Trust what happens.
 
-See [Brain Biology and Psychology](brain-biology-psychology.md) for the neurological basis of why silence is heard rather than simply absent.
+*See[Brain Biology and Psychology](brain-biology-psychology.md) for the neurological basis of why silence is heard rather than simply absent.*
 
 ---
 

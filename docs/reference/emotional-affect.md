@@ -1,38 +1,38 @@
 # Reference: Mapping Emotions to Music
 
-*Covers dimension 2 (emotional affect). See ../citations.md for source details.*
+*See[citations](../citations.md) for source details.*
 
 ---
 
 
 ## Table of Contents
 
-1. [How Intervals Carry Emotion](#how-intervals-carry-emotion)
-2. [Matching Mood to Technique](#matching-mood-to-technique)
-3. [Volume as Emotion](#volume-as-emotion)
-4. [Rhythm as Emotion](#rhythm-as-emotion)
-5. [Further Reading and Related Topics](#gaps-and-limitations)
+1.[How Intervals Carry Emotion](#how-intervals-carry-emotion)
+2.[Matching Mood to Technique](#matching-mood-to-technique)
+3.[Volume as Emotion](#volume-as-emotion)
+4.[Rhythm as Emotion](#rhythm-as-emotion)
+5.[Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ## How Intervals Carry Emotion
 
 An **interval** is the distance between two notes—the gap between them when you play one after the other, or together. These gaps carry emotional meaning. Some of that meaning is cultural; some of it appears to be biological.
 
-The most relevant finding for Phrygian and Locrian: the **half-step interval** (the closest two notes can be in Western music) appears more often in human infant crying than any other interval [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). This suggests that our emotional reaction to half-step tension—the feeling of something pressing, unresolved, leaning—may be built into us from birth, not learned from music.
+The most relevant finding for Phrygian and Locrian: the **half-step interval** (the closest two notes can be in Western music) appears more often in human infant crying than any other interval[⁽¹⁰⁾](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/). This suggests that our emotional reaction to half-step tension—the feeling of something pressing, unresolved, leaning—may be built into us from birth, not learned from music.
 
 ### A Map of Intervals and Their Emotional Tendencies
 
-These are tendencies, not rules. The emotional character of an interval shifts based on tempo, volume, register, and context. But these associations hold broadly across Western and Near Eastern musical traditions [9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain)[14](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html):
+These are tendencies, not rules. The emotional character of an interval shifts based on tempo, volume, register, and context. But these associations hold broadly across Western and Near Eastern musical traditions[⁽⁹⁾](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain)[14](https://fastercapital.com/topics/the-role-of-melodic-intervals-in-music-composition.html):
 
 | Interval (distance between notes) | What it tends to feel like |
 |----------------------------------|---------------------------|
-| Half step (one piano key apart) | Suspense, darkness, yearning, grief, dread—the "Jaws theme" sensation [9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain) |
+| Half step (one piano key apart) | Suspense, darkness, yearning, grief, dread—the "Jaws theme" sensation[⁽⁹⁾](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain) |
 | Whole step (two keys apart) | Neutral; forward-moving energy |
 | Three half-steps (a "minor third") | Melancholy, sadness, tender introspection |
 | Four half-steps (a "major third") | Happiness, brightness, hope |
 | Five half-steps (a "perfect fourth") | Stability, openness, a place to rest |
-| Six half-steps (a "tritone") | Danger, wickedness, disorientation—the devil's interval [12](https://musiversal.com/blog/learn-dark-chord-progressions)[13](https://www.ethanhein.com/wp/2010/the-mystical-tritone/) |
+| Six half-steps (a "tritone") | Danger, wickedness, disorientation—the devil's interval[⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions)[13](https://www.ethanhein.com/wp/2010/the-mystical-tritone/) |
 | Seven half-steps (a "perfect fifth") | Strength, home, power |
-| Eight half-steps (a "minor sixth") | Anguish, sadness [9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain) |
+| Eight half-steps (a "minor sixth") | Anguish, sadness[⁽⁹⁾](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain) |
 | Ten half-steps (a "minor seventh") | Mystery, the unknown |
 | Eleven half-steps (a "major seventh") | Aspiration, intense longing |
 
@@ -46,7 +46,7 @@ These are tendencies, not rules. The emotional character of an interval shifts b
 
 ### Grief and Longing
 
-The most grief-laden gestures in Phrygian [9](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain)[24](https://www.musicalinstrumenthub.com/archives/22288):
+The most grief-laden gestures in Phrygian[⁽⁹⁾](https://gravitysound.studio/blogs/news/how-interval-music-theory-can-trick-your-brain)[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288):
 
 - **The falling half-step**: the one-up note stepping down to home (F → E, or E♭ → D). This is the "sigh"—the most direct expression of yearning. Use it on stressed beats, with the one-up note held slightly longer than written, then resolved.
 - **Descending melody overall**: falling lines feel like descent, loss, heaviness. A melody that consistently moves downward—even while ornamental notes reach upward briefly—expresses grief through its overall direction.
@@ -55,14 +55,14 @@ The most grief-laden gestures in Phrygian [9](https://gravitysound.studio/blogs/
 
 ### Dread and Suspense
 
-- **Emphasize the tritone** (in Locrian): leap from home to the shrunken fifth, or let the melody arrive there unexpectedly. The six-half-step gap creates immediate unease [12](https://musiversal.com/blog/learn-dark-chord-progressions).
+- **Emphasize the tritone** (in Locrian): leap from home to the shrunken fifth, or let the melody arrive there unexpectedly. The six-half-step gap creates immediate unease[⁽¹²⁾](https://musiversal.com/blog/learn-dark-chord-progressions).
 - **Hold a tense note in silence**: stop after the one-up note or the tritone, before resolving. Let the listener sit with the unresolved tension.
 - **Sudden soft after loud**: the unexpected quiet is more frightening than sustained loudness.
 - **Very slow, irregular rhythm**: uneven spacing between notes creates the feeling of something unpredictable approaching.
 
 ### Mystery and Ancient Distance
 
-- **Move by steps with no strong arrivals**: avoid the strong downbeats and obvious phrase endings that signal "I'm home now." Let the melody float [8](https://www.musical-u.com/learn/the-many-moods-of-musical-modes/)[22](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5).
+- **Move by steps with no strong arrivals**: avoid the strong downbeats and obvious phrase endings that signal "I'm home now." Let the melody float[8](https://www.musical-u.com/learn/the-many-moods-of-musical-modes/)[⁽²²⁾](https://oboe.com/learn/exploring-modal-music-ygy3dr/analyzing-modal-music-across-genres-5).
 - **Use the one-up note gently**: a quiet, briefly touched one-up note that resolves softly reads as mysterious rather than anguished. The mode's character is present but not overwhelming.
 - **Middle register**: the middle range of most instruments is the most "distant"—neither the intimacy of the low range nor the urgency of the high range.
 
@@ -75,7 +75,7 @@ The most grief-laden gestures in Phrygian [9](https://gravitysound.studio/blogs/
 
 ### Bittersweet Beauty
 
-Phrygian is not only dark. It can be genuinely tender and beautiful [20](https://musictales.club/article/phrygian-mode-classic-examples-phrygian-diatonic-scale-through-music-eras)[98](https://en.wikipedia.org/wiki/Quarter_tone). The technique:
+Phrygian is not only dark. It can be genuinely tender and beautiful[⁽²⁰⁾](https://musictales.club/article/phrygian-mode-classic-examples-phrygian-diatonic-scale-through-music-eras)[⁽⁹⁸⁾](https://en.wikipedia.org/wiki/Quarter_tone). The technique:
 
 - **Put the one-up note on an unaccented beat**: it colors the phrase without dominating it. The darkness is present but not the whole story.
 - **Peak on the seventh-step note** (e.g., D in E Phrygian): this note—high, yearning, not quite home—is where the phrase's emotional weight falls. Let it be the loudest moment, then descend back to quiet.
@@ -86,7 +86,7 @@ Phrygian is not only dark. It can be genuinely tender and beautiful [20](https:/
 
 ## Volume as Emotion
 
-The dynamic shape of a phrase—how loud and soft it gets, and when—is not decoration. It *is* the emotional content. A perfectly pitched Phrygian melody played at a mechanical, unchanging volume will communicate almost nothing. The same notes with intention communicate everything [24](https://www.musicalinstrumenthub.com/archives/22288).
+The dynamic shape of a phrase—how loud and soft it gets, and when—is not decoration. It *is* the emotional content. A perfectly pitched Phrygian melody played at a mechanical, unchanging volume will communicate almost nothing. The same notes with intention communicate everything[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288).
 
 **The core principle**: phrases should have a shape, like waves, not flat lines.
 
@@ -105,7 +105,7 @@ The dynamic shape of a phrase—how loud and soft it gets, and when—is not dec
 
 ## Rhythm as Emotion
 
-How notes are distributed in time shapes emotional character as much as which notes are chosen [17](https://tafelmusik.org/explore-baroque/baroque-101/):
+How notes are distributed in time shapes emotional character as much as which notes are chosen[17](https://tafelmusik.org/explore-baroque/baroque-101/):
 
 | Rhythmic quality | Emotional effect |
 |-----------------|-----------------|
@@ -114,7 +114,7 @@ How notes are distributed in time shapes emotional character as much as which no
 | Sudden faster passage in a slow context | Urgency, panic, ecstatic release |
 | Very long sustained tones | Power, endurance, something immovable |
 | Notes pushed off the expected beat | Tension, energy, forward momentum |
-| Flexible time (speeding up and slowing down in response to feeling) | Deeply personal expression; the human body audible in the music [24](https://www.musicalinstrumenthub.com/archives/22288) |
+| Flexible time (speeding up and slowing down in response to feeling) | Deeply personal expression; the human body audible in the music[⁽²⁴⁾](https://www.musicalinstrumenthub.com/archives/22288) |
 
 **Key insight**: an irregular rhythm in Phrygian amplifies the mode's inherent tension. An irregular rhythm in Locrian can feel genuinely disturbing. A steady, regular rhythm in Phrygian *grounds* the mode—the one-up note feels exotic and beautiful rather than destabilizing.
 
@@ -123,7 +123,7 @@ How notes are distributed in time shapes emotional character as much as which no
 ## Further Reading and Related Topics
 
 - Emotional responses to intervals are shaped by culture and personal history. The tendencies listed here reflect primarily Western and Near Eastern frameworks. Players of kaval and NAF whose audiences come from different backgrounds may find different emotional associations.
-- The research on minor-second intervals and infant crying [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/) covers population-level statistical tendencies—individual responses vary considerably.
+- The research on minor-second intervals and infant crying[⁽¹⁰⁾](https://pmc.ncbi.nlm.nih.gov/articles/PMC9019334/) covers population-level statistical tendencies—individual responses vary considerably.
 
 ---
 
@@ -133,20 +133,20 @@ The interval table above focuses on Western intervals in isolation. Here is how 
 
 | Scale / Mode | Most emotionally charged note | Interval from tonic | Primary emotional quality |
 |-------------|------------------------------|--------------------|--------------------------| 
-| [Phrygian](mode-phrygian.md) | ♭2 (e.g. F in E Phrygian) | Half-step above | Ancient pressing, grief, longing |
-| [Locrian](mode-locrian.md) | ♭5 (tritone) | Six half-steps | Perpetual unease, no resolution |
-| [Dorian](mode-dorian.md) | 6 (raised sixth) | Nine half-steps | Resilience within darkness; the lift |
-| [Lydian](mode-lydian.md) | ♯4 (raised fourth) | Six half-steps (tritone above) | Wonder, floating, suspension |
-| [Mixolydian](mode-mixolydian.md) | ♭7 (flat seventh) | Ten half-steps | Openness, unresolved brightness |
-| [Aeolian](mode-aeolian.md) | ♭6 (minor sixth) | Eight half-steps | Anguish, resigned sadness |
-| [Ionian](mode-ionian.md) | 7 (leading tone) | Eleven half-steps | Urgency toward resolution; arrival |
-| [Harmonic Minor](scale-harmonic-minor.md) | Augmented 2nd (♭6→7) | One-and-a-half steps | Exotic drama; inevitable resolution |
-| [Double Harmonic](scale-double-harmonic.md) | Both augmented 2nds | 1½ steps (×2) | Ancient, fierce, sacred intensity |
-| [Spanish Heptatonic](scale-spanish-heptatonic.md) | ♭2 + augmented 2nd leap | Half-step + 1½ step | Fire within darkness; fierce yearning |
-| [Lydian Dominant](scale-lydian-dominant.md) | ♯4 + ♭7 together | Tritone + 10 half-steps | Suspended awe; cinematic vastness |
-| [Whole-Tone](scale-whole-tone.md) | No single characteristic note | All whole steps | Complete ambiguity; no gravity |
-| [Blues (minor)](scale-blues.md) | ♭5 (blue note) | Six half-steps (passing) | Yearning, searching, bittersweet ache |
-| [Prometheus](scale-prometheus.md) | ♯4 (+ absent ♭5) | Tritone (no fifth) | Cosmic suspension; spiritual hovering |
+|[Phrygian](mode-phrygian.md) | ♭2 (e.g. F in E Phrygian) | Half-step above | Ancient pressing, grief, longing |
+|[Locrian](mode-locrian.md) | ♭5 (tritone) | Six half-steps | Perpetual unease, no resolution |
+|[Dorian](mode-dorian.md) | 6 (raised sixth) | Nine half-steps | Resilience within darkness; the lift |
+|[Lydian](mode-lydian.md) | ♯4 (raised fourth) | Six half-steps (tritone above) | Wonder, floating, suspension |
+|[Mixolydian](mode-mixolydian.md) | ♭7 (flat seventh) | Ten half-steps | Openness, unresolved brightness |
+|[Aeolian](mode-aeolian.md) | ♭6 (minor sixth) | Eight half-steps | Anguish, resigned sadness |
+|[Ionian](mode-ionian.md) | 7 (leading tone) | Eleven half-steps | Urgency toward resolution; arrival |
+|[Harmonic Minor](scale-harmonic-minor.md) | Augmented 2nd (♭6→7) | One-and-a-half steps | Exotic drama; inevitable resolution |
+|[Double Harmonic](scale-double-harmonic.md) | Both augmented 2nds | 1½ steps (×2) | Ancient, fierce, sacred intensity |
+|[Spanish Heptatonic](scale-spanish-heptatonic.md) | ♭2 + augmented 2nd leap | Half-step + 1½ step | Fire within darkness; fierce yearning |
+|[Lydian Dominant](scale-lydian-dominant.md) | ♯4 + ♭7 together | Tritone + 10 half-steps | Suspended awe; cinematic vastness |
+|[Whole-Tone](scale-whole-tone.md) | No single characteristic note | All whole steps | Complete ambiguity; no gravity |
+|[Blues (minor)](scale-blues.md) | ♭5 (blue note) | Six half-steps (passing) | Yearning, searching, bittersweet ache |
+|[Prometheus](scale-prometheus.md) | ♯4 (+ absent ♭5) | Tritone (no fifth) | Cosmic suspension; spiritual hovering |
 
 ---
 
@@ -174,7 +174,7 @@ Context transforms interval meaning. The same pitch can be the "dark" note in on
 
 The most underused emotional tool in solo wind playing is silence—the gap between notes where no sound occurs. Silence is not the absence of music; it is the music continuing in the listener's nervous system.
 
-From a neurological standpoint (see [Brain Biology and Psychology](brain-biology-psychology.md) for detail): when the brain has established a musical pattern and a note fails to arrive—when silence falls where sound was expected—the auditory cortex generates a measurable electrical response. The listener is *actively hearing* the missing note. The emotional content of the phrase hangs in the silence, often more intensely than it did when the notes were sounding.
+From a neurological standpoint (see[Brain Biology and Psychology](brain-biology-psychology.md) for detail): when the brain has established a musical pattern and a note fails to arrive—when silence falls where sound was expected—the auditory cortex generates a measurable electrical response. The listener is *actively hearing* the missing note. The emotional content of the phrase hangs in the silence, often more intensely than it did when the notes were sounding.
 
 Every tradition in this repository uses silence as emotional content:
 - Baroque: the *suspiratio* (sigh figure)—a note, then rest, then continuation

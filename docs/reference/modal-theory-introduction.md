@@ -2,6 +2,8 @@
 
 *Foundation reference. See [Glossary](../glossary.md) for definitions of unfamiliar terms. See [Citations](../citations.md) for sources.*
 
+*See [citations](../citations.md) for source details.*
+
 ---
 
 ## Table of Contents
@@ -194,18 +196,6 @@ The full treatment of microtonal systems is in [Microtonal Notation and Theory](
 
 ---
 
-## Further Reading
-
-- [Phrygian Mode](mode-phrygian.md)—the mode most central to this repository's origins
-- [Locrian Mode](mode-locrian.md)—the mode of perpetual unease
-- [Emotional Affect](emotional-affect.md)—how intervals affect the brain and body
-- [Brain Biology and Psychology](brain-biology-psychology.md)—the neuroscience of musical emotion
-- [Microtonal Notation and Theory](microtonal-notation-and-theory.md)—notes between the notes
-- [Ornamentation Guide](ornamentation-guide.md)—the emotional vocabulary of ornaments across traditions
-- [Full Composition Guide](../full-guide.md)—how to apply modal theory in practice
-
----
-
 ## Composing with Modal Theory: From Concept to Music
 
 ### The Most Important Thing Modal Theory Teaches Composers
@@ -278,3 +268,15 @@ Write a composition that uses exactly one mode, exactly one seed phrase, and exa
 This constraint—one mode, one phrase, one ornament—produces music of surprising depth because all creative energy is directed toward a single thing rather than spread across many. Scarcity of means forces richness of expression.
 
 When this exercise feels natural and the constraint feels comfortable rather than limiting, add a second ornament. Then consider a second phrase. The discipline of one thing at a time is the most effective path to genuine compositional fluency.
+
+---
+
+## Further Reading
+
+- [Phrygian Mode](mode-phrygian.md): the mode most central to this repository's origins
+- [Locrian Mode](mode-locrian.md): the mode of perpetual unease
+- [Emotional Affect](emotional-affect.md): how intervals affect the brain and body
+- [Brain Biology and Psychology](brain-biology-psychology.md): the neuroscience of musical emotion
+- [Microtonal Notation and Theory](microtonal-notation-and-theory.md): notes between the notes
+- [Ornamentation Guide](ornamentation-guide.md): the emotional vocabulary of ornaments across traditions
+- [Full Composition Guide](../full-guide.md): how to apply modal theory in practice

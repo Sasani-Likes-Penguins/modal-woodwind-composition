@@ -1,18 +1,18 @@
 # Reference: Instrument Capabilities
 
-*Covers dimension 7. See ../citations.md for source details.*
+*See[citations](../citations.md) for source details.*
 
 ---
 
 
 ## Table of Contents
 
-1. [1. Alto and Tenor Recorder](#1-alto-and-tenor-recorder)
-2. [2. Native American Flute—F♯ Minor, A Minor, and B♭ Minor](#2-native-american-flutef-minor-a-minor-and-b-minor)
-3. [3. Bawu—Range C4 to D5](#3-bawurange-c4-to-d5)
-4. [4. Irish Whistles—Low D and Low G](#4-irish-whistleslow-d-and-low-g)
-5. [5. Moldavian Kaval in D](#5-moldavian-kaval-in-d)
-6. [Further Reading and Related Topics](#gaps-and-limitations)
+1.[1. Alto and Tenor Recorder](#1-alto-and-tenor-recorder)
+2.[2. Native American Flute—F♯ Minor, A Minor, and B♭ Minor](#2-native-american-flutef-minor-a-minor-and-b-minor)
+3.[3. Bawu—Range C4 to D5](#3-bawurange-c4-to-d5)
+4.[4. Irish Whistles—Low D and Low G](#4-irish-whistleslow-d-and-low-g)
+5.[5. Moldavian Kaval in D](#5-moldavian-kaval-in-d)
+6.[Further Reading and Related Topics](#further-reading-and-related-topics)
 
 ## 1. Alto and Tenor Recorder
 
@@ -22,14 +22,14 @@
 - Alto recorder (pitched in F): approximately two octaves from F above middle C upward
 - Tenor recorder (pitched in C): approximately two octaves from middle C upward
 
-**How each register sounds** [25](https://tamingthesaxophone.com/theory/arranging/composition-woodwind):
+**How each register sounds**[⁽²⁵⁾](https://tamingthesaxophone.com/theory/arranging/composition-woodwind):
 - Low register: rich, warm, somewhat restrained; good for meditation, intimacy, and gravity
 - Middle register: sweet, clear, and expressive; the most characteristic and beautiful range
 - High register: bright and penetrating; can become ethereal or strained depending on execution
 
-**Phrygian access**: fully chromatic, so any mode in any key is possible. The most natural-feeling Phrygian keys (based on the instrument's historic use) are A Phrygian on the alto recorder and D Phrygian on the tenor recorder [15](https://en.wikipedia.org/wiki/Baroque_music). The one-up note in these keys requires a cross-fingering (a non-standard fingering pattern), which produces a slightly "veiled," subtly different tone [17](https://tafelmusik.org/explore-baroque/baroque-101/). This is expressively useful—the one-up note literally sounds different from the notes around it, reinforcing its emotional distinctiveness.
+**Phrygian access**: fully chromatic, so any mode in any key is possible. The most natural-feeling Phrygian keys (based on the instrument's historic use) are A Phrygian on the alto recorder and D Phrygian on the tenor recorder[⁽¹⁵⁾](https://en.wikipedia.org/wiki/Baroque_music). The one-up note in these keys requires a cross-fingering (a non-standard fingering pattern), which produces a slightly "veiled," subtly different tone[⁽¹⁷⁾](https://tafelmusik.org/explore-baroque/baroque-101/). This is expressively useful—the one-up note literally sounds different from the notes around it, reinforcing its emotional distinctiveness.
 
-**Vibrato**: in Baroque style, vibrato is an occasional ornament—not a constant effect [16](https://fiveable.me/history-music-1600-1750/unit-13). A sustained tone without vibrato, with just a slow dynamic swell, is often more expressive than a tone covered in vibrato.
+**Vibrato**: in Baroque style, vibrato is an occasional ornament—not a constant effect[⁽¹⁶⁾](https://fiveable.me/history-music-1600-1750/unit-13). A sustained tone without vibrato, with just a slow dynamic swell, is often more expressive than a tone covered in vibrato.
 
 **Ornamentation**: trills (rapid alternation with the note above), mordents (quick dip to the note below and back), turns (four-note swirl around the main note), lean notes (*appoggiatura*), and *flattement* (a gentle breath-produced flutter for special expressive moments).
 
@@ -53,13 +53,13 @@
 
 **What this means for Phrygian**: the five-note scale does not include the half-step-above-home note (the note one piano key above the home note) that defines Phrygian. Your options:
 
-1. **Quick ornamental use**: cross-fingering or half-covering a hole can produce the one-up note as a brief grace note—a flash of color that colors the phrase without being a sustained structural note [35](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales).
+1. **Quick ornamental use**: cross-fingering or half-covering a hole can produce the one-up note as a brief grace note—a flash of color that colors the phrase without being a sustained structural note[35](https://atflutes.com/information/learning/native-american-style-flute-pentatonic-scales).
 2. **Phrygian in spirit**: the minor pentatonic is already dark and emotionally aligned with Phrygian. Using breath, dynamic shaping, and phrasing to create the Phrygian *feeling* works even when the exact one-up note isn't available as a sustained pitch.
 3. **Check for a seventh hole**: some NAFs have an additional hole that expands the scale chromatically. If yours does, check whether it gives access to the one-up note.
 
-**Overblowing**: some NAFs can produce notes in a higher range by significantly increasing air pressure. On many instruments this produces an octave-equivalent or partial overblown register, but results vary considerably by instrument maker, bore shape, and individual flute. On most NAFs this is unreliable—the overblown notes may be unstable, inconsistent between instruments, or unavailable altogether. Do not plan compositions around NAF overblowing unless you have confirmed it works on your specific instrument. When available, the overblown tones have a different, more intense character than the primary range—but they should be treated as an occasional expressive note rather than a second register [34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/).
+**Overblowing**: some NAFs can produce notes in a higher range by significantly increasing air pressure. On many instruments this produces an octave-equivalent or partial overblown register, but results vary considerably by instrument maker, bore shape, and individual flute. On most NAFs this is unreliable—the overblown notes may be unstable, inconsistent between instruments, or unavailable altogether. Do not plan compositions around NAF overblowing unless you have confirmed it works on your specific instrument. When available, the overblown tones have a different, more intense character than the primary range—but they should be treated as an occasional expressive note rather than a second register[⁽³⁴⁾](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/).
 
-**Expressive traditions** [34](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/):
+**Expressive traditions**[⁽³⁴⁾](https://nativeamericanmuseum.info/flute-music-of-native-american-traditions/):
 - Improvisation from immediate emotional feeling is the core tradition—there is no "correct" NAF melody, only honest ones
 - Microtonal inflections (notes between the standard pitches) are available through partial hole-covering and are part of the NAF's expressive vocabulary
 - Breath pulsing and vibrato add life to sustained notes
@@ -70,14 +70,14 @@
 
 ## 3. Bawu—Range C4 to D5
 
-**What kind of instrument**: a [free-reed](../glossary.md#free-reed) aerophone—a metal reed sits inside a bamboo tube and vibrates freely when air is blown past it, similar in mechanism to a harmonica or concertina reed. It is held transversely like a flute but sounds through the reed rather than through embouchure shaping. The result is a tone unlike any flute-family instrument: buzzing, harmonically complex, and immediately distinctive [36](https://en.wikipedia.org/wiki/Bawu).
+**What kind of instrument**: a[free-reed](../glossary.md#free-reed) aerophone—a metal reed sits inside a bamboo tube and vibrates freely when air is blown past it, similar in mechanism to a harmonica or concertina reed. It is held transversely like a flute but sounds through the reed rather than through embouchure shaping. The result is a tone unlike any flute-family instrument: buzzing, harmonically complex, and immediately distinctive[36](https://en.wikipedia.org/wiki/Bawu).
 
 **Range and playable notes** (this instrument specifically):
 - Playable range: C4 (middle C) to D5
 - B♭4 and B4 are structurally unstable on this instrument—they tend to speak inconsistently and are generally avoided as sustained notes
 - A3 (the A just below middle C) is available by *underblowing*—reducing air pressure below what the reed normally needs. The resulting tone is very quiet, slightly unfocused, and intimate. This is a single expressive note, not a lower register; it functions as a whispered extension of the instrument's lower end rather than as a different playing zone
 
-**Tone character across the range** [36](https://en.wikipedia.org/wiki/Bawu)[37](https://organology.net/instrument/bawu/):
+**Tone character across the range**[36](https://en.wikipedia.org/wiki/Bawu)[⁽³⁷⁾](https://organology.net/instrument/bawu/):
 The bawu has one primary playing range (C4–D5, minus the unstable B♭4 and B4). Within this range, the tone is not uniform:
 - C4–E4: buzzing, rich in harmonics, somewhat wild—the reed is working harder at lower pitches and the sound has more complexity
 - F4–A4: warmer, more focused, most singing quality—the heart of the instrument's voice
@@ -85,13 +85,13 @@ The bawu has one primary playing range (C4–D5, minus the unstable B♭4 and B4
 
 The bawu does not sound like any standard Western instrument. Describing it as "clarinet-like" or giving it multiple named registers overstates the similarity to other instrument families. Its closest acoustic relative is the harmonica—but playing in a bamboo tube, producing a sound that is simultaneously airy and buzzing, soft and penetrating.
 
-**What makes the bawu expressively unique**: its [free-reed](../glossary.md#free-reed) mechanism allows the player to continuously vary pitch while sustaining a note—bending upward, downward, or oscillating—in a way no standard flute-family instrument can match. This makes the bawu the most capable instrument in this collection for:
-- [Meend](../glossary.md#meend)-style pitch slides between notes (Indian raga approach)
-- [Microtonal](../glossary.md#microtone) inflections of [maqam](../glossary.md#maqam) and [makam](../glossary.md#makam) characteristic notes
+**What makes the bawu expressively unique**: its[free-reed](../glossary.md#free-reed) mechanism allows the player to continuously vary pitch while sustaining a note—bending upward, downward, or oscillating—in a way no standard flute-family instrument can match. This makes the bawu the most capable instrument in this collection for:
+-[Meend](../glossary.md#meend)-style pitch slides between notes (Indian raga approach)
+-[Microtonal](../glossary.md#microtone) inflections of[maqam](../glossary.md#maqam) and[makam](../glossary.md#makam) characteristic notes
 - Blue note bends (blues and jazz scale approach)
 - Sustained vibrato via breath pressure variation
 
-**Ornamentation** [37](https://organology.net/instrument/bawu/)[38](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html): turns, trills, pitch bends, and slides are not decorations added to bawu melody—they are how bawu melody is articulated. See [Ornamentation Guide](ornamentation-guide.md) for the full bawu ornament vocabulary.
+**Ornamentation**[⁽³⁷⁾](https://organology.net/instrument/bawu/)[38](https://folkfluteworld.com/article_ultimate_guide_to_bawu_and_hulusi/the_ultimate_guide_to_bawu_and_hulusi_flutes.html): turns, trills, pitch bends, and slides are not decorations added to bawu melody—they are how bawu melody is articulated. See[Ornamentation Guide](ornamentation-guide.md) for the full bawu ornament vocabulary.
 
 **The underblown A3 in composition**: use this sparingly and with full intent. A phrase that reaches emotional depth and then drops to this whispered note sounds like the music retreating into itself, into silence. Very powerful at phrase endings in grief-affect passages. Not a register to explore—a single note held in reserve.
 
@@ -104,24 +104,24 @@ The bawu does not sound like any standard Western instrument. Describing it as "
 **Low D whistle**:
 - Range: D4 to D6 (two full octaves)
 - Natural scale: D major (D–E–F♯–G–A–B–C♯–D)
-- Most characteristic register: the lower octave—"haunting and delicate" [41](https://en.wikipedia.org/wiki/Low_whistle); the low D whistle was developed specifically to have this quality [41](https://en.wikipedia.org/wiki/Low_whistle)
+- Most characteristic register: the lower octave—"haunting and delicate"[41](https://en.wikipedia.org/wiki/Low_whistle); the low D whistle was developed specifically to have this quality[41](https://en.wikipedia.org/wiki/Low_whistle)
 
 **Low G whistle**:
 - Range: G4 to G6 (two full octaves)
 - Natural scale: G major
 
-**E Phrygian on low D whistle** (most idiomatic Phrygian key): E is the second note of the D whistle's natural scale. Playing a melody centered on E—and treating E as the home note—gives you E Phrygian using only the instrument's natural holes. The one-up note (F) is the very next hole on the instrument; no special fingering required [39](https://en.wikipedia.org/wiki/Tin_whistle). This is the instrument's most idiomatic Phrygian key.
+**E Phrygian on low D whistle** (most idiomatic Phrygian key): E is the second note of the D whistle's natural scale. Playing a melody centered on E—and treating E as the home note—gives you E Phrygian using only the instrument's natural holes. The one-up note (F) is the very next hole on the instrument; no special fingering required[⁽³⁹⁾](https://en.wikipedia.org/wiki/Tin_whistle). This is the instrument's most idiomatic Phrygian key.
 
 **A Phrygian on G whistle** (equally natural): same logic—A is the second note of the G whistle's scale; B♭ (the one-up note) requires one half-hole, easily achieved.
 
-**Ornamentation system** [39](https://en.wikipedia.org/wiki/Tin_whistle):
+**Ornamentation system**[⁽³⁹⁾](https://en.wikipedia.org/wiki/Tin_whistle):
 - **Cut**: a very brief lift of a finger one hole above the current note—creates a tiny upward spike in pitch that articulates the note without stopping the airflow. The primary way of separating notes on the whistle.
 - **Tap/strike**: a very brief touch of a finger one hole below—creates a momentary lower-pitch dip
 - **Roll**: cut followed by tap on the same note—a three-note ornamental figure wrapping around the main note. The whistle's equivalent of a trill.
 - **Cran**: a pattern of cuts used on the lowest note (where a tap isn't possible)
 - **Slide**: slowly lifting or covering a hole rather than doing so instantly—creates a smooth glide in or out of a note; the most vocal, song-like ornament
 
-**Vibrato**: achieved by rapidly opening and closing a hole two or three positions below the note being played [57](https://en.wikipedia.org/wiki/Turkish_makam)—quite different from the breath-vibrato of classical instruments.
+**Vibrato**: achieved by rapidly opening and closing a hole two or three positions below the note being played[⁽⁵⁷⁾](https://en.wikipedia.org/wiki/Turkish_makam)—quite different from the breath-vibrato of classical instruments.
 
 **For Phrygian**: a roll on the one-up note (F on low D, or B♭ on G whistle) creates sustained shimmering tension before resolution. A slide from the one-up note down to the home note is the sigh figure in its most direct form. These gestures require no translation—the instrument and the mode meet naturally.
 
@@ -133,7 +133,7 @@ The bawu does not sound like any standard Western instrument. Describing it as "
 
 **Range**: approximately two octaves from D4 upward, with additional upper extension notes.
 
-**Scale structure**: the Moldavian kaval in D has a built-in scale that includes the half-step intervals that Phrygian requires—the one-up note (E♭) appears naturally in the instrument's tuning [62][63]. This is not an accident; the instrument's Eastern European folk heritage includes scales with these characteristic half-step intervals.
+**Scale structure**: the Moldavian kaval in D has a built-in scale that includes the half-step intervals that Phrygian requires—the one-up note (E♭) appears naturally in the instrument's tuning[⁽⁶²⁾](../citations.md)[⁽⁶³⁾](../citations.md). This is not an accident; the instrument's Eastern European folk heritage includes scales with these characteristic half-step intervals.
 
 **Registers**: the kaval has at least two full playing registers (achieved by increasing breath pressure and adjusting embouchure—how the lips shape around the instrument), plus additional upper extension notes. Moving between registers is a primary expressive resource:
 - Low register: intimate, personal, close—the most private-feeling register
@@ -150,13 +150,6 @@ The back fipple window of the Moldavian kaval allows the player's lower lip to p
 **D Phrygian on kaval**: with the one-up note (E♭) built naturally into the instrument's scale, the kaval in D is perhaps the instrument in this collection most natively suited to Phrygian. The mode is not a theoretical overlay—it's in the instrument's bones.
 
 **Locrian approach on kaval**: the instrument's flexible intonation (pitch can be shifted slightly by adjusting breath and embouchure) allows the shrunken fifth of Locrian (A♭ in D Locrian) to be approached via a slow, gradual slide rather than landed on directly. This makes the arrival at that tense note feel like a discovery—the music exploring inward—rather than an external imposition.
-
----
-
-## Further Reading and Related Topics
-
-- Cross-fingering charts for your specific instruments (especially the bawu and NAF, which vary significantly by maker) are not available from web research. Your instruments may differ from the general descriptions above.
-- The dual-voice technique on the Moldavian kaval is documented here from the player's direct knowledge; English-language written sources on this specific technique are limited.
 
 ---
 
@@ -196,3 +189,10 @@ Every register change is a compositional decision, not just a technical one:
 **Dual-voice (kaval)**: engaging the kaval's dual-voice technique (partial fipple coverage + humming) is a compositional choice that transforms a single-note melody into a two-voice texture. Use it for moments of maximum emotional gravity—particularly effective at phrase climaxes and final arrivals.
 
 **Pitch bending (bawu, kaval, NAF)**: the decision to approach a note by pitch bend rather than clean fingering is a compositional ornament decision. The bent arrival says "I traveled here" rather than "I arrived." Use it for the characteristic note of the mode, for the blue note, for the augmented second leap, for any note that deserves the emotional weight of a journey.
+
+---
+
+## Further Reading and Related Topics
+
+- Cross-fingering charts for your specific instruments (especially the bawu and NAF, which vary significantly by maker) are not available from web research. Your instruments may differ from the general descriptions above.
+- The dual-voice technique on the Moldavian kaval is documented here from the player's direct knowledge; English-language written sources on this specific technique are limited.
